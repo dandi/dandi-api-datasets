@@ -1,0 +1,58 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-0782-5788
+  includeInCitation: 'true'
+  name: Peterson, Steven M.
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-1867-4401
+  includeInCitation: 'true'
+  name: Singh, Satpreet H.
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Wang, Nancy X. R.
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-0682-8952
+  includeInCitation: 'true'
+  name: Rao, Rajesh P. N.
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-4831-3466
+  includeInCitation: 'true'
+  name: Brunton, Bingni W.
+  roleName:
+  - dandi:Author
+description: Motor behaviors are central to many functions and dysfunctions of the
+  brain, and understanding their neural basis has consequently been a major focus
+  in neuroscience. However, most studies of motor behaviors have been restricted to
+  artificial, repetitive paradigms, far removed from natural movements performed “in
+  the wild.” Here, we leveraged recent advances in machine learning and computer vision
+  to analyze intracranial recordings from 12 human subjects during thousands of spontaneous,
+  unstructured arm reach movements, observed over several days for each subject. These
+  naturalistic movements elicited cortical spectral power patterns consistent with
+  findings from controlled paradigms, but with considerable neural variability across
+  subjects and events. We modeled inter-event variability using ten behavioral and
+  environmental features; the most important features explaining this variability
+  were reach angle and day of recording. Our work is among the first studies connecting
+  behavioral and neural variability across cortex in humans during unstructured movements
+  and contributes to our understanding of long-term naturalistic behavior.
+identifier:
+  propertyID: DANDI
+  value: '000055'
+name: Behavioral and Neural Variability of Naturalistic Arm Movements
+relatedResource:
+- relation: dandi:IsDescribedBy
+  url: https://www.biorxiv.org/content/10.1101/2020.04.17.047357v2
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

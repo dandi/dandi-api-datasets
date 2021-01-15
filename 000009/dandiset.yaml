@@ -1,0 +1,62 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-4140-7961
+  includeInCitation: 'true'
+  name: Guo, Zengcai
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-4580-2763
+  includeInCitation: 'true'
+  name: Inagaki, Hidehiko
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Daie, Kayvon
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-0068-3377
+  includeInCitation: 'true'
+  name: Druckmann, Shaul
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0001-9008-4882
+  includeInCitation: 'true'
+  name: Gerfen, Charles R.
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-6670-7362
+  includeInCitation: 'true'
+  name: Svoboda, Karel
+  roleName:
+  - dandi:Author
+  - dandi:ContactPerson
+description: We recorded spikes from the ALM and thalamus during tactile discrimination  with
+  a delayed directional response. Here we show that, similar to ALM  neurons, thalamic
+  neurons exhibited selective persistent delay activity  that predicted movement direction.
+  Unilateral photoinhibition of delay  activity in the ALM or thalamus produced contralesional
+  neglect.  Photoinhibition of the thalamus caused a short-latency and near-complete  collapse
+  of ALM activity. Similarly, photoinhibition of the ALM diminished  thalamic activity.
+  Our results show that the thalamus is a circuit hub in  motor preparation and suggest
+  that persistent activity requires reciprocal  excitation across multiple brain areas.
+identifier:
+  propertyID: DANDI
+  value: '000009'
+license: CC-BY-4.0
+name: Maintenance of persistent activity in a frontal thalamocortical loop
+relatedResource:
+- identifier: doi:10.1038/nature22324
+  relation: dandi:IsDescribedBy
+  url: https://doi.org/10.1038/nature22324
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

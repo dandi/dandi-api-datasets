@@ -1,0 +1,9 @@
+access:
+- status: dandi:Open
+description: '...'
+identifier:
+  propertyID: DANDI
+  value: '000047'
+name: Test
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

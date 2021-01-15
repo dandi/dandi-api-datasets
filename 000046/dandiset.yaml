@@ -1,0 +1,9 @@
+access:
+- status: dandi:Open
+description: asdf
+identifier:
+  propertyID: DANDI
+  value: '000046'
+name: asdf
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

@@ -1,0 +1,10 @@
+access:
+- status: dandi:Open
+description: A test upload of Pons8 YO and Lectin, downsampled 16x using the BIDS
+  schema
+identifier:
+  propertyID: DANDI
+  value: '000052'
+name: Pons8-BIDS-16xdownsampled
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

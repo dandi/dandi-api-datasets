@@ -1,0 +1,43 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-1974-4603
+  includeInCitation: 'true'
+  name: Bouchard, Kristofer E.
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:FormalAnalysis
+- includeInCitation: 'true'
+  name: Chang, Edward F.
+  roleName:
+  - dandi:Author
+  - dandi:ContactPerson
+description: 'The enclosed data is collected using a high-density 256-channel electrocorticography
+  (ECoG) array implanted in human patients during treatment for epilepsy. The subjects
+  are reading aloud consonant-vowel syllables from a list. The data was collected
+  by Dr. Edward Chang and Dr. Kristofer Bouchard at the University of California,
+  San Francisco, and curated by Dr. Kristofer Bouchard and Dr. Benjamin Dichter.
+
+
+
+  Data is organized by subject ID, and each file is a continuous recording session
+  in Neurodata Without Borders (NWB) 2.0 format. Voltage traces are included for each
+  of the recorded 256 channels. Microphone signal was recorded at the time but is
+  removed for HIPAA compliance. Detailed hand-marked annotations are provided which
+  mark what syllable was said, and the times of the start, consonant-vowel transition,
+  and end of each syllable. A rest-period time is also included when the subject was
+  silent, which can be used as a baseline. Hand-marked anatomical labels are included
+  for electrodes in the relevant brain regions. All dates have been removed for HIPAA
+  compliance and replaced with Jan 1, 1900.'
+identifier:
+  propertyID: DANDI
+  value: '000019'
+keywords:
+- electrocorticography (ECoG)
+- speech production
+name: Human ECoG speaking consonant-vowel syllables
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

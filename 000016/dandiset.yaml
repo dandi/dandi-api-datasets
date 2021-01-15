@@ -1,0 +1,56 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: 0000-0001-6454-2448
+  includeInCitation: 'true'
+  name: Najafi, Farzaneh
+  roleName:
+  - dandi:Author
+  - dandi:ContactPerson
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-3205-3794
+  includeInCitation: 'true'
+  name: Churchland, Anne K.
+  roleName:
+  - dandi:Author
+description: 'This package contains data, in NWB (Neurodata Without Borders) format,
+  from the 4 mice included in "Najafi, Farzaneh, Gamaleldin F. Elsayed, Robin Cao,
+  Eftychios Pnevmatikakis, Peter E. Latham, John P. Cunningham, and Anne K. Churchland.
+  "Excitatory and inhibitory subnetworks are equally selective during decision-making
+  and emerge simultaneously during learning." Neuron 105, no. 1 (2020): 165-179.”
+  Each NWB file represents the data and metadata associated with one recording session.
+  In each NWB file, the metadata related to the session (mouse name, session date/time,
+  lab/institution name, etc.) can be found under "general". Information related to
+  ROI-segmentation such as ROI mask, ROI type (excitatory or inhibitory), poor or
+  good quality, etc. can be found under "modules/Image-Segmentation/pln-seg". Trial
+  information (e.g. start, end times, trial types, trial outcomes, etc.) can be found
+  under "trials". Recorded trial-segmented neuronal responses aligned to different
+  time event (e.g. stimulus start, animal choice, etc.) can be found under "modules/
+  Trial-based-Segmentation". A jupyter notebook presenting in detail how to work with
+  NWB files is provided at https://github.com/ttngu207/najafi-2018-nwb/blob/master/notebooks/Najafi-2018_example.ipynb.'
+identifier:
+  propertyID: DANDI
+  value: '000016'
+license: CC-BY-4.0
+name: Excitatory and inhibitory subnetworks are equally selective during decision-making
+  and emerge simultaneously during learning
+relatedResource:
+- identifier: doi:10.14224/1.37693
+  name: 'Dataset from "Najafi, Farzaneh, Gamaleldin F. Elsayed, Robin Cao, Eftychios
+    Pnevmatikakis, Peter E. Latham, John P. Cunningham, and Anne K. Churchland. "Excitatory
+    and inhibitory subnetworks are equally selective during decision-making and emerge
+    simultaneously during learning." Neuron 105, no. 1 (2020): 165-179.”'
+  relation: dandi:IsDerivedFrom
+  repository: CSHL Labs
+  url: http://repository.cshl.edu/id/eprint/37693/
+- identifier: DOI:10.1101/354340
+  relation: dandi:IsDescribedBy
+  url: https://doi.org/10.1101/354340
+- identifier: DOI:10.1016/j.neuron.2019.09.045
+  relation: dandi:IsDescribedBy
+  url: https://doi.org/10.1016/j.neuron.2019.09.045
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

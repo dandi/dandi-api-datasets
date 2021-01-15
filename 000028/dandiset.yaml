@@ -1,0 +1,13 @@
+access:
+- status: dandi:Open
+description: A 10 minute Neuropixels recording simulated using the MEArec Python package
+  (Buccino et al., 2020). The recording contains the spiking activity of 250 biophysically
+  detailed neurons (200 excitatory and 50 inhibitory cells from the Neocortical Micro
+  Circuit Portal with independent Poisson firing patterns, and additive Gaussian noise
+  with 10uV standard deviation.
+identifier:
+  propertyID: DANDI
+  value: '000028'
+name: Simulated cortical Neuropixels recording with ground truth
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

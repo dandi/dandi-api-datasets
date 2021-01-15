@@ -1,0 +1,27 @@
+access:
+- status: dandi:Open
+contributor:
+- includeInCitation: 'true'
+description: "This dataset is a result of a multi-institution, cross country collaboration
+  of labs, called International Brain Laboratory conducting standardized experiments
+  on decision-making in mice. In the experiment, mice are shown a visual grating on
+  screen with varying levels of contrast, and they are trained to rotate a wheel to
+  move the on-screen stimulus from either side of their visual field to the center.
+  These NWB files contain datasets corresponding to this wheel movement, camera footage
+  of mice and information about the visual stimulus at every trial. \nPaper: \nAguillon,
+  V., Angelaki, D., Bayer, H. M., Bonacchi, N., Carandini, M., Cazettes, F., Churchland,
+  A. K., Chapuis, G., Dan, Y., Dewitt, E., Faulkner, M., Hamish, F., Haetzel, L.,
+  Hausser, M., Hofer, S., Hu, F., Khanal, A., Krasniak, C., Laranjeira, I., … Zador,
+  A. (2020). A standardized and reproducible method to measure decision-making in
+  mice. BioRxiv, 2020.01.17.909838. https://doi.org/10.1101/2020.01.17.909838"
+identifier:
+  propertyID: DANDI
+  value: '000045'
+keywords:
+- International Brain Laboratory
+name: IBL behavioral data
+relatedResource:
+- relation: dandi:IsDescribedBy
+  url: https://doi.org/10.1101/2020.01.17.909838
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

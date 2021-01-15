@@ -1,0 +1,19 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: https://orcid.org/0000-0002-6255-6085
+  includeInCitation: 'true'
+  roleName:
+  - dandi:ContactPerson
+  - dandi:Author
+description: Allen Institute MindScope project
+identifier:
+  propertyID: DANDI
+  value: '000049'
+keywords:
+- Mouse
+name: Allen Institute – TFxSF tuning in mouse visual cortex with calcium imaging
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

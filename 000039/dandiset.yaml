@@ -1,0 +1,44 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: https://orcid.org/0000-0002-6255-6085
+  includeInCitation: 'true'
+  name: Millman, Dan
+  roleName:
+  - dandi:ContactPerson
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: https://orcid.org/0000-0002-3704-3499
+  includeInCitation: 'true'
+  name: Vries, Saskia de
+  roleName:
+  - dandi:Author
+description: "A two photon calcium imaging dataset from Allen Institute measuring
+  responses to full-field drifting gratings (approx. 120x90 degrees of visual space)
+  of 8 directions and 6 contrasts (5%, 10%, 20%, 40%, 60%, 80%). Mouse Cre lines expressing
+  GCaMP6f were imaged to record responses of   pyramidal neurons across cortical layers
+  (Cux2: layer 2/3; Rorb: layer 4; Rbp4: layer 5; Ntsr1: layer 6) as well as inhibitory
+  interneurons (Vip and Sst). All experimental sessions took place on the same data
+  collection pipeline as the Allen Brain Observatory (see http://observatory.brain-map.org/visualcoding)
+  and have the same visual stimulus monitor calibration and positioning, two photon
+  imaging systems and image processing pipeline, and running wheel to track locomotion.\n\n
+  Data are subject to Allen Institute Terms of Use policy, available at: http://www.alleninstitute.org/legal/terms-use/"
+identifier:
+  propertyID: DANDI
+  value: '000039'
+keywords:
+- vision
+- visual cortex
+- inhibition
+- inhibitory circuits
+- circuit dynamics
+- gain control
+name: Allen Institute – Contrast tuning in mouse visual cortex with calcium imaging
+relatedResource:
+- relation: dandi:IsDescribedBy
+  url: https://elifesciences.org/articles/55130
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

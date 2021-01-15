@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/yoh/proj/dandi/dandi-api-datasets/tools/populate_dandiset_yaml.py", line 28, in <module>
+    new_meta = migrate2newschema(dandiset_meta)
+  File "/home/yoh/proj/dandi/dandi-cli-master/dandi/metadata.py", line 517, in migrate2newschema
+    newmeta = convertv1(meta)
+  File "/home/yoh/proj/dandi/dandi-cli-master/dandi/metadata.py", line 478, in convertv1
+    value["maximum"] = float(value["maximum"].split()[0])
+ValueError: could not convert string to float: '3-7'

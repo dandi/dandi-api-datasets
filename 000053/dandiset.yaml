@@ -1,0 +1,53 @@
+access:
+- status: dandi:Open
+contributor:
+- affiliation:
+  - includeInCitation: 'false'
+    name: Stanford University
+  identifier:
+    propertyID: ORCID
+    value: 0000-0002-2337-9290
+  includeInCitation: 'true'
+  name: Hardcastle, Kiah
+  roleName:
+  - dandi:Author
+- affiliation:
+  - includeInCitation: 'false'
+    name: Stanford University
+  identifier:
+    propertyID: ORCID
+    value: 0000-0003-2865-0235
+  includeInCitation: 'true'
+  name: Mallory, Caitlin
+  roleName:
+  - dandi:Author
+- affiliation:
+  - includeInCitation: 'false'
+    name: CatalystNeuro
+  identifier:
+    propertyID: ORCID
+    value: 0000-0001-5725-6910
+  includeInCitation: 'true'
+  name: Dichter, Benjamin
+  roleName:
+  - dandi:DataCurator
+- affiliation:
+  - includeInCitation: 'false'
+    name: Stanford University
+  identifier:
+    propertyID: ORCID
+    value: 0000-0003-0416-2528
+  includeInCitation: 'true'
+  name: Giocomo, Lisa
+  roleName:
+  - dandi:Author
+description: This dataset contains two task types. The first is tetrode recordings
+  from medial entorhinal cortex during open field navigation with simultaneous inertial
+  measurements of the head, and the second is Neuropixel recordings from medial entorhinal
+  cortex during navigation down a virtual linear track with simultaneous eye measurements.
+identifier:
+  propertyID: DANDI
+  value: '000053'
+name: Recordings from medial entorhinal cortex during linear track and open exploration
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

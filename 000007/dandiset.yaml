@@ -1,0 +1,61 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier: {}
+  includeInCitation: 'true'
+  name: Gao, Zhenyu
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Davis, Courtney
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-6070-4769
+  includeInCitation: 'true'
+  name: Thomas, Alyse M.
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0001-9893-1505
+  includeInCitation: 'true'
+  name: Economo, Michael N.
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-0311-5244
+  includeInCitation: 'true'
+  name: Abrego, Amada M.
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Svoboda, Karel
+  roleName:
+  - dandi:Author
+- identifier:
+    propertyID: ORCID
+    value: 0000-0001-5628-8187
+  includeInCitation: 'true'
+  name: Zeeuw, Chris I. De
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Li, Nuo
+  roleName:
+  - dandi:Author
+  - dandi:ContactPerson
+description: Extracelluar recording in ALM
+identifier:
+  propertyID: DANDI
+  value: '000007'
+license: CC-BY-4.0
+name: A cortico-cerebellar loop for motor planning
+relatedResource:
+- identifier: doi:10.1038/s41586-018-0633-x
+  relation: dandi:IsDescribedBy
+  url: https://www.nature.com/articles/s41586-018-0633-x
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

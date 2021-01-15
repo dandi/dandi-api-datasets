@@ -1,0 +1,14 @@
+access:
+- status: dandi:Open
+description: A Neuropixels recording from a head-fixed mouse acquired at the Allen
+  Institute for Brain Science. The recording has a duration of 15 minutes, 246 active
+  recording channels (the remaining of the 384 Neuropixels channels were either not
+  inserted in the brain tissue or below a firing rate of 0.1~Hz), and a sampling frequency
+  of 30~kHz. The probe records from part of the cortex (V1), the hippocampus (CA1),
+  the dentate gyrus, and the thalamus (LP).
+identifier:
+  propertyID: DANDI
+  value: '000030'
+name: Allen Brain Observatory Neuropixels recording
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

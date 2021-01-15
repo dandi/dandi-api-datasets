@@ -1,0 +1,45 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: 0000-0003-3498-0388
+  includeInCitation: 'true'
+  name: Hires, Samuel
+  roleName:
+  - dandi:Author
+  - dandi:ContactPerson
+  - dandi:DataCollector
+  - dandi:DataManager
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-8578-0039
+  includeInCitation: 'true'
+  name: Gutnisky, Diego
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Yu, Jianing
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: O'Connor, Daniel H
+  roleName:
+  - dandi:Author
+- includeInCitation: 'true'
+  name: Svoboda, Karel
+  roleName:
+  - dandi:Author
+description: Data from "Low-noise encoding of active touch by layer 4 in the somatosensory
+  cortex" Hires, Gutnisky et al. Elife 2015
+identifier:
+  propertyID: DANDI
+  value: '000013'
+license: CC-BY-4.0
+name: Low-noise encoding of active touch by layer 4 in the somatosensory cortex
+relatedResource:
+- identifier: doi:10.7554/eLife.06619.001
+  relation: dandi:IsDescribedBy
+  url: https://elifesciences.org/articles/06619
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

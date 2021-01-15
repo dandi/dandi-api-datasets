@@ -1,0 +1,84 @@
+access:
+- status: dandi:Open
+contributor:
+- email: colleen.gillon@mail.utoronto.ca
+  identifier:
+    propertyID: ORCID
+    value: 0000-0002-2253-7816
+  includeInCitation: 'true'
+  name: Gillon, Colleen J.
+  roleName:
+  - dandi:FormalAnalysis
+  - dandi:Maintainer
+  - dandi:ContactPerson
+  - dandi:Author
+  - dandi:DataCurator
+- affiliation:
+  - includeInCitation: 'false'
+    name: Allen Institute for Brain Science, Seattle WA
+  email: jeromel@alleninstitute.org
+  identifier:
+    propertyID: ORCID
+    value: ' 0000-0002-0131-0938'
+  includeInCitation: 'true'
+  name: Lecoq, Jérôme
+  roleName:
+  - dandi:Author
+  - dandi:Conceptualization
+  - dandi:DataCollector
+  - dandi:DataCurator
+  - dandi:FundingAcquisition
+- affiliation:
+  - includeInCitation: 'false'
+    name: York University, Toronto, ON
+  email: joelzy@yorku.ca
+  identifier:
+    propertyID: ORCID
+    value: 0000-0002-8208-5698
+  includeInCitation: 'true'
+  name: Zylberberg, Joel
+  roleName:
+  - dandi:Author
+  - dandi:Conceptualization
+  - dandi:FormalAnalysis
+  - dandi:Supervision
+- affiliation:
+  - includeInCitation: 'false'
+    name: McGill University, Montreal, QC
+  - includeInCitation: 'false'
+    name: MILA, Montreal, QC
+  email: blake.richards@mcgill.ca
+  identifier:
+    propertyID: ORCID
+    value: ' 0000-0001-9662-2151'
+  includeInCitation: 'true'
+  name: Richards, Blake A.
+  roleName:
+  - dandi:Author
+  - dandi:Conceptualization
+  - dandi:FormalAnalysis
+  - dandi:Supervision
+description: 'Credit Assignment project data, collected as part of the Allen Institute
+  for Brain Science OpenScope project, reported in Gillon et al. (2020) bioRxiv ().
+
+  Dataset comprises ROI traces, ROI masks, running speed, pupil diameter, stimulus
+  parameters, stimulus frames.
+
+  Metadata is hosted here: https://github.com/jeromelecoq/allen_openscope_metadata'
+identifier:
+  propertyID: DANDI
+  value: '000037'
+keywords:
+- mouse
+- primary visual cortex
+- two-photon calcium imaging
+- L2/3
+- L5
+- somata
+- distal apical dendrites
+- unexpected events
+- learning
+- credit assignment
+name: Allen Institute Openscope - Credit Assignment project
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

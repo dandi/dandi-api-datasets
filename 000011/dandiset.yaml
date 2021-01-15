@@ -1,0 +1,40 @@
+access:
+- status: dandi:Open
+contributor:
+- affiliation: Janelia Research Campus, Howard Hughes Medical Institute
+  identifier:
+    propertyID: ORCID
+    value: 0000-0002-6613-5018
+  includeInCitation: 'true'
+  name: Li, Nuo
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+- affiliation: Janelia Research Campus, Howard Hughes Medical Institute
+  includeInCitation: 'true'
+  name: Daie, Kayvon
+  roleName:
+  - dandi:Author
+- affiliation: Janelia Research Campus, Howard Hughes Medical Institute
+  includeInCitation: 'true'
+  name: Svoboda, Karel
+  roleName:
+  - dandi:Author
+- affiliation: Janelia Research Campus, Howard Hughes Medical Institute
+  includeInCitation: 'true'
+  name: Druckmann, Shaul
+  roleName:
+  - dandi:Author
+  - dandi:ContactPerson
+description: Data from "Robust neuronal dynamics in premotor cortex during motor planning"
+  Nature 2016
+identifier:
+  propertyID: DANDI
+  value: '000011'
+license: CC-BY-4.0
+name: Robust neuronal dynamics in premotor cortex during motor planning
+relatedResource:
+- identifier: doi:10.1038/nature17643
+  relation: dandi:IsDescribedBy
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

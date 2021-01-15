@@ -1,0 +1,9 @@
+access:
+- status: dandi:Open
+description: Data included in Plitt & Giocomo (2021) Nature Neuroscience
+identifier:
+  propertyID: DANDI
+  value: '000054'
+name: Experience Dependent Contextual Codes in the HIppocampus
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

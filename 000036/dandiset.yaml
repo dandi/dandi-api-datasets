@@ -1,0 +1,23 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier:
+    propertyID: ORCID
+    value: 0000-0002-0131-0938
+  includeInCitation: 'true'
+  roleName:
+  - dandi:DataCollector
+  - dandi:DataCurator
+  - dandi:DataManager
+  - dandi:Author
+  - dandi:ContactPerson
+description: The meaningful project characterized the preferences of mice visual cortical
+  areas for natural images
+identifier:
+  propertyID: DANDI
+  value: '000036'
+keywords:
+- two photon imaging
+name: Allen Institute Openscope - Meaningful project
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1
