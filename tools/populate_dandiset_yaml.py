@@ -6,6 +6,7 @@ from dandi.metadata import migrate2newschema
 from dandi.dandiset import Dandiset
 from dandi.consts import dandiset_metadata_file
 from dandi.utils import yaml_dump
+from dandi.models import DandiMeta
 import yaml
 import traceback
 
@@ -15,13 +16,18 @@ if __name__ == "__main__":
         assert dspath.exists(), f"no {ds}"
         if not dspath.is_dir():
             dspath = dspath.parent
+        print(f"{dspath}: ", end='')
         assert dspath.is_dir()
         newds_path = Path(dspath.name)
+        newmeta_path = newds_path / dandiset_metadata_file
         err_path = newds_path / "EXCEPTION"
-        if err_path.exists():
-            err_path.unlink()
+        for p in newmeta_path, err_path:
+            if p.exists():
+                p.unlink()
+
         if not newds_path.exists():
             newds_path.mkdir()
+
         dandiset = Dandiset(dspath)
         dandiset_meta = dandiset.metadata
         try:
@@ -30,11 +36,12 @@ if __name__ == "__main__":
             # identifier: {}
             # TODO: this all should be in dandi-cli
             new_meta_json = new_meta.json(exclude_unset=True, exclude_none=True)
-            newmeta_path = newds_path / dandiset_metadata_file
             newmeta_path.write_text(
                 yaml_dump(yaml.load(new_meta_json, Loader = yaml.BaseLoader))
             )
-            print(f"{dspath}: OK. Dumped {newmeta_path}")
+            print(f"Dumped {newmeta_path} ", end="")
+            DandiMeta.validate(new_meta)
+            print("VALID ")
         except Exception as exc:
             traceback.print_exc(file=err_path.open('w'))
-            sys.stderr.write(f"{dspath}: EXCEPTION ({err_path}) - {exc}".rstrip() + "\n")
+            print(f"EXCEPTION ({err_path}) - {exc}".rstrip())
