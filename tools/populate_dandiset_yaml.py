@@ -37,4 +37,4 @@ if __name__ == "__main__":
             print(f"{dspath}: OK. Dumped {newmeta_path}")
         except Exception as exc:
             traceback.print_exc(file=err_path.open('w'))
-            sys.stderr.write(f"{dspath}: EXCEPTION ({err_path}) - {exc}")
+            sys.stderr.write(f"{dspath}: EXCEPTION ({err_path}) - {exc}".rstrip() + "\n")
