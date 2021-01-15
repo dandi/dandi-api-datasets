@@ -7,6 +7,7 @@ from dandi.dandiset import Dandiset
 from dandi.consts import dandiset_metadata_file
 from dandi.utils import yaml_dump
 import yaml
+import traceback
 
 if __name__ == "__main__":
     for ds in sys.argv[1:]:
@@ -15,18 +16,25 @@ if __name__ == "__main__":
         if not dspath.is_dir():
             dspath = dspath.parent
         assert dspath.is_dir()
-        dandiset = Dandiset(dspath)
-        dandiset_meta = dandiset.metadata
-        new_meta = migrate2newschema(dandiset_meta)
-        # we still would get empty containers such as
-        # identifier: {}
-        # TODO: this all should be in dandi-cli
-        new_meta_json = new_meta.json(exclude_unset=True, exclude_none=True)
         newds_path = Path(dspath.name)
+        err_path = newds_path / "EXCEPTION"
+        if err_path.exists():
+            err_path.unlink()
         if not newds_path.exists():
             newds_path.mkdir()
-        newmeta_path = newds_path / dandiset_metadata_file
-        newmeta_path.write_text(
-            yaml_dump(yaml.load(new_meta_json, Loader = yaml.BaseLoader))
-        )
-        print(f"Dumped {newmeta_path}")
+        dandiset = Dandiset(dspath)
+        dandiset_meta = dandiset.metadata
+        try:
+            new_meta = migrate2newschema(dandiset_meta)
+            # we still would get empty containers such as
+            # identifier: {}
+            # TODO: this all should be in dandi-cli
+            new_meta_json = new_meta.json(exclude_unset=True, exclude_none=True)
+            newmeta_path = newds_path / dandiset_metadata_file
+            newmeta_path.write_text(
+                yaml_dump(yaml.load(new_meta_json, Loader = yaml.BaseLoader))
+            )
+            print(f"{dspath}: OK. Dumped {newmeta_path}")
+        except Exception as exc:
+            traceback.print_exc(file=err_path.open('w'))
+            sys.stderr.write(f"{dspath}: EXCEPTION ({err_path}) - {exc}")
