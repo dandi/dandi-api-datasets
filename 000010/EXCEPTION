@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/home/yoh/proj/dandi/dandi-api-datasets/tools/populate_dandiset_yaml.py", line 34, in <module>
-    new_meta = migrate2newschema(dandiset_meta)
-  File "/home/yoh/proj/dandi/dandi-cli-master/dandi/metadata.py", line 517, in migrate2newschema
-    newmeta = convertv1(meta)
-  File "/home/yoh/proj/dandi/dandi-cli-master/dandi/metadata.py", line 436, in convertv1
-    if item in val.values():
-AttributeError: 'Resource' object has no attribute 'values'
