@@ -11,6 +11,7 @@ import yaml
 import traceback
 
 if __name__ == "__main__":
+    ok = True
     for ds in sys.argv[1:]:
         dspath = Path(ds)
         assert dspath.exists(), f"no {ds}"
@@ -45,3 +46,5 @@ if __name__ == "__main__":
         except Exception as exc:
             traceback.print_exc(file=err_path.open('w'))
             print(f"EXCEPTION ({err_path}) - {exc}".rstrip())
+            ok = False
+    sys.exit(0 if ok else 1)
