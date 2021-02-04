@@ -5,9 +5,8 @@ import sys
 from dandi.metadata import migrate2newschema
 from dandi.dandiset import Dandiset
 from dandi.consts import dandiset_metadata_file
-from dandi.utils import yaml_dump
+from dandi.utils import yaml_dump, yaml_load
 from dandi.models import DandiMeta
-import yaml
 import traceback
 
 if __name__ == "__main__":
@@ -37,9 +36,7 @@ if __name__ == "__main__":
             # identifier: {}
             # TODO: this all should be in dandi-cli
             new_meta_json = new_meta.json(exclude_unset=True, exclude_none=True)
-            newmeta_path.write_text(
-                yaml_dump(yaml.load(new_meta_json, Loader = yaml.BaseLoader))
-            )
+            newmeta_path.write_text(yaml_dump(yaml_load(new_meta_json, "base")))
             print(f"Dumped {newmeta_path} ", end="")
             DandiMeta.validate(new_meta)
             print("VALID ")
