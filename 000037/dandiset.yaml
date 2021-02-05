@@ -2,39 +2,39 @@ access:
 - status: dandi:Open
 contributor:
 - email: colleen.gillon@mail.utoronto.ca
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-2253-7816
+  identifier: ' 0000-0002-2253-7816'
   includeInCitation: 'true'
-  name: Gillon, Colleen J.
+  name: Gillon, Colleen
   roleName:
-  - dandi:FormalAnalysis
-  - dandi:Maintainer
-  - dandi:ContactPerson
   - dandi:Author
+  - dandi:ContactPerson
   - dandi:DataCurator
+  - dandi:FormalAnalysis
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
-    name: Allen Institute for Brain Science, Seattle WA
+    name: Allen Institute for Brain Sciences, Seattle, WA
+    schemaKey: Organization
   email: jeromel@alleninstitute.org
-  identifier:
-    propertyID: ORCID
-    value: ' 0000-0002-0131-0938'
+  identifier: 0000-0002-0131-0938
   includeInCitation: 'true'
   name: Lecoq, Jérôme
   roleName:
   - dandi:Author
   - dandi:Conceptualization
+  - dandi:ContactPerson
   - dandi:DataCollector
   - dandi:DataCurator
   - dandi:FundingAcquisition
+  - dandi:Resources
+  - dandi:Supervision
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: York University, Toronto, ON
+    schemaKey: Organization
   email: joelzy@yorku.ca
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-8208-5698
+  identifier: 0000-0002-8208-5698
   includeInCitation: 'true'
   name: Zylberberg, Joel
   roleName:
@@ -42,43 +42,40 @@ contributor:
   - dandi:Conceptualization
   - dandi:FormalAnalysis
   - dandi:Supervision
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: McGill University, Montreal, QC
-  - includeInCitation: 'false'
-    name: MILA, Montreal, QC
+    schemaKey: Organization
   email: blake.richards@mcgill.ca
-  identifier:
-    propertyID: ORCID
-    value: ' 0000-0001-9662-2151'
+  identifier: 0000-0001-9662-2151
   includeInCitation: 'true'
-  name: Richards, Blake A.
+  name: Richards, Blake
   roleName:
   - dandi:Author
   - dandi:Conceptualization
   - dandi:FormalAnalysis
   - dandi:Supervision
-description: 'Credit Assignment project data, collected as part of the Allen Institute
-  for Brain Science OpenScope project, reported in Gillon et al. (2020) bioRxiv ().
-
-  Dataset comprises ROI traces, ROI masks, running speed, pupil diameter, stimulus
-  parameters, stimulus frames.
-
-  Metadata is hosted here: https://github.com/jeromelecoq/allen_openscope_metadata'
-identifier:
-  propertyID: DANDI
-  value: '000037'
+  schemaKey: Person
+description: 'This dataset was collected for the Credit Assignment project, as part
+  of the Allen Institute for Brain Science''s OpenScope project, and is published
+  in Gillon et al., 2021, bioRxiv (doi: 10.1101/2021.01.15.426915v1). Included in
+  the data files are ROI dF/F traces, ROI masks, running velocity traces, pupil diameter
+  traces, stimulus parameters, and stimulus frame images. Metadata for this dataset
+  can be found here (https://github.com/jeromelecoq/allen_openscope_metadata/tree/master/projects/credit_assignement).'
+identifier: DANDI:000037
 keywords:
-- mouse
-- primary visual cortex
-- two-photon calcium imaging
+- Learning
+- Neocortex
+- Pyramidal neuron
+- Distal apical dendrites
+- Somata
 - L2/3
 - L5
-- somata
-- distal apical dendrites
-- unexpected events
-- learning
-- credit assignment
+- Two-photon calcium imaging
+- Mouse VisP
+- Prediction
+- Credit assignment
 name: Allen Institute Openscope - Credit Assignment project
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

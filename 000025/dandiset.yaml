@@ -4,9 +4,7 @@ description: This is a single session showing example intracellular electrophysi
   data collected from the Blue Brain Project. This session holds a variety of different
   stimulation patterns. It also serves as an example of the new ndx-icephys-meta extension
   for organizing sweeps of a complex experimental protocol.
-identifier:
-  propertyID: DANDI
-  value: '000025'
+identifier: DANDI:000025
 name: Example intracellular ephys data from BBP
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

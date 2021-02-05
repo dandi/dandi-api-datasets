@@ -3,9 +3,7 @@ access:
 description: ' The meaningful project characterized the preferences of mice visual
   cortical areas for natural images. This dataset contains full motion-corrected movies
   and each NWB file is therefore about 60GB.'
-identifier:
-  propertyID: DANDI
-  value: '000042'
+identifier: DANDI:000042
 name: ' Allen Institute Openscope - Meaningful project  - Full movies'
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

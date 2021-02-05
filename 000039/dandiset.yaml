@@ -1,21 +1,19 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0002-6255-6085
+- identifier: https://orcid.org/0000-0002-6255-6085
   includeInCitation: 'true'
   name: Millman, Dan
   roleName:
   - dandi:ContactPerson
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0002-3704-3499
+  schemaKey: Person
+- identifier: https://orcid.org/0000-0002-3704-3499
   includeInCitation: 'true'
   name: Vries, Saskia de
   roleName:
   - dandi:Author
+  schemaKey: Person
 description: "A two photon calcium imaging dataset from Allen Institute measuring
   responses to full-field drifting gratings (approx. 120x90 degrees of visual space)
   of 8 directions and 6 contrasts (5%, 10%, 20%, 40%, 60%, 80%). Mouse Cre lines expressing
@@ -26,9 +24,7 @@ description: "A two photon calcium imaging dataset from Allen Institute measurin
   and have the same visual stimulus monitor calibration and positioning, two photon
   imaging systems and image processing pipeline, and running wheel to track locomotion.\n\n
   Data are subject to Allen Institute Terms of Use policy, available at: http://www.alleninstitute.org/legal/terms-use/"
-identifier:
-  propertyID: DANDI
-  value: '000039'
+identifier: DANDI:000039
 keywords:
 - vision
 - visual cortex

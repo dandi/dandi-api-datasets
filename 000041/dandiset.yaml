@@ -1,0 +1,52 @@
+access:
+- status: dandi:Open
+contributor:
+- includeInCitation: 'true'
+  name: Watson, Brendon O.
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- includeInCitation: 'true'
+  name: Levenstein, Daniel
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- identifier: ' '
+  includeInCitation: 'true'
+  name: Greene, J. Palmer
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- includeInCitation: 'true'
+  name: Gelinas, Jennifer N.
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- includeInCitation: 'true'
+  name: Buzsáki, György
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+description: 'Data was recorded using silicon probe electrodes in the frontal cortices
+  of male Long Evans rats between 4-7 months of age. The design was to have no specific
+  behavior, task or stimulus, rather the animal was left alone in it’s home cage (which
+  it lives in at all
+
+  times). Data includes both local field potentials (LFP) and spikes. 11 total animals,
+  27 recording sessions, 1360 total units recorded, 1121 units considered stable,
+  995 putative excitatory units and 126 putative inhibitory units. Only recordings
+  including a “WAKE-SLEEP” episode wherein at least 7 minutes of wake are followed
+  by 20 minutes of sleep. On average 2 such WAKE-SLEEP episodes per recording session. '
+identifier: DANDI:000041
+keywords:
+- Firing patterns
+- Sleep/awake states
+- Sleep stages
+- Homeostasis
+name: Network Homeostasis and State Dynamics of Neocortical Sleep
+relatedResource:
+- identifier: 'doi: 10.1016/j.neuron.2016.03.036'
+  relation: dandi:IsDescribedBy
+  url: https://www.sciencedirect.com/science/article/pii/S0896627316300563
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

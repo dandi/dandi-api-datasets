@@ -1,9 +1,7 @@
 access:
 - status: dandi:Open
 description: Test description
-identifier:
-  propertyID: DANDI
-  value: '000032'
+identifier: DANDI:000032
 name: Test dataset
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

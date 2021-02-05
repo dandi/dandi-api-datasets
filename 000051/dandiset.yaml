@@ -4,9 +4,7 @@ description: 'Downsampled image of pons slice #8 stained with a nuclear dye. For
   only.
 
   '
-identifier:
-  propertyID: DANDI
-  value: '000051'
+identifier: DANDI:000051
 name: pons8-yo_16xdownsampled
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

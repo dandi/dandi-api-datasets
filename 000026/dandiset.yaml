@@ -1,20 +1,18 @@
 about:
-- identifier: BA
-  name: Broca’s Area
-- identifier: MC
-  name: Motor Cortex
+- name: Broca’s Area
+- name: Motor Cortex
 access:
 - status: dandi:Open
 contributor:
 - affiliation:
   - includeInCitation: 'false'
     name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+    schemaKey: Organization
   - includeInCitation: 'false'
     name: National Research Council - National Institute of Optics (CNR-INO), Italy
+    schemaKey: Organization
   email: mazzamuto@lens.unifi.it
-  identifier:
-    propertyID: ORCID
-    value: 0000-0003-3077-3904
+  identifier: 0000-0003-3077-3904
   includeInCitation: 'true'
   name: Mazzamuto, Giacomo
   roleName:
@@ -27,24 +25,24 @@ contributor:
   - dandi:Software
   - dandi:ContactPerson
   - dandi:ProjectMember
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-8464-7324
+    schemaKey: Organization
+  identifier: 0000-0002-8464-7324
   includeInCitation: 'true'
   name: Costantini, Irene
   roleName:
   - dandi:Author
   - dandi:Researcher
   - dandi:ProjectMember
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-  identifier:
-    propertyID: ORCID
-    value: 0000-0001-7734-7828
+    schemaKey: Organization
+  identifier: 0000-0001-7734-7828
   includeInCitation: 'true'
   name: Gavryusev, Vladislav
   roleName:
@@ -52,12 +50,12 @@ contributor:
   - dandi:DataCollector
   - dandi:ProjectMember
   - dandi:Methodology
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-5863-399X
+    schemaKey: Organization
+  identifier: 0000-0002-5863-399X
   includeInCitation: 'true'
   name: Pesce, Luca
   roleName:
@@ -65,12 +63,12 @@ contributor:
   - dandi:DataCollector
   - dandi:ProjectMember
   - dandi:Methodology
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-  identifier:
-    propertyID: ORCID
-    value: 0000-0003-2438-2923
+    schemaKey: Organization
+  identifier: 0000-0003-2438-2923
   includeInCitation: 'true'
   name: Scardigli, Marina
   roleName:
@@ -78,25 +76,27 @@ contributor:
   - dandi:ProjectMember
   - dandi:DataCollector
   - dandi:Methodology
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-0675-3981
+    schemaKey: Organization
+  identifier: 0000-0002-0675-3981
   includeInCitation: 'true'
   name: Pavone, Francesco Saverio
   roleName:
   - dandi:Author
   - dandi:ProjectLeader
-- identifier: {}
-  includeInCitation: 'true'
+  schemaKey: Person
+- includeInCitation: 'true'
   roleName: []
+  schemaKey: Person
 - awardNumber: 1U01MH117023-01
   includeInCitation: 'false'
   name: Health, General Hospital Corporation Center of the National Institutes of
   roleName:
   - dandi:Sponsor
+  schemaKey: Organization
 description: 'We still lack a detailed map of the anatomical disposition of neurons
   in the human brain. Obtaining a complete map would help deeply understand the brain
   function and provide anatomical information
@@ -108,9 +108,7 @@ description: 'We still lack a detailed map of the anatomical disposition of neur
   multi-modal imaging via MRI, OCT and LSFM. We perform volumetric imaging of the
   Broca’s Area and the Motor Cortex from the left hemisphere of a single human brain,
   towards generating a cell census for the human cortex.'
-identifier:
-  propertyID: DANDI
-  value: '000026'
+identifier: DANDI:000026
 keywords:
 - multi-modal imaging
 - MRI

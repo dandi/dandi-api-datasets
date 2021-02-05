@@ -5,25 +5,28 @@ contributor:
   name: Chen, Tsai-Wen
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Li, Nuo
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Daie, Kayvon
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Svoboda, Karel
   roleName:
   - dandi:Author
   - dandi:ContactPerson
+  schemaKey: Person
 description: Data from "A Map of Anticipatory Activity in Mouse Motor Cortex" Chen
   et al. Neuron 2017
-identifier:
-  propertyID: DANDI
-  value: '000015'
-license: CC-BY-4.0
+identifier: DANDI:000015
+license:
+- dandi:CCBY40
 name: A Map of Anticipatory Activity in Mouse Motor Cortex
 relatedResource:
 - identifier: DOI:10.1016/j.neuron.2017.05.005

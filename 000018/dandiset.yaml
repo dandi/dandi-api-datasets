@@ -4,6 +4,7 @@ contributor:
 - affiliation:
   - includeInCitation: 'false'
     name: University of Southern California
+    schemaKey: Organization
   email: cantao@usc.edu
   includeInCitation: 'true'
   name: Tao, Can
@@ -12,25 +13,25 @@ contributor:
   - dandi:Author
   - dandi:Conceptualization
   - dandi:ContactPerson
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: University of Southern California
+    schemaKey: Organization
   email: guangwei.zhang@med.usc.edu
-  identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0002-3228-1981
+  identifier: https://orcid.org/0000-0002-3228-1981
   includeInCitation: 'true'
   name: Zhang, Guang-Wei
   roleName:
   - dandi:DataManager
-- includeInCitation: 'true'
+  schemaKey: Person
+- includeInCitation: 'false'
   name: 'NIH, '
   roleName:
   - dandi:Sponsor
+  schemaKey: Organization
 description: Electrophysiological data obtained in 1U01MH116990-01
-identifier:
-  propertyID: DANDI
-  value: '000018'
+identifier: DANDI:000018
 name: Mouse Spinal Cord Ephys Dataset
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

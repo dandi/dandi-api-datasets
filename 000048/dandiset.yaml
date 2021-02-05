@@ -2,9 +2,7 @@ access:
 - status: dandi:Open
 description: Spiking activity and simultaneously recorded fluorescence signals in
   transgenic mice expressing GCaMP6
-identifier:
-  propertyID: DANDI
-  value: '000048'
+identifier: DANDI:000048
 name: Allen Oephys
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

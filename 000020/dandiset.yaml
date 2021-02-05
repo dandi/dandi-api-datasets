@@ -1,9 +1,7 @@
 access:
 - status: dandi:Open
 description: Allen Institute June 2020 Mouse PatchSeq icephys data
-identifier:
-  propertyID: DANDI
-  value: '000020'
+identifier: DANDI:000020
 name: 20200611_AIBS_mouse
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

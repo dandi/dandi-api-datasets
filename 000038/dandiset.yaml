@@ -1,9 +1,7 @@
 access:
 - status: dandi:Open
 description: I am just wondering what happens after I do thiis
-identifier:
-  propertyID: DANDI
-  value: '000038'
+identifier: DANDI:000038
 name: Testytest
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

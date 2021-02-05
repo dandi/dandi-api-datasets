@@ -7,117 +7,107 @@ contributor:
   - dandi:Author
   - dandi:DataCollector
   - dandi:ContactPerson
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-5639-7209
+  schemaKey: Person
+- identifier: 0000-0002-5639-7209
   includeInCitation: 'true'
   name: Kobak, Dmitry
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0003-4458-117X
+  schemaKey: Person
+- identifier: 0000-0003-4458-117X
   includeInCitation: 'true'
   name: Bernabucci, Matteo
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Bernaerts, Yves
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0003-1963-8285
+  schemaKey: Person
+- identifier: 0000-0003-1963-8285
   includeInCitation: 'true'
   name: Cadwell, Cathryn Rene
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Castro, Jesus Ramon
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-4922-8781
+  schemaKey: Person
+- identifier: 0000-0002-4922-8781
   includeInCitation: 'true'
   name: Hartmanis, Leonard
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-8066-1383
+  schemaKey: Person
+- identifier: 0000-0001-8066-1383
   includeInCitation: 'true'
   name: Jiang, Xiaolong
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-9532-788X
+  schemaKey: Person
+- identifier: 0000-0001-9532-788X
   includeInCitation: 'true'
   name: Laturnus, Sophie
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Miranda, Elanine
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-8736-527X
+  schemaKey: Person
+- identifier: 0000-0001-8736-527X
   includeInCitation: 'true'
   name: Mulherkar, Shalaka
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Tan, Zheng Huan
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-9361-5607
+  schemaKey: Person
+- identifier: 0000-0002-9361-5607
   includeInCitation: 'true'
   name: Yao, Zizhen
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-9361-5607
+  schemaKey: Person
+- identifier: 0000-0002-9361-5607
   includeInCitation: 'true'
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-0326-5878
+  schemaKey: Person
+- identifier: 0000-0002-0326-5878
   includeInCitation: 'true'
   name: Zeng, Hongkui
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-6473-1740
+  schemaKey: Person
+- identifier: 0000-0001-6473-1740
   includeInCitation: 'true'
   name: Sandberg, Rickard
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-0199-4727
+  schemaKey: Person
+- identifier: 0000-0002-0199-4727
   includeInCitation: 'true'
   name: Berens, Philipp
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-4305-6376
+  schemaKey: Person
+- identifier: 0000-0002-4305-6376
   includeInCitation: 'true'
   name: Tolias, Andreas Savas
   roleName:
   - dandi:Author
+  schemaKey: Person
 description: This dataset contains rectangular stimulation of cell under temperature-controlled
   conditions (34 ℃)
-identifier:
-  propertyID: DANDI
-  value: '000035'
+identifier: DANDI:000035
 name: Temperature-controlled intracellular ephys in mouse motor cortex
 repository: https://dandiarchive.org/
 schemaVersion: 1.0.0-rc1

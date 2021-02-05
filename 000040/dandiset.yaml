@@ -1,9 +1,7 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-5484-9331
+- identifier: 0000-0001-5484-9331
   includeInCitation: 'true'
   name: Jia, Xiaoxuan
   roleName:
@@ -12,9 +10,8 @@ contributor:
   - dandi:DataCurator
   - dandi:Validation
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-7736-4844
+  schemaKey: Person
+- identifier: 0000-0002-7736-4844
   includeInCitation: 'true'
   name: Siegle, Josh
   roleName:
@@ -22,32 +19,28 @@ contributor:
   - dandi:Resources
   - dandi:Software
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-001-7788-0200
+  schemaKey: Person
+- identifier: 0000-001-7788-0200
   includeInCitation: 'true'
   name: Durand, Severine
   roleName:
   - dandi:DataCollector
-- identifier:
-    propertyID: ORCID
-    value: 0000-0003-3552-996X
+  schemaKey: Person
+- identifier: 0000-0003-3552-996X
   includeInCitation: 'true'
   name: Heller, Gregg
   roleName:
   - dandi:DataCollector
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-6569-5291
+  schemaKey: Person
+- identifier: 0000-0002-6569-5291
   includeInCitation: 'true'
   name: Ramirez, Tamina
   roleName:
   - dandi:DataCollector
+  schemaKey: Person
 description: 'This dataset contains electrophysiological recordings in mouse visual
   system collected at Allen Institute, packaged in NWB1.0 format. '
-identifier:
-  propertyID: DANDI
-  value: '000040'
+identifier: DANDI:000040
 keywords:
 - Neuropixels
 - NWB1.0

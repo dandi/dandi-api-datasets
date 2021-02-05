@@ -4,95 +4,93 @@ contributor:
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
+    schemaKey: Organization
   email: joshs@alleninstitute.org
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-7736-4844
+  identifier: 0000-0002-7736-4844
   includeInCitation: 'true'
   name: Siegle, Josh
   roleName:
   - dandi:Author
   - dandi:ContactPerson
   - dandi:ProjectLeader
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
+    schemaKey: Organization
   email: waynew@alleninstitute.org
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-3693-3609
+  identifier: 0000-0002-3693-3609
   includeInCitation: 'true'
   name: Wakeman, Wayne
   roleName:
   - dandi:DataManager
   - dandi:ContactPerson
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
-  identifier:
-    propertyID: ORCID
-    value: 0000-0001-5484-9331
+    schemaKey: Organization
+  identifier: 0000-0001-5484-9331
   includeInCitation: 'true'
   name: Jia, Xiaoxuan
   roleName:
   - dandi:Validation
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
-  identifier:
-    propertyID: ORCID
-    value: 0000-0003-3552-996X
+    schemaKey: Organization
+  identifier: 0000-0003-3552-996X
   includeInCitation: 'true'
   name: Heller, Gregg
   roleName:
   - dandi:DataCollector
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
-  identifier:
-    propertyID: ORCID
-    value: 0000-0002-6569-5291
+    schemaKey: Organization
+  identifier: 0000-0002-6569-5291
   includeInCitation: 'true'
   name: Ramirez, Tamina
   roleName:
   - dandi:DataCollector
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
-  identifier:
-    propertyID: ORCID
-    value: 0000-0003-1290-3912
+    schemaKey: Organization
+  identifier: 0000-0003-1290-3912
   includeInCitation: 'true'
   name: Graddis, Nile
   roleName:
   - dandi:Software
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
-  identifier:
-    propertyID: ORCID
-    value: 0000-0001-8893-1763
+    schemaKey: Organization
+  identifier: 0000-0001-8893-1763
   includeInCitation: 'true'
   name: Mei, Nicholas
   roleName:
   - dandi:Software
+  schemaKey: Person
 - affiliation:
   - includeInCitation: 'false'
     name: Allen Institute for Brain Science
-  identifier:
-    propertyID: ORCID
-    value: 0000-001-7788-0200
+    schemaKey: Organization
+  identifier: 0000-001-7788-0200
   includeInCitation: 'true'
   name: Durand, Severine
   roleName:
   - dandi:DataCollector
+  schemaKey: Person
 description: "Allen Institute October 2019 Mouse extracellular electrophysiology data
   approximately matching two-photon brain observatory stimulus set. \n\nFor more information,
   see https://portal.brain-map.org/explore/circuits/visual-coding-neuropixels\n\nData
   are subject to Allen Institute terms of use, available at: http://www.alleninstitute.org/legal/terms-use/"
-identifier:
-  propertyID: DANDI
-  value: '000021'
+identifier: DANDI:000021
 keywords:
 - electrophysiology
 - life sciences

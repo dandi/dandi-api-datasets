@@ -1,9 +1,7 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0003-3136-8097
+- identifier: https://orcid.org/0000-0003-3136-8097
   includeInCitation: 'true'
   name: Kalmbach, Brian
   roleName:
@@ -11,37 +9,33 @@ contributor:
   - dandi:Conceptualization
   - dandi:ContactPerson
   - dandi:DataCollector
-- identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0001-8266-0392
+  schemaKey: Person
+- identifier: https://orcid.org/0000-0001-8266-0392
   includeInCitation: 'true'
   name: Ting, Jonathan
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:Conceptualization
-- identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0001-6294-7513
+  schemaKey: Person
+- identifier: https://orcid.org/0000-0001-6294-7513
   includeInCitation: 'true'
   name: Owen, Scott
   roleName:
   - dandi:Author
   - dandi:DataCollector
-- identifier:
-    propertyID: ORCID
-    value: https://orcid.org/0000-0001-9012-6552
+  schemaKey: Person
+- identifier: https://orcid.org/0000-0001-9012-6552
   includeInCitation: 'true'
   name: Lein, Ed
   roleName:
   - dandi:Author
   - dandi:ProjectLeader
   - dandi:Conceptualization
+  schemaKey: Person
 description: Patch clamp recordings from human premotor cortex, macaque M1 and mouse
   MOp.
-identifier:
-  propertyID: DANDI
-  value: '000043'
+identifier: DANDI:000043
 keywords:
 - Patch-seq, Motor cortex, Betz cell, Human, Macaque, Mouse
 - ''

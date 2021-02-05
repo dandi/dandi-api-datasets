@@ -2,9 +2,7 @@ access:
 - status: dandi:Open
 description: billateral LFP recordings from barrel field of rats during bi- and unilateral
   whiskers stimulation
-identifier:
-  propertyID: DANDI
-  value: '000024'
+identifier: DANDI:000024
 keywords:
 - LFP, BF, interhemispheric
 name: LFP & MUA from BF

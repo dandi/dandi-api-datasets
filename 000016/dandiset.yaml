@@ -1,21 +1,19 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-6454-2448
+- identifier: 0000-0001-6454-2448
   includeInCitation: 'true'
   name: Najafi, Farzaneh
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-3205-3794
+  schemaKey: Person
+- identifier: 0000-0002-3205-3794
   includeInCitation: 'true'
   name: Churchland, Anne K.
   roleName:
   - dandi:Author
+  schemaKey: Person
 description: 'This package contains data, in NWB (Neurodata Without Borders) format,
   from the 4 mice included in "Najafi, Farzaneh, Gamaleldin F. Elsayed, Robin Cao,
   Eftychios Pnevmatikakis, Peter E. Latham, John P. Cunningham, and Anne K. Churchland.
@@ -31,10 +29,9 @@ description: 'This package contains data, in NWB (Neurodata Without Borders) for
   time event (e.g. stimulus start, animal choice, etc.) can be found under "modules/
   Trial-based-Segmentation". A jupyter notebook presenting in detail how to work with
   NWB files is provided at https://github.com/ttngu207/najafi-2018-nwb/blob/master/notebooks/Najafi-2018_example.ipynb.'
-identifier:
-  propertyID: DANDI
-  value: '000016'
-license: CC-BY-4.0
+identifier: DANDI:000016
+license:
+- dandi:CCBY40
 name: Excitatory and inhibitory subnetworks are equally selective during decision-making
   and emerge simultaneously during learning
 relatedResource:

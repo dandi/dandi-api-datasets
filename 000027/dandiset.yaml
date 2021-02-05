@@ -1,20 +1,17 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: 0000-0003-3456-2493
+- identifier: 0000-0003-3456-2493
   includeInCitation: 'true'
   roleName:
   - dandi:Author
+  schemaKey: Person
 description: 'Should be ignored by regular mortals.
 
 
   ATM contains only a few files from http://github.com/dandi-datasets/nwb_test_data
   which more or less appropriate (do not lack critical metadata) for testing'
-identifier:
-  propertyID: DANDI
-  value: '000027'
+identifier: DANDI:000027
 keywords:
 - development
 name: Test dataset for testing dandi-cli.

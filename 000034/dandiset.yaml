@@ -1,45 +1,39 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: 0000-0003-3661-527X
+- identifier: 0000-0003-3661-527X
   includeInCitation: 'true'
   name: Buccino, Alessio
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-2023-1653
+  schemaKey: Person
+- identifier: 0000-0002-2023-1653
   includeInCitation: 'true'
   name: Hurwitz, Cole
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Garcia, Samuel
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-5286-4375
+  schemaKey: Person
+- identifier: 0000-0002-5286-4375
   includeInCitation: 'true'
   name: Magland, Jeremy
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-7736-4844
+  schemaKey: Person
+- identifier: 0000-0002-7736-4844
   includeInCitation: 'true'
   name: Siegle, Joshua
-- identifier: {}
-  includeInCitation: 'true'
+  schemaKey: Person
+- includeInCitation: 'true'
   name: Hurwitz, Roger
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-7270-5817
+  schemaKey: Person
+- identifier: 0000-0001-7270-5817
   includeInCitation: 'true'
   name: Hennig, Matthias H.
+  schemaKey: Person
 description: 'This dataset contains all recordings analysed in the paper: SpikeInterface,
   a unified framework for spike sorting. Alessio P. Buccino, Cole L. Hurwitz, Samuel
   Garcia, Jeremy Magland, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig, bioRxiv
   796599; doi: https://doi.org/10.1101/796599.
 
   '
-identifier:
-  propertyID: DANDI
-  value: '000034'
+identifier: DANDI:000034
 keywords:
 - Spike Sorting
 name: SpikeInterface, a unified framework for spike sorting

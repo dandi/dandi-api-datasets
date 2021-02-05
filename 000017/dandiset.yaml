@@ -1,48 +1,43 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-7029-2908
+- identifier: 0000-0001-7029-2908
   includeInCitation: 'true'
   name: Steinmetz, Nicholas
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-9054-2599
+  schemaKey: Person
+- identifier: 0000-0001-9054-2599
   includeInCitation: 'true'
   name: Zatka-Haas, Peter
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0003-4880-7682
+  schemaKey: Person
+- identifier: 0000-0003-4880-7682
   includeInCitation: 'true'
   name: Carandini, Matteo
   roleName:
   - dandi:Author
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-5930-6456
+  schemaKey: Person
+- identifier: 0000-0002-5930-6456
   includeInCitation: 'true'
   name: Harris, Kenneth
   roleName:
   - dandi:Author
-- identifier: {}
-  includeInCitation: 'true'
+  schemaKey: Person
+- includeInCitation: 'true'
   name: Wang, Renee
   roleName:
   - dandi:DataCurator
+  schemaKey: Person
 description: Data from "Distributed coding of choice, action and engagement across
   the mouse brain" Steinmetz et. al Nature 2019
-identifier:
-  propertyID: DANDI
-  value: '000017'
+identifier: DANDI:000017
 keywords:
 - neuropixels
-license: CC-BY-4.0
+license:
+- dandi:CCBY40
 name: Distributed coding of choice, action and engagement across the mouse brain
 relatedResource:
 - identifier: DOI:10.1038/s41586-019-1787-x

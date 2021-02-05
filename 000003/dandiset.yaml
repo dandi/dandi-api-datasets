@@ -1,35 +1,31 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier: {}
-  includeInCitation: 'true'
+- includeInCitation: 'true'
   name: Senzai, Yuta
   roleName:
   - dandi:Author
   - dandi:ContactPerson
   - dandi:DataCollector
   - dandi:FormalAnalysis
-- identifier:
-    propertyID: ORCID
-    value: 0000-0001-8481-0796
+  schemaKey: Person
+- identifier: 0000-0001-8481-0796
   includeInCitation: 'true'
   name: Fernandez-Ruiz, Antonio
   roleName:
   - dandi:Author
   - dandi:FormalAnalysis
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-3100-4800
+  schemaKey: Person
+- identifier: 0000-0002-3100-4800
   includeInCitation: 'true'
   name: Buzsaki, Gyorgy
   roleName:
   - dandi:Author
+  schemaKey: Person
 description: Data from "Layer-Specific Physiological Features and Interlaminar Interactions
   in the Primary Visual Cortex of the Mouse" Senzai, Fernandez-Ruiz, Buzsaki, Neuron
   2019. Electrophysiology recordings of hippocampus during theta maze exploration.
-identifier:
-  propertyID: DANDI
-  value: '000003'
+identifier: DANDI:000003
 keywords:
 - alpha rhyth
 - cell types
@@ -40,7 +36,8 @@ keywords:
 - oscillations
 - primary visual cortex
 - sleep
-license: CC-BY-4.0
+license:
+- dandi:CCBY40
 name: Layer-Specific Physiological Features and Interlaminar Interactions in the Primary
   Visual Cortex of the Mouse
 relatedResource:

@@ -1,20 +1,20 @@
 access:
 - status: dandi:Open
 contributor:
-- identifier:
-    propertyID: ORCID
-    value: 0000-0002-1974-4603
+- identifier: 0000-0002-1974-4603
   includeInCitation: 'true'
   name: Bouchard, Kristofer E.
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:FormalAnalysis
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Chang, Edward F.
   roleName:
   - dandi:Author
   - dandi:ContactPerson
+  schemaKey: Person
 description: 'The enclosed data is collected using a high-density 256-channel electrocorticography
   (ECoG) array implanted in human patients during treatment for epilepsy. The subjects
   are reading aloud consonant-vowel syllables from a list. The data was collected
@@ -32,9 +32,7 @@ description: 'The enclosed data is collected using a high-density 256-channel el
   silent, which can be used as a baseline. Hand-marked anatomical labels are included
   for electrodes in the relevant brain regions. All dates have been removed for HIPAA
   compliance and replaced with Jan 1, 1900.'
-identifier:
-  propertyID: DANDI
-  value: '000019'
+identifier: DANDI:000019
 keywords:
 - electrocorticography (ECoG)
 - speech production

@@ -1,0 +1,46 @@
+access:
+- status: dandi:Open
+contributor:
+- includeInCitation: 'true'
+  name: Peyrache, Adrien
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- includeInCitation: 'true'
+  name: Lacroix, Marie M
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- includeInCitation: 'true'
+  name: Petersen, Peter C
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+- includeInCitation: 'true'
+  name: Buzsáki, György
+  roleName:
+  - dandi:Author
+  schemaKey: Person
+description: The head-direction (HD) system functions as a compass, with member neurons
+  robustly increasing their firing rates when the animal's head points in a specific
+  direction. HD neurons may be driven by peripheral sensors or, as computational models
+  postulate, internally generated (attractor) mechanisms. We addressed the contributions
+  of stimulus-driven and internally generated activity by recording ensembles of HD
+  neurons in the antero-dorsal thalamic nucleus and the post-subiculum of mice by
+  comparing their activity in various brain states. The temporal correlation structure
+  of HD neurons was preserved during sleep, characterized by a 60°-wide correlated
+  neuronal firing (activity packet), both within and across these two brain structures.
+  During rapid eye movement sleep, the spontaneous drift of the activity packet was
+  similar to that observed during waking and accelerated tenfold during slow-wave
+  sleep. These findings demonstrate that peripheral inputs impinge on an internally
+  organized network, which provides amplification and enhanced precision of the HD
+  signal.
+identifier: DANDI:000056
+keywords:
+- ''
+name: Internally organized mechanisms of the head direction sense
+relatedResource:
+- relation: dandi:IsDescribedBy
+  url: https://www.nature.com/articles/nn.3968
+repository: https://dandiarchive.org/
+schemaVersion: 1.0.0-rc1

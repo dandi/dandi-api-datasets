@@ -5,10 +5,12 @@ contributor:
   name: Grosmark, Andres D.
   roleName:
   - dandi:Author
+  schemaKey: Person
 - includeInCitation: 'true'
   name: Buzsáki, György
   roleName:
   - dandi:Author
+  schemaKey: Person
 description: This data set is composed of eight bilateral silicon-probe multi-cellular
   electrophysiological recordings performed on four male Long-Evans rats in the Buzsáki
   lab at NYU. These recordings were performed to assess the effect of novel spatial
@@ -26,9 +28,7 @@ description: This data set is composed of eight bilateral silicon-probe multi-ce
   epochs. In addition to hippocampal electrophysiological recordings, neck EMG and
   head-mounted accelerometer signals were recorded, and the animal’s position during
   MAZE running epochs was tracked via head-mounted LEDs.
-identifier:
-  propertyID: DANDI
-  value: '000044'
+identifier: DANDI:000044
 name: Diversity in neural firing dynamics supports both rigid and learned hippocampal
   sequences
 relatedResource:

@@ -2,6 +2,7 @@ access:
 - status: dandi:Open
 contributor:
 - includeInCitation: 'true'
+  schemaKey: Person
 description: "This dataset is a result of a multi-institution, cross country collaboration
   of labs, called International Brain Laboratory conducting standardized experiments
   on decision-making in mice. In the experiment, mice are shown a visual grating on
@@ -14,9 +15,7 @@ description: "This dataset is a result of a multi-institution, cross country col
   Hausser, M., Hofer, S., Hu, F., Khanal, A., Krasniak, C., Laranjeira, I., … Zador,
   A. (2020). A standardized and reproducible method to measure decision-making in
   mice. BioRxiv, 2020.01.17.909838. https://doi.org/10.1101/2020.01.17.909838"
-identifier:
-  propertyID: DANDI
-  value: '000045'
+identifier: DANDI:000045
 keywords:
 - International Brain Laboratory
 name: IBL behavioral data
