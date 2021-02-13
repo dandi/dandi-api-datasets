@@ -1,0 +1,1160 @@
+derivatives/ParameterMaps/sub-I46/flash10.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/flash20.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/flash30.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/PD.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/sse.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/T1.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/T2star.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n01.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n02.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n03.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n04.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n05.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n06.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n07.7z
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-OCT/I46-OCT-nor.tif
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.nii.gz
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/test.json
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
+    meta["nwb_version"] = get_nwb_version(path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 84, in get_nwb_version
+    with h5py.File(filepath, "r") as h5file:
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
+    fid = make_fid(name, mode, userblock_size,
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (file signature not found)
+
