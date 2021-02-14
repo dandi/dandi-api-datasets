@@ -1,0 +1,54 @@
+001_140709EXP_A1_ndx_v3.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+    metadata = nwb2asset(
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 66, in get_metadata
+    meta.update(_get_pynwb_metadata(path))
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 173, in _get_pynwb_metadata
+    nwb = io.read()
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 420, in read
+    return call_docval_func(super().read, kwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 423, in call_docval_func
+    return func(*fargs, **fkwargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/backends/io.py", line 41, in read
+    container = self.__manager.construct(f_builder)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 282, in construct
+    result = self.__type_map.construct(builder, self, None)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 954, in construct
+    obj_mapper = self.get_map(builder)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 874, in get_map
+    container_cls = self.get_cls(obj)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 807, in get_cls
+    return self.get_container_cls(namespace, data_type)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 719, in get_container_cls
+    d = self.__get_cls_dict(parent_cls, fields, spec.name, spec.default_name)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 642, in __get_cls_dict
+    dtype = self.__get_type(field_spec)
+  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 542, in __get_type
+    if spec.shape is None and spec.dims is None:
+AttributeError: 'NWBGroupSpec' object has no attribute 'shape'
+

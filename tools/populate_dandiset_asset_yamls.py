@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 from collections import deque
+from contextlib import suppress
 import os.path
 from pathlib import Path
 import sys
+import traceback
 from dandi.consts import dandiset_metadata_file
 from dandi.metadata import nwb2asset
+from dandi.models import AssetMeta
 from dandi.support.digests import Digester
+from pydantic import ValidationError
 import ruamel.yaml
 
 
@@ -19,16 +23,29 @@ def main():
         if not dspath.is_dir():
             dspath = dspath.parent
         assert dspath.is_dir()
+        outdir = Path(dspath.name)
+        conversion_errs = outdir / "CONVERSION.errors"
+        validation_errs = outdir / "VALIDATION.errors"
+        with suppress(FileNotFoundError):
+            conversion_errs.unlink()
+        with suppress(FileNotFoundError):
+            validation_errs.unlink()
         for f in iterfiles(dspath):
             if f == dspath / dandiset_metadata_file:
                 continue
+            relpath = f.relative_to(dspath)
             print("Processing", f)
             sha256_digest = digester(f)["sha256"]
             try:
                 metadata = nwb2asset(
                     f, digest=sha256_digest, digest_type="SHA256"
                 ).json_dict()
-            except Exception:
+            except Exception as e:
+                print(f"CONVERSION ERROR: {e}")
+                with conversion_errs.open("a") as fp:
+                    print(relpath, file=fp)
+                    traceback.print_exc(file=fp)
+                    print(file=fp)
                 metadata = {
                     "contentSize": os.path.getsize(f),
                     "digest": sha256_digest,
@@ -37,9 +54,16 @@ def main():
                     # "encodingFormat": # TODO
                 }
             else:
-                metadata["path"] = str(f.relative_to(dspath))
-            outfile = Path(dspath.name, f.relative_to(dspath))
-            outfile = outfile.with_name(outfile.name + ".yaml")
+                metadata["path"] = str(relpath)
+                try:
+                    AssetMeta(**metadata)
+                except ValidationError as e:
+                    print(f"VALIDATION ERROR: {e}")
+                    with validation_errs.open("a") as fp:
+                        print(relpath, file=fp)
+                        traceback.print_exc(file=fp)
+                        print(file=fp)
+            outfile = (outdir / relpath).with_name(f.name + ".yaml")
             outfile.parent.mkdir(parents=True, exist_ok=True)
             with outfile.open("w") as fp:
                 yaml.dump(metadata, fp)
