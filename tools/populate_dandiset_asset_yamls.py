@@ -7,7 +7,7 @@ import sys
 import traceback
 from dandi.consts import dandiset_metadata_file
 from dandi.metadata import nwb2asset
-from dandi.models import AssetMeta
+from dandi.models import BareAssetMeta
 from dandi.pynwb_utils import validate
 from dandi.support.digests import Digester
 from pydantic import ValidationError
@@ -70,7 +70,7 @@ def main():
             else:
                 metadata["path"] = str(relpath)
                 try:
-                    AssetMeta(**metadata)
+                    BareAssetMeta(**metadata)
                 except ValidationError as e:
                     print(f"VALIDATION ERROR: {e}")
                     with validation_errs.open("a") as fp:
