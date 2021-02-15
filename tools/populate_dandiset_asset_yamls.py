@@ -25,7 +25,7 @@ def main():
             dspath = dspath.parent
         assert dspath.is_dir()
         outdir = Path(dspath.name)
-        pynwb_errs = outdir / "PYNWB.errors"
+        pynwb_errs = outdir / "NWB-VALIDATION.errors"
         conversion_errs = outdir / "CONVERSION.errors"
         validation_errs = outdir / "VALIDATION.errors"
         with suppress(FileNotFoundError):
