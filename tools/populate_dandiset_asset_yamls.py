@@ -8,6 +8,7 @@ import traceback
 from dandi.consts import dandiset_metadata_file
 from dandi.metadata import nwb2asset
 from dandi.models import AssetMeta
+from dandi.pynwb_utils import validate
 from dandi.support.digests import Digester
 from pydantic import ValidationError
 import ruamel.yaml
@@ -24,8 +25,11 @@ def main():
             dspath = dspath.parent
         assert dspath.is_dir()
         outdir = Path(dspath.name)
+        pynwb_errs = outdir / "PYNWB.errors"
         conversion_errs = outdir / "CONVERSION.errors"
         validation_errs = outdir / "VALIDATION.errors"
+        with suppress(FileNotFoundError):
+            pynwb_errs.unlink()
         with suppress(FileNotFoundError):
             conversion_errs.unlink()
         with suppress(FileNotFoundError):
@@ -36,6 +40,16 @@ def main():
             relpath = f.relative_to(dspath)
             print("Processing", f)
             sha256_digest = digester(f)["sha256"]
+            errors = validate(f)
+            if errors:
+                print("PYNWB ERRORS:")
+                for e in errors:
+                    print(f" - {e}")
+                with pynwb_errs.open("a") as fp:
+                    print(relpath, file=fp)
+                    for e in errors:
+                        print(f" - {e}", file=fp)
+                    print(file=fp)
             try:
                 metadata = nwb2asset(
                     f, digest=sha256_digest, digest_type="SHA256"
