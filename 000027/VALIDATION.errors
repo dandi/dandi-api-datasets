@@ -1,6 +1,6 @@
 sub-RAT123/sub-RAT123.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta

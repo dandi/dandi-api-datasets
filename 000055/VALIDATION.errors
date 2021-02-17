@@ -1,0 +1,495 @@
+sub-01/sub-01_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-01/sub-01_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-01/sub-01_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-01/sub-01_ses-20000107T033122_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-02/sub-02_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-02/sub-02_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-02/sub-02_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-02/sub-02_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-03/sub-03_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-03/sub-03_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-03/sub-03_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-03/sub-03_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-04/sub-04_ses-20000103T032048_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-04/sub-04_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-04/sub-04_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-04/sub-04_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-04/sub-04_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-05/sub-05_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-05/sub-05_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-05/sub-05_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-06/sub-06_ses-20000103T030720_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-06/sub-06_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-06/sub-06_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-06/sub-06_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-06/sub-06_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-07/sub-07_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-07/sub-07_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-07/sub-07_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-07/sub-07_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-07/sub-07_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-08/sub-08_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-08/sub-08_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-08/sub-08_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-08/sub-08_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-08/sub-08_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-09/sub-09_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-09/sub-09_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-09/sub-09_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-09/sub-09_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-09/sub-09_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-11/sub-11_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-11/sub-11_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-11/sub-11_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-11/sub-11_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-11/sub-11_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-10/sub-10_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-10/sub-10_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-10/sub-10_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-10/sub-10_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-10/sub-10_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-12/sub-12_ses-20000102T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-12/sub-12_ses-20000103T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-12/sub-12_ses-20000104T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-12/sub-12_ses-20000105T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+
+sub-12/sub-12_ses-20000106T190000_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
+    AssetMeta(**metadata)
+  File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
+identifier
+  field required (type=value_error.missing)
+

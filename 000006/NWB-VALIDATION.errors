@@ -1,0 +1,424 @@
+sub-anm369962/sub-anm369962_ses-20170309.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369962/sub-anm369962_ses-20170310.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369962/sub-anm369962_ses-20170313.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369962/sub-anm369962_ses-20170314.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369962/sub-anm369962_ses-20170316.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369962/sub-anm369962_ses-20170317.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170226.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170227.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170228.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170301.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170302.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170306.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170309.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_ses-20170310.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369964/sub-anm369964_ses-20170320.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369964/sub-anm369964_ses-20170321.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369964/sub-anm369964_ses-20170322.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369964/sub-anm369964_ses-20170323.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372793/sub-anm372793_ses-20170504.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372793/sub-anm372793_ses-20170508.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372793/sub-anm372793_ses-20170512.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372793/sub-anm372793_ses-20170513.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372793/sub-anm372793_ses-20170514.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372794/sub-anm372794_ses-20170621.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372794/sub-anm372794_ses-20170622.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372794/sub-anm372794_ses-20170624.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372794/sub-anm372794_ses-20170625.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372794/sub-anm372794_ses-20170626.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372794/sub-anm372794_ses-20170627.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372795/sub-anm372795_ses-20170714.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372795/sub-anm372795_ses-20170715.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372795/sub-anm372795_ses-20170716.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372795/sub-anm372795_ses-20170718.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372797/sub-anm372797_ses-20170615.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372797/sub-anm372797_ses-20170617.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372904/sub-anm372904_ses-20170615.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372904/sub-anm372904_ses-20170616.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372904/sub-anm372904_ses-20170617.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372904/sub-anm372904_ses-20170618.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372904/sub-anm372904_ses-20170619.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372905/sub-anm372905_ses-20170715.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372905/sub-anm372905_ses-20170716.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372905/sub-anm372905_ses-20170717.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372906/sub-anm372906_ses-20170608.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372906/sub-anm372906_ses-20170610.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372906/sub-anm372906_ses-20170611.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372906/sub-anm372906_ses-20170612.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372907/sub-anm372907_ses-20170608.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372907/sub-anm372907_ses-20170610.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372907/sub-anm372907_ses-20170612.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372907/sub-anm372907_ses-20170613.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372909/sub-anm372909_ses-20170520.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm372909/sub-anm372909_ses-20170522.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+

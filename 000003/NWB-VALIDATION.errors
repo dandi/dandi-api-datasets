@@ -1,0 +1,5 @@
+sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150218_behavior+ecephys.nwb
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int64'
+ - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
+

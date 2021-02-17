@@ -1,0 +1,990 @@
+sub-210861/sub-210861_ses-20130701_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210861/sub-210861_ses-20130702_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210861/sub-210861_ses-20130703_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210862/sub-210862_ses-20130626_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210862/sub-210862_ses-20130627_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210862/sub-210862_ses-20130628_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210863/sub-210863_ses-20130626_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210863/sub-210863_ses-20130627_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-210863/sub-210863_ses-20130628_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214427/sub-214427_ses-20130805_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214427/sub-214427_ses-20130806_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214427/sub-214427_ses-20130807_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214427/sub-214427_ses-20130808_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214429/sub-214429_ses-20130805_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214429/sub-214429_ses-20130806_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214429/sub-214429_ses-20130807_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214429/sub-214429_ses-20130808_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214430/sub-214430_ses-20130820_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214430/sub-214430_ses-20130821_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214430/sub-214430_ses-20130822_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-214430/sub-214430_ses-20130823_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218453/sub-218453_ses-20131014_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218453/sub-218453_ses-20131015_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218453/sub-218453_ses-20131016_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218453/sub-218453_ses-20131017_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218453/sub-218453_ses-20131018_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218457/sub-218457_ses-20131003_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218457/sub-218457_ses-20131004_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218457/sub-218457_ses-20131005_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218457/sub-218457_ses-20131006_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218457/sub-218457_ses-20131007_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218457/sub-218457_ses-20131008_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218693/sub-218693_ses-20131203_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218693/sub-218693_ses-20131204_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-218693/sub-218693_ses-20131205_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219030/sub-219030_ses-20130829_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219030/sub-219030_ses-20130830_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219030/sub-219030_ses-20130831_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219030/sub-219030_ses-20130901_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219030/sub-219030_ses-20130903_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219031/sub-219031_ses-20131021_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219031/sub-219031_ses-20131022_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219031/sub-219031_ses-20131023_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219031/sub-219031_ses-20131024_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219031/sub-219031_ses-20131025_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131116_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131117_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131118_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131119_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131120_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131121_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219033/sub-219033_ses-20131122_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131116_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131117_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131118_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131119_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131120_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131121_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219036/sub-219036_ses-20131122_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131116_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131117_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131118_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131119_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131120_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131121_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219037/sub-219037_ses-20131122_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131021_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131022_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131023_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131024_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131025_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131026_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131027_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219038/sub-219038_ses-20131028_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219247/sub-219247_ses-20130919_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219247/sub-219247_ses-20130920_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219247/sub-219247_ses-20130921_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219247/sub-219247_ses-20130922_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219247/sub-219247_ses-20130923_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130919_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130920_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130921_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130922_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130923_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130924_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219248/sub-219248_ses-20130925_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140117_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140118_obj-1iqyufv_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140118_obj-1m69pde_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140119_obj-1frwttg_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140119_obj-1prjaep_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140120_obj-1y72q3t_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140120_obj-1ylaxc_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140121_obj-366qyo_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140121_obj-qmr8ek_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-219253/sub-219253_ses-20140122_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-221977/sub-221977_ses-20140115_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-221977/sub-221977_ses-20140116_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-221977/sub-221977_ses-20140118_behavior+ecephys+ogen.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/obs_intervals_index): argument missing
+ - VectorIndex (units/obs_intervals_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+

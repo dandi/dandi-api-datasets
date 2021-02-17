@@ -1,0 +1,120 @@
+derivatives/ParameterMaps/sub-I46/flash10.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/flash10.nii.gz: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/flash20.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/flash20.nii.gz: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/flash30.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/flash30.nii.gz: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/PD.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/PD.nii.gz: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/sse.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/sse.nii.gz: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/T1.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/T1.nii.gz: Unable to open file (file signature not found)
+
+derivatives/ParameterMaps/sub-I46/T2star.nii.gz
+ - Failed to validate dandisets/000026/derivatives/ParameterMaps/sub-I46/T2star.nii.gz: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n01.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n01.7z: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n02.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n02.7z: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n03.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n03.7z: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n04.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n04.7z: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n05.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n05.7z: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n06.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n06.7z: Unable to open file (file signature not found)
+
+derivatives/SPIMStitchedSlices/sub-I46/I46_n07.7z
+ - Failed to validate dandisets/000026/derivatives/SPIMStitchedSlices/sub-I46/I46_n07.7z: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-OCT/I46-OCT-nor.tif
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-OCT/I46-OCT-nor.tif: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.json: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.nii.gz
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.nii.gz: Unable to open file (file signature not found)
+
+rawdata/sub-I46/ses-MRI/anat/test.json
+ - Failed to validate dandisets/000026/rawdata/sub-I46/ses-MRI/anat/test.json: Unable to open file (file signature not found)
+

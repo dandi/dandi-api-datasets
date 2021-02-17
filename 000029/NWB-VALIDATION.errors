@@ -1,0 +1,35 @@
+sub-RAT123/sub-RAT123.nwb
+ - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
+
+sub-anm372793/sub-anm372793_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369962/sub-anm369962_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369963/sub-anm369963_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+
+sub-anm369964/sub-anm369964_behavior+ecephys.nwb
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/electrodes_index): argument missing
+ - VectorIndex (units/electrodes_index): incorrect type - expected 'uint8', got 'int32'
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int32'
+

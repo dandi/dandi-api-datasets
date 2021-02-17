@@ -1,0 +1,4 @@
+sub-MEAREC-250neuron-Neuropixels/sub-MEAREC-250neuron-Neuropixels_ecephys.nwb
+ - VectorIndex/description (units/spike_times_index): argument missing
+ - VectorIndex (units/spike_times_index): incorrect type - expected 'uint8', got 'int64'
+

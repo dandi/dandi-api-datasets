@@ -1,100 +1,100 @@
 sub-EC2/sub-EC2_ses-EC2-B1.nwb
 Traceback (most recent call last):
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1240, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1240, in construct
     obj = self.__new_container__(cls, builder.source, parent, builder.attributes.get(self.__spec.id_key()),
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1250, in __new_container__
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1250, in __new_container__
     obj.__init__(**kwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 579, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 579, in func_call
     pargs = _check_args(args, kwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 572, in _check_args
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 572, in _check_args
     raise ExceptionType(msg)
 TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 302, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 294, in nwb2asset
     metadata = get_metadata(nwb_path)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/support/cache.py", line 109, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
     return self._cached_call(args, kwargs)[0]
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
     out, metadata = self.call(*args, **kwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
     output = self.func(*args, **kwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/support/cache.py", line 76, in fingerprinted
     return f(path, *args, **kwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 66, in get_metadata
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 66, in get_metadata
     meta.update(_get_pynwb_metadata(path))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 173, in _get_pynwb_metadata
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 173, in _get_pynwb_metadata
     nwb = io.read()
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 420, in read
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 420, in read
     return call_docval_func(super().read, kwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 423, in call_docval_func
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 423, in call_docval_func
     return func(*fargs, **fkwargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/backends/io.py", line 41, in read
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/backends/io.py", line 41, in read
     container = self.__manager.construct(f_builder)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 282, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 282, in construct
     result = self.__type_map.construct(builder, self, None)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 959, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 959, in construct
     return obj_mapper.construct(builder, build_manager, parent)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1210, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1210, in construct
     subspecs = self.__get_subspec_values(builder, self.spec, manager)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1139, in __get_subspec_values
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1139, in __get_subspec_values
     self.__get_sub_builders(groups, spec.groups, manager, ret)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1190, in __get_sub_builders
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1190, in __get_sub_builders
     ret.update(self.__get_subspec_values(sub_builder, subspec, manager))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1139, in __get_subspec_values
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1139, in __get_subspec_values
     self.__get_sub_builders(groups, spec.groups, manager, ret)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1182, in __get_sub_builders
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1182, in __get_sub_builders
     sub_builder = self.__flatten(sub_builder, subspec, manager)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in __flatten
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in __flatten
     tmp = [manager.construct(b) for b in sub_builder]
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in <listcomp>
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in <listcomp>
     tmp = [manager.construct(b) for b in sub_builder]
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
     result = self.__type_map.construct(builder, self, parent)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 959, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 959, in construct
     return obj_mapper.construct(builder, build_manager, parent)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1210, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1210, in construct
     subspecs = self.__get_subspec_values(builder, self.spec, manager)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1139, in __get_subspec_values
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1139, in __get_subspec_values
     self.__get_sub_builders(groups, spec.groups, manager, ret)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1182, in __get_sub_builders
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1182, in __get_sub_builders
     sub_builder = self.__flatten(sub_builder, subspec, manager)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in __flatten
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in __flatten
     tmp = [manager.construct(b) for b in sub_builder]
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in <listcomp>
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1195, in <listcomp>
     tmp = [manager.construct(b) for b in sub_builder]
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
     result = self.__type_map.construct(builder, self, parent)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 959, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 959, in construct
     return obj_mapper.construct(builder, build_manager, parent)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1244, in construct
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1244, in construct
     raise ConstructError(builder, msg) from ex
 hdmf.build.errors.ConstructError: (root/processing/ecephys/spectrum GroupBuilder {'attributes': {'namespace': 'ndx-spectrum', 'neurodata_type': 'Spectrum'}, 'groups': {}, 'datasets': {'frequencies': root/processing/ecephys/spectrum/frequencies DatasetBuilder {'attributes': {}, 'data': <Closed HDF5 dataset>}, 'power': root/processing/ecephys/spectrum/power DatasetBuilder {'attributes': {}, 'data': <Closed HDF5 dataset>}}, 'links': {'source_timeseries': root/processing/ecephys/spectrum/source_timeseries LinkBuilder {'builder': root/acquisition/ElectricalSeries GroupBuilder {'attributes': {'comments': 'no comments', 'description': 'all Wav data', 'help': 'Stores acquired voltage data from extracellular recordings', 'namespace': 'core', 'neurodata_type': 'ElectricalSeries'}, 'groups': {}, 'datasets': {'data': root/acquisition/ElectricalSeries/data DatasetBuilder {'attributes': {'conversion': 0.001, 'resolution': 0.0, 'unit': 'volt'}, 'data': <Closed HDF5 dataset>}, 'electrodes': root/acquisition/ElectricalSeries/electrodes DatasetBuilder {'attributes': {'description': 'ECoG electrodes on brain', 'help': 'a subset (i.e. slice or region) of a DynamicTable', 'namespace': 'core', 'neurodata_type': 'DynamicTableRegion', 'table': root/general/extracellular_ephys/electrodes GroupBuilder {'attributes': {'colnames': array([b'x', b'y', b'z', b'imp', b'location', b'filtering', b'group',
-       b'group_name', b'bad'], dtype='|S13'), 'description': 'metadata about extracellular electrodes', 'help': 'A column-centric table', 'namespace': 'core', 'neurodata_type': 'DynamicTable'}, 'groups': {}, 'datasets': {'bad': root/general/extracellular_ephys/electrodes/bad DatasetBuilder {'attributes': {'description': 'electrode identified as too noisy', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'filtering': root/general/extracellular_ephys/electrodes/filtering DatasetBuilder {'attributes': {'description': 'description of hardware filtering', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'group': root/general/extracellular_ephys/electrodes/group DatasetBuilder {'attributes': {'description': 'a reference to the ElectrodeGroup this electrode is a part of', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <hdmf.backends.hdf5.h5_utils.BuilderH5ReferenceDataset object at 0x7f6009866b20>}, 'group_name': root/general/extracellular_ephys/electrodes/group_name DatasetBuilder {'attributes': {'description': 'the name of the ElectrodeGroup this electrode is a part of', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'id': root/general/extracellular_ephys/electrodes/id DatasetBuilder {'attributes': {'help': 'unique identifiers for a list of elements', 'namespace': 'core', 'neurodata_type': 'ElementIdentifiers'}, 'data': <Closed HDF5 dataset>}, 'imp': root/general/extracellular_ephys/electrodes/imp DatasetBuilder {'attributes': {'description': 'the impedance of the channel', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'location': root/general/extracellular_ephys/electrodes/location DatasetBuilder {'attributes': {'description': 'the location of channel within the subject e.g. brain region', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'x': root/general/extracellular_ephys/electrodes/x DatasetBuilder {'attributes': {'description': 'the x coordinate of the channel location', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'y': root/general/extracellular_ephys/electrodes/y DatasetBuilder {'attributes': {'description': 'the y coordinate of the channel location', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'z': root/general/extracellular_ephys/electrodes/z DatasetBuilder {'attributes': {'description': 'the z coordinate of the channel location', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}}, 'links': {}}}, 'data': <Closed HDF5 dataset>}, 'starting_time': root/acquisition/ElectricalSeries/starting_time DatasetBuilder {'attributes': {'rate': 3051.7578, 'unit': 'Seconds'}, 'data': 0.0}}, 'links': {}}}}}, "Could not construct Spectrum object due to: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'")
+       b'group_name', b'bad'], dtype='|S13'), 'description': 'metadata about extracellular electrodes', 'help': 'A column-centric table', 'namespace': 'core', 'neurodata_type': 'DynamicTable'}, 'groups': {}, 'datasets': {'bad': root/general/extracellular_ephys/electrodes/bad DatasetBuilder {'attributes': {'description': 'electrode identified as too noisy', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'filtering': root/general/extracellular_ephys/electrodes/filtering DatasetBuilder {'attributes': {'description': 'description of hardware filtering', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'group': root/general/extracellular_ephys/electrodes/group DatasetBuilder {'attributes': {'description': 'a reference to the ElectrodeGroup this electrode is a part of', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <hdmf.backends.hdf5.h5_utils.BuilderH5ReferenceDataset object at 0x7f30b1563610>}, 'group_name': root/general/extracellular_ephys/electrodes/group_name DatasetBuilder {'attributes': {'description': 'the name of the ElectrodeGroup this electrode is a part of', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'id': root/general/extracellular_ephys/electrodes/id DatasetBuilder {'attributes': {'help': 'unique identifiers for a list of elements', 'namespace': 'core', 'neurodata_type': 'ElementIdentifiers'}, 'data': <Closed HDF5 dataset>}, 'imp': root/general/extracellular_ephys/electrodes/imp DatasetBuilder {'attributes': {'description': 'the impedance of the channel', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'location': root/general/extracellular_ephys/electrodes/location DatasetBuilder {'attributes': {'description': 'the location of channel within the subject e.g. brain region', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'x': root/general/extracellular_ephys/electrodes/x DatasetBuilder {'attributes': {'description': 'the x coordinate of the channel location', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'y': root/general/extracellular_ephys/electrodes/y DatasetBuilder {'attributes': {'description': 'the y coordinate of the channel location', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}, 'z': root/general/extracellular_ephys/electrodes/z DatasetBuilder {'attributes': {'description': 'the z coordinate of the channel location', 'help': 'Values for a list of elements', 'namespace': 'core', 'neurodata_type': 'VectorData'}, 'data': <Closed HDF5 dataset>}}, 'links': {}}}, 'data': <Closed HDF5 dataset>}, 'starting_time': root/acquisition/ElectricalSeries/starting_time DatasetBuilder {'attributes': {'rate': 3051.7578, 'unit': 'Seconds'}, 'data': 0.0}}, 'links': {}}}}}, "Could not construct Spectrum object due to: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'")
 

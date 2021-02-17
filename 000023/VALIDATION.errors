@@ -1,6 +1,6 @@
 sub-541516760/sub-541516760_ses-541549227_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -9,7 +9,7 @@ identifier
 
 sub-541516760/sub-541516760_ses-541557101_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -18,7 +18,7 @@ identifier
 
 sub-567704703/sub-567704703_ses-567754895_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -27,7 +27,7 @@ identifier
 
 sub-569800644/sub-569800644_ses-569835791_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -36,7 +36,7 @@ identifier
 
 sub-569800644/sub-569800644_ses-569860104_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -45,7 +45,7 @@ identifier
 
 sub-571364629/sub-571364629_ses-571511135_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -54,7 +54,7 @@ identifier
 
 sub-571458187/sub-571458187_ses-571640515_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -63,7 +63,7 @@ identifier
 
 sub-571458187/sub-571458187_ses-571732666_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -72,7 +72,7 @@ identifier
 
 sub-576060516/sub-576060516_ses-576110705_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -81,7 +81,7 @@ identifier
 
 sub-576060516/sub-576060516_ses-576118003_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -90,7 +90,7 @@ identifier
 
 sub-576060516/sub-576060516_ses-576134053_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -99,7 +99,7 @@ identifier
 
 sub-576060516/sub-576060516_ses-576140380_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -108,7 +108,7 @@ identifier
 
 sub-591270122/sub-591270122_ses-591317862_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -117,7 +117,7 @@ identifier
 
 sub-591270122/sub-591270122_ses-591337939_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -126,7 +126,7 @@ identifier
 
 sub-591270122/sub-591270122_ses-591399423_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -135,7 +135,7 @@ identifier
 
 sub-591270122/sub-591270122_ses-591411317_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -144,7 +144,7 @@ identifier
 
 sub-591270122/sub-591270122_ses-591422046_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -153,7 +153,7 @@ identifier
 
 sub-591270122/sub-591270122_ses-591442353_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -162,7 +162,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592470570_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -171,7 +171,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592518561_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -180,7 +180,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592531937_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -189,7 +189,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592535960_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -198,7 +198,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592544658_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -207,7 +207,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592558145_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -216,7 +216,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592585099_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -225,7 +225,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592592047_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -234,7 +234,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592598056_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -243,7 +243,7 @@ identifier
 
 sub-592433014/sub-592433014_ses-592598585_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -252,7 +252,7 @@ identifier
 
 sub-595536280/sub-595536280_ses-595572593_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -261,7 +261,7 @@ identifier
 
 sub-595536280/sub-595536280_ses-595583049_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -270,7 +270,7 @@ identifier
 
 sub-595954915/sub-595954915_ses-596036386_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -279,7 +279,7 @@ identifier
 
 sub-595954915/sub-595954915_ses-596049412_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -288,7 +288,7 @@ identifier
 
 sub-595954915/sub-595954915_ses-596052253_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -297,7 +297,7 @@ identifier
 
 sub-595954915/sub-595954915_ses-596053349_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -306,7 +306,7 @@ identifier
 
 sub-595954915/sub-595954915_ses-596069195_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -315,7 +315,7 @@ identifier
 
 sub-596832620/sub-596832620_ses-596891498_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -324,7 +324,7 @@ identifier
 
 sub-596832620/sub-596832620_ses-596892865_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -333,7 +333,7 @@ identifier
 
 sub-596832620/sub-596832620_ses-596894371_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -342,7 +342,7 @@ identifier
 
 sub-596832620/sub-596832620_ses-596894428_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -351,7 +351,7 @@ identifier
 
 sub-596832620/sub-596832620_ses-596898822_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -360,7 +360,7 @@ identifier
 
 sub-596832620/sub-596832620_ses-596917071_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -369,7 +369,7 @@ identifier
 
 sub-601901227/sub-601901227_ses-601940724_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -378,7 +378,7 @@ identifier
 
 sub-601901227/sub-601901227_ses-601958627_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -387,7 +387,7 @@ identifier
 
 sub-601901227/sub-601901227_ses-602165643_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -396,7 +396,7 @@ identifier
 
 sub-601901227/sub-601901227_ses-602234627_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -405,7 +405,7 @@ identifier
 
 sub-611526465/sub-611526465_ses-611616224_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -414,7 +414,7 @@ identifier
 
 sub-611526465/sub-611526465_ses-611630962_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -423,7 +423,7 @@ identifier
 
 sub-611526465/sub-611526465_ses-611926417_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -432,7 +432,7 @@ identifier
 
 sub-642843699/sub-642843699_ses-642862167_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -441,7 +441,7 @@ identifier
 
 sub-642843699/sub-642843699_ses-642864546_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -450,7 +450,7 @@ identifier
 
 sub-642843699/sub-642843699_ses-642867562_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -459,7 +459,7 @@ identifier
 
 sub-648220984/sub-648220984_ses-650074923_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -468,7 +468,7 @@ identifier
 
 sub-651940947/sub-651940947_ses-652075387_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -477,7 +477,7 @@ identifier
 
 sub-653027578/sub-653027578_ses-653034589_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -486,7 +486,7 @@ identifier
 
 sub-653027578/sub-653027578_ses-653040819_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -495,7 +495,7 @@ identifier
 
 sub-653718968/sub-653718968_ses-653804519_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -504,7 +504,7 @@ identifier
 
 sub-653718968/sub-653718968_ses-653824813_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -513,7 +513,7 @@ identifier
 
 sub-653718968/sub-653718968_ses-653825066_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -522,7 +522,7 @@ identifier
 
 sub-653718968/sub-653718968_ses-653854226_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -531,7 +531,7 @@ identifier
 
 sub-653718968/sub-653718968_ses-654180530_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -540,7 +540,7 @@ identifier
 
 sub-660473566/sub-660473566_ses-660494058_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -549,7 +549,7 @@ identifier
 
 sub-665691251/sub-665691251_ses-665694233_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -558,7 +558,7 @@ identifier
 
 sub-665691251/sub-665691251_ses-665711421_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -567,7 +567,7 @@ identifier
 
 sub-665691251/sub-665691251_ses-665713792_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -576,7 +576,7 @@ identifier
 
 sub-665691251/sub-665691251_ses-666155743_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -585,7 +585,7 @@ identifier
 
 sub-672118436/sub-672118436_ses-672184262_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -594,7 +594,7 @@ identifier
 
 sub-672118436/sub-672118436_ses-672298648_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -603,7 +603,7 @@ identifier
 
 sub-672637567/sub-672637567_ses-672646262_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -612,7 +612,7 @@ identifier
 
 sub-672637567/sub-672637567_ses-672650708_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -621,7 +621,7 @@ identifier
 
 sub-674562997/sub-674562997_ses-674613868_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -630,7 +630,7 @@ identifier
 
 sub-674562997/sub-674562997_ses-674615711_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -639,7 +639,7 @@ identifier
 
 sub-674562997/sub-674562997_ses-674635802_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -648,7 +648,7 @@ identifier
 
 sub-674562997/sub-674562997_ses-674643148_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -657,7 +657,7 @@ identifier
 
 sub-674562997/sub-674562997_ses-674660103_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -666,7 +666,7 @@ identifier
 
 sub-676285262/sub-676285262_ses-676464358_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -675,7 +675,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-676983132_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -684,7 +684,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-676983606_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -693,7 +693,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-677060197_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -702,7 +702,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-677060420_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -711,7 +711,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-677087840_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -720,7 +720,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-677094662_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -729,7 +729,7 @@ identifier
 
 sub-676839274/sub-676839274_ses-677099014_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -738,7 +738,7 @@ identifier
 
 sub-677115273/sub-677115273_ses-680581009_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -747,7 +747,7 @@ identifier
 
 sub-677115273/sub-677115273_ses-680581258_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -756,7 +756,7 @@ identifier
 
 sub-677115273/sub-677115273_ses-680581408_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -765,7 +765,7 @@ identifier
 
 sub-685740095/sub-685740095_ses-685767550_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -774,7 +774,7 @@ identifier
 
 sub-685740095/sub-685740095_ses-685806296_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -783,7 +783,7 @@ identifier
 
 sub-685740095/sub-685740095_ses-685814239_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -792,7 +792,7 @@ identifier
 
 sub-685740095/sub-685740095_ses-685815923_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -801,7 +801,7 @@ identifier
 
 sub-685740095/sub-685740095_ses-686077948_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -810,7 +810,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689300515_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -819,7 +819,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689306796_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -828,7 +828,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689309047_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -837,7 +837,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689312206_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -846,7 +846,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689323420_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -855,7 +855,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689354505_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -864,7 +864,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689360240_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -873,7 +873,7 @@ identifier
 
 sub-689168779/sub-689168779_ses-689369740_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -882,7 +882,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695494540_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -891,7 +891,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695496410_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -900,7 +900,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695503853_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -909,7 +909,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695509855_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -918,7 +918,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695510684_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -927,7 +927,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695510714_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -936,7 +936,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695517029_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -945,7 +945,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695521496_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -954,7 +954,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695531184_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -963,7 +963,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695531218_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -972,7 +972,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695538825_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -981,7 +981,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695543419_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -990,7 +990,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695546514_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -999,7 +999,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695557325_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1008,7 +1008,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-695574422_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1017,7 +1017,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-696106559_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1026,7 +1026,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-696109719_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1035,7 +1035,7 @@ identifier
 
 sub-695464588/sub-695464588_ses-696111513_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1044,7 +1044,7 @@ identifier
 
 sub-700619648/sub-700619648_ses-700798753_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1053,7 +1053,7 @@ identifier
 
 sub-700619648/sub-700619648_ses-700820972_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1062,7 +1062,7 @@ identifier
 
 sub-700619648/sub-700619648_ses-700826467_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1071,7 +1071,7 @@ identifier
 
 sub-700619648/sub-700619648_ses-700843431_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1080,7 +1080,7 @@ identifier
 
 sub-700619648/sub-700619648_ses-700862472_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1089,7 +1089,7 @@ identifier
 
 sub-700619648/sub-700619648_ses-701072579_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1098,7 +1098,7 @@ identifier
 
 sub-707724503/sub-707724503_ses-707828821_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1107,7 +1107,7 @@ identifier
 
 sub-707724503/sub-707724503_ses-707833431_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1116,7 +1116,7 @@ identifier
 
 sub-712700908/sub-712700908_ses-712882756_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1125,7 +1125,7 @@ identifier
 
 sub-712700908/sub-712700908_ses-712886987_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1134,7 +1134,7 @@ identifier
 
 sub-712700908/sub-712700908_ses-712889217_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1143,7 +1143,7 @@ identifier
 
 sub-712700908/sub-712700908_ses-712892003_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1152,7 +1152,7 @@ identifier
 
 sub-716866594/sub-716866594_ses-716918793_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1161,7 +1161,7 @@ identifier
 
 sub-716866594/sub-716866594_ses-716928764_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1170,7 +1170,7 @@ identifier
 
 sub-717026464/sub-717026464_ses-717075468_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1179,7 +1179,7 @@ identifier
 
 sub-717026464/sub-717026464_ses-717087410_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1188,7 +1188,7 @@ identifier
 
 sub-717026464/sub-717026464_ses-717094580_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1197,7 +1197,7 @@ identifier
 
 sub-720531601/sub-720531601_ses-720794892_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1206,7 +1206,7 @@ identifier
 
 sub-720531601/sub-720531601_ses-720795676_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1215,7 +1215,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720827966_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1224,7 +1224,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720828198_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1233,7 +1233,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720828324_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1242,7 +1242,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720834255_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1251,7 +1251,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720838509_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1260,7 +1260,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720845876_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1269,7 +1269,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720845905_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1278,7 +1278,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720850095_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1287,7 +1287,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720850964_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1296,7 +1296,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720856105_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1305,7 +1305,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720856351_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1314,7 +1314,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720862313_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1323,7 +1323,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720864592_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1332,7 +1332,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720871145_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1341,7 +1341,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-720878765_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1350,7 +1350,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-721549850_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1359,7 +1359,7 @@ identifier
 
 sub-720619787/sub-720619787_ses-721570928_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1368,7 +1368,7 @@ identifier
 
 sub-727391446/sub-727391446_ses-727397252_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1377,7 +1377,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732048771_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1386,7 +1386,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732056436_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1395,7 +1395,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732063450_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1404,7 +1404,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732080877_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1413,7 +1413,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732089196_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1422,7 +1422,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732091715_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1431,7 +1431,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732095848_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1440,7 +1440,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732101760_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1449,7 +1449,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732113347_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1458,7 +1458,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732127660_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1467,7 +1467,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732150053_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1476,7 +1476,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732159482_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1485,7 +1485,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732170598_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1494,7 +1494,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732197486_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1503,7 +1503,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732204543_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1512,7 +1512,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732477219_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1521,7 +1521,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732765244_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1530,7 +1530,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732773423_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1539,7 +1539,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732782531_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1548,7 +1548,7 @@ identifier
 
 sub-731978186/sub-731978186_ses-732791475_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1557,7 +1557,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737089415_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1566,7 +1566,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737133722_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1575,7 +1575,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737134060_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1584,7 +1584,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737158405_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1593,7 +1593,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737191617_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1602,7 +1602,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737279146_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1611,7 +1611,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737279297_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1620,7 +1620,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737293859_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1629,7 +1629,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737294035_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1638,7 +1638,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737404007_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1647,7 +1647,7 @@ identifier
 
 sub-736890023/sub-736890023_ses-737424138_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1656,7 +1656,7 @@ identifier
 
 sub-737373545/sub-737373545_ses-737795448_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1665,7 +1665,7 @@ identifier
 
 sub-737373545/sub-737373545_ses-737820113_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1674,7 +1674,7 @@ identifier
 
 sub-737373545/sub-737373545_ses-737988175_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1683,7 +1683,7 @@ identifier
 
 sub-737373545/sub-737373545_ses-738027216_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1692,7 +1692,7 @@ identifier
 
 sub-750786644/sub-750786644_ses-750842149_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1701,7 +1701,7 @@ identifier
 
 sub-750786644/sub-750786644_ses-750844594_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1710,7 +1710,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758285390_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1719,7 +1719,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758286181_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1728,7 +1728,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758287364_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1737,7 +1737,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758294414_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1746,7 +1746,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758303261_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1755,7 +1755,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758305117_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1764,7 +1764,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758305312_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1773,7 +1773,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758306814_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1782,7 +1782,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758311025_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1791,7 +1791,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758311319_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1800,7 +1800,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758312428_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1809,7 +1809,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758319675_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1818,7 +1818,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758323387_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1827,7 +1827,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758522739_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1836,7 +1836,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758661907_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1845,7 +1845,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758704139_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1854,7 +1854,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758763787_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1863,7 +1863,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758785479_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1872,7 +1872,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758816905_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1881,7 +1881,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758834763_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1890,7 +1890,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758834873_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1899,7 +1899,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758967664_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1908,7 +1908,7 @@ identifier
 
 sub-758233315/sub-758233315_ses-758996791_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1917,7 +1917,7 @@ identifier
 
 sub-760110174/sub-760110174_ses-760408934_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1926,7 +1926,7 @@ identifier
 
 sub-766758349/sub-766758349_ses-766793835_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1935,7 +1935,7 @@ identifier
 
 sub-766758349/sub-766758349_ses-767061006_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1944,7 +1944,7 @@ identifier
 
 sub-766758349/sub-766758349_ses-767160451_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1953,7 +1953,7 @@ identifier
 
 sub-767377358/sub-767377358_ses-767415408_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1962,7 +1962,7 @@ identifier
 
 sub-767377358/sub-767377358_ses-767421958_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1971,7 +1971,7 @@ identifier
 
 sub-767377358/sub-767377358_ses-767433000_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1980,7 +1980,7 @@ identifier
 
 sub-767377358/sub-767377358_ses-767829614_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1989,7 +1989,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768819554_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -1998,7 +1998,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768848080_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2007,7 +2007,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768848501_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2016,7 +2016,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768852808_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2025,7 +2025,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768857387_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2034,7 +2034,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768860839_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2043,7 +2043,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768866077_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2052,7 +2052,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768866897_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2061,7 +2061,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768874978_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2070,7 +2070,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768885416_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2079,7 +2079,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768891275_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2088,7 +2088,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768897743_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2097,7 +2097,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768899634_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2106,7 +2106,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-768903979_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2115,7 +2115,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-769228073_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2124,7 +2124,7 @@ identifier
 
 sub-768678784/sub-768678784_ses-769293657_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2133,7 +2133,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770249773_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2142,7 +2142,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770254746_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2151,7 +2151,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770255570_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2160,7 +2160,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770268132_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2169,7 +2169,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770268530_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2178,7 +2178,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770275508_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2187,7 +2187,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770275704_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2196,7 +2196,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770307186_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2205,7 +2205,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770320403_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2214,7 +2214,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770337117_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2223,7 +2223,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770369639_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2232,7 +2232,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770401953_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2241,7 +2241,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770414910_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2250,7 +2250,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770466500_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2259,7 +2259,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770466547_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2268,7 +2268,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770511337_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2277,7 +2277,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770516164_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2286,7 +2286,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770544130_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2295,7 +2295,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770581820_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2304,7 +2304,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770611279_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2313,7 +2313,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770611326_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2322,7 +2322,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770645870_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2331,7 +2331,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770650192_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2340,7 +2340,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770658533_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2349,7 +2349,7 @@ identifier
 
 sub-770227957/sub-770227957_ses-770662658_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2358,7 +2358,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774350500_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2367,7 +2367,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774356586_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2376,7 +2376,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774378831_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2385,7 +2385,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774398998_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2394,7 +2394,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774415993_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2403,7 +2403,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774420835_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2412,7 +2412,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774421971_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2421,7 +2421,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774429668_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2430,7 +2430,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774619846_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2439,7 +2439,7 @@ identifier
 
 sub-774230643/sub-774230643_ses-774631795_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2448,7 +2448,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-783585520_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2457,7 +2457,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-783585664_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2466,7 +2466,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-783615170_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2475,7 +2475,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-783624413_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2484,7 +2484,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-783698483_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2493,7 +2493,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-785378254_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2502,7 +2502,7 @@ identifier
 
 sub-783453365/sub-783453365_ses-785379621_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2511,7 +2511,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786437712_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2520,7 +2520,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786443952_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2529,7 +2529,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786448011_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2538,7 +2538,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786456524_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2547,7 +2547,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786464112_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2556,7 +2556,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786465191_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2565,7 +2565,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786472934_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2574,7 +2574,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786484807_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2583,7 +2583,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786497311_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2592,7 +2592,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786497914_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2601,7 +2601,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786508339_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2610,7 +2610,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-786520736_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2619,7 +2619,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-787088903_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2628,7 +2628,7 @@ identifier
 
 sub-786359945/sub-786359945_ses-787239134_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2637,7 +2637,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793375116_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2646,7 +2646,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793433601_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2655,7 +2655,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793490523_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2664,7 +2664,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793518028_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2673,7 +2673,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793523120_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2682,7 +2682,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793560108_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2691,7 +2691,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793615707_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2700,7 +2700,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793647652_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2709,7 +2709,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-793696178_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2718,7 +2718,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-794208661_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2727,7 +2727,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-794245838_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2736,7 +2736,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-794276651_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2745,7 +2745,7 @@ identifier
 
 sub-793165711/sub-793165711_ses-794299380_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2754,7 +2754,7 @@ identifier
 
 sub-797676582/sub-797676582_ses-797977721_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2763,7 +2763,7 @@ identifier
 
 sub-797676582/sub-797676582_ses-798172866_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2772,7 +2772,7 @@ identifier
 
 sub-797676582/sub-797676582_ses-798257712_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2781,7 +2781,7 @@ identifier
 
 sub-805678822/sub-805678822_ses-805752506_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2790,7 +2790,7 @@ identifier
 
 sub-805678822/sub-805678822_ses-805766540_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2799,7 +2799,7 @@ identifier
 
 sub-805678822/sub-805678822_ses-805782225_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2808,7 +2808,7 @@ identifier
 
 sub-811677083/sub-811677083_ses-811883172_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2817,7 +2817,7 @@ identifier
 
 sub-811677083/sub-811677083_ses-811939078_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2826,7 +2826,7 @@ identifier
 
 sub-811677083/sub-811677083_ses-811954336_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2835,7 +2835,7 @@ identifier
 
 sub-813481439/sub-813481439_ses-813709961_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2844,7 +2844,7 @@ identifier
 
 sub-813481439/sub-813481439_ses-813734955_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta
@@ -2853,7 +2853,7 @@ identifier
 
 sub-832340431/sub-832340431_ses-832627736_icephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 59, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 73, in main
     AssetMeta(**metadata)
   File "pydantic/main.py", line 362, in pydantic.main.BaseModel.__init__
 pydantic.error_wrappers.ValidationError: 1 validation error for AssetMeta

@@ -1,132 +1,132 @@
 sub-c1/sub-c1_ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 308, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 300, in nwb2asset
     asset = metadata2asset(metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in metadata2asset
-    return extract_model(models.AssetMeta, metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 322, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
     wat = extract_model(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
     raise ValueError(f"Cannot interpret sex field: {value}")
 ValueError: Cannot interpret sex field: 
 
 sub-MEAREC-250neuron-Neuropixels/sub-MEAREC-250neuron-Neuropixels_ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 308, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 300, in nwb2asset
     asset = metadata2asset(metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in metadata2asset
-    return extract_model(models.AssetMeta, metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 322, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
     wat = extract_model(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
     raise ValueError(f"Cannot interpret sex field: {value}")
 ValueError: Cannot interpret sex field: 
 
 sub-mouse412804/sub-mouse412804_ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 308, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 300, in nwb2asset
     asset = metadata2asset(metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in metadata2asset
-    return extract_model(models.AssetMeta, metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 322, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
     wat = extract_model(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
     raise ValueError(f"Cannot interpret sex field: {value}")
 ValueError: Cannot interpret sex field: 
 
 sub-mouse412804/sub-mouse412804_ses-20200824T155542.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 308, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 300, in nwb2asset
     asset = metadata2asset(metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in metadata2asset
-    return extract_model(models.AssetMeta, metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 322, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
     wat = extract_model(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
     raise ValueError(f"Cannot interpret sex field: {value}")
 ValueError: Cannot interpret sex field: 
 
 sub-mouse412804/sub-mouse412804_ses-20200824T155543.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 308, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 300, in nwb2asset
     asset = metadata2asset(metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in metadata2asset
-    return extract_model(models.AssetMeta, metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 322, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
     wat = extract_model(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
     raise ValueError(f"Cannot interpret sex field: {value}")
 ValueError: Cannot interpret sex field: 
 
 sub-P29-16-05-14-retina02-left/sub-P29-16-05-14-retina02-left_ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 40, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 308, in nwb2asset
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 300, in nwb2asset
     asset = metadata2asset(metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in metadata2asset
-    return extract_model(models.AssetMeta, metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 322, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 254, in extract_wasAttributedTo
     wat = extract_model(
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 236, in extract_model
     value = kwargs.get(field, extract_field(field, metadata))
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 295, in extract_field
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 287, in extract_field
     return FIELD_EXTRACTORS[field](metadata)
-  File "/home/jwodder/dandi-cli/venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
+  File "/home/dandi/cronlib/validate-venv/lib/python3.8/site-packages/dandi/metadata.py", line 179, in extract_sex
     raise ValueError(f"Cannot interpret sex field: {value}")
 ValueError: Cannot interpret sex field: 
 
