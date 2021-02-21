@@ -2,7 +2,7 @@ sub-744912845/sub-744912845_ses-766640955.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -84,7 +84,7 @@ sub-744912845/sub-744912845_ses-766640955_probe-773592315_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -166,7 +166,7 @@ sub-744912845/sub-744912845_ses-766640955_probe-773592318_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -248,7 +248,7 @@ sub-744912845/sub-744912845_ses-766640955_probe-773592320_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -330,7 +330,7 @@ sub-744912845/sub-744912845_ses-766640955_probe-773592324_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -412,7 +412,7 @@ sub-744912845/sub-744912845_ses-766640955_probe-773592328_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -494,7 +494,7 @@ sub-744912845/sub-744912845_ses-766640955_probe-773592330_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -576,7 +576,7 @@ sub-753795604/sub-753795604_ses-767871931.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -658,7 +658,7 @@ sub-753795604/sub-753795604_ses-767871931_probe-773462985_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -740,7 +740,7 @@ sub-753795604/sub-753795604_ses-767871931_probe-773462990_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -822,7 +822,7 @@ sub-753795604/sub-753795604_ses-767871931_probe-773462993_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -904,7 +904,7 @@ sub-753795604/sub-753795604_ses-767871931_probe-773462995_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -986,7 +986,7 @@ sub-753795604/sub-753795604_ses-767871931_probe-773462997_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1068,7 +1068,7 @@ sub-753795604/sub-753795604_ses-767871931_probe-773462999_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1150,7 +1150,7 @@ sub-754477355/sub-754477355_ses-768515987.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1232,7 +1232,7 @@ sub-754477355/sub-754477355_ses-768515987_probe-773549842_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1314,7 +1314,7 @@ sub-754477355/sub-754477355_ses-768515987_probe-773549846_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1396,7 +1396,7 @@ sub-754477355/sub-754477355_ses-768515987_probe-773549848_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1478,7 +1478,7 @@ sub-754477355/sub-754477355_ses-768515987_probe-773549850_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1560,7 +1560,7 @@ sub-754477355/sub-754477355_ses-768515987_probe-773549852_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1642,7 +1642,7 @@ sub-754477355/sub-754477355_ses-768515987_probe-773549856_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1724,7 +1724,7 @@ sub-754488976/sub-754488976_ses-771160300.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1806,7 +1806,7 @@ sub-754488976/sub-754488976_ses-771160300_probe-773621937_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1888,7 +1888,7 @@ sub-754488976/sub-754488976_ses-771160300_probe-773621939_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1970,7 +1970,7 @@ sub-754488976/sub-754488976_ses-771160300_probe-773621942_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2052,7 +2052,7 @@ sub-754488976/sub-754488976_ses-771160300_probe-773621945_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2134,7 +2134,7 @@ sub-754488976/sub-754488976_ses-771160300_probe-773621948_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2216,7 +2216,7 @@ sub-754488976/sub-754488976_ses-771160300_probe-773621950_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2298,7 +2298,7 @@ sub-756578432/sub-756578432_ses-771990200.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2380,7 +2380,7 @@ sub-756578432/sub-756578432_ses-771990200_probe-773654723_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2462,7 +2462,7 @@ sub-756578432/sub-756578432_ses-771990200_probe-773654726_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2544,7 +2544,7 @@ sub-756578432/sub-756578432_ses-771990200_probe-773654728_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2626,7 +2626,7 @@ sub-756578432/sub-756578432_ses-771990200_probe-773654730_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2708,7 +2708,7 @@ sub-756578432/sub-756578432_ses-771990200_probe-773654732_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2790,7 +2790,7 @@ sub-756578432/sub-756578432_ses-771990200_probe-773654734_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2872,7 +2872,7 @@ sub-759674767/sub-759674767_ses-778998620.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -2954,7 +2954,7 @@ sub-759674767/sub-759674767_ses-778998620_probe-792626841_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3036,7 +3036,7 @@ sub-759674767/sub-759674767_ses-778998620_probe-792626844_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3118,7 +3118,7 @@ sub-759674767/sub-759674767_ses-778998620_probe-792626847_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3200,7 +3200,7 @@ sub-759674767/sub-759674767_ses-778998620_probe-792626851_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3282,7 +3282,7 @@ sub-759674767/sub-759674767_ses-778998620_probe-792626853_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3364,7 +3364,7 @@ sub-759674767/sub-759674767_ses-778998620_probe-792626855_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3446,7 +3446,7 @@ sub-759711149/sub-759711149_ses-774875821.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3528,7 +3528,7 @@ sub-759711149/sub-759711149_ses-774875821_probe-792602650_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3610,7 +3610,7 @@ sub-759711149/sub-759711149_ses-774875821_probe-792602652_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3692,7 +3692,7 @@ sub-759711149/sub-759711149_ses-774875821_probe-792602654_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3774,7 +3774,7 @@ sub-759711149/sub-759711149_ses-774875821_probe-792602656_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3856,7 +3856,7 @@ sub-759711149/sub-759711149_ses-774875821_probe-792602658_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -3938,7 +3938,7 @@ sub-759711149/sub-759711149_ses-774875821_probe-792602660_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4020,7 +4020,7 @@ sub-760938794/sub-760938794_ses-778240327.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4102,7 +4102,7 @@ sub-760938794/sub-760938794_ses-778240327_probe-792607545_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4184,7 +4184,7 @@ sub-760938794/sub-760938794_ses-778240327_probe-792607547_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4266,7 +4266,7 @@ sub-760938794/sub-760938794_ses-778240327_probe-792607549_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4348,7 +4348,7 @@ sub-760938794/sub-760938794_ses-778240327_probe-792607553_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4430,7 +4430,7 @@ sub-760938794/sub-760938794_ses-778240327_probe-792607557_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4512,7 +4512,7 @@ sub-760938794/sub-760938794_ses-778240327_probe-792607559_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4594,7 +4594,7 @@ sub-760946810/sub-760946810_ses-781842082.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4676,7 +4676,7 @@ sub-760946810/sub-760946810_ses-781842082_probe-792586876_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4758,7 +4758,7 @@ sub-760946810/sub-760946810_ses-781842082_probe-792586879_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4840,7 +4840,7 @@ sub-760946810/sub-760946810_ses-781842082_probe-792586881_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -4922,7 +4922,7 @@ sub-760946810/sub-760946810_ses-781842082_probe-792586883_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5004,7 +5004,7 @@ sub-760946810/sub-760946810_ses-781842082_probe-792586887_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5086,7 +5086,7 @@ sub-760946810/sub-760946810_ses-781842082_probe-792586891_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5168,7 +5168,7 @@ sub-760960650/sub-760960650_ses-779839471.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5250,7 +5250,7 @@ sub-760960650/sub-760960650_ses-779839471_probe-792645490_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5332,7 +5332,7 @@ sub-760960650/sub-760960650_ses-779839471_probe-792645493_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5414,7 +5414,7 @@ sub-760960650/sub-760960650_ses-779839471_probe-792645497_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5496,7 +5496,7 @@ sub-760960650/sub-760960650_ses-779839471_probe-792645499_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5578,7 +5578,7 @@ sub-760960650/sub-760960650_ses-779839471_probe-792645501_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5660,7 +5660,7 @@ sub-760960650/sub-760960650_ses-779839471_probe-792645504_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5742,7 +5742,7 @@ sub-763236006/sub-763236006_ses-787025148.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5824,7 +5824,7 @@ sub-763236006/sub-763236006_ses-787025148_probe-792586836_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5906,7 +5906,7 @@ sub-763236006/sub-763236006_ses-787025148_probe-792586840_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -5988,7 +5988,7 @@ sub-763236006/sub-763236006_ses-787025148_probe-792586842_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6070,7 +6070,7 @@ sub-763236006/sub-763236006_ses-787025148_probe-792586845_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6152,7 +6152,7 @@ sub-763236006/sub-763236006_ses-787025148_probe-792586848_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6234,7 +6234,7 @@ sub-763236006/sub-763236006_ses-787025148_probe-792586852_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6316,7 +6316,7 @@ sub-763808588/sub-763808588_ses-789848216.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6398,7 +6398,7 @@ sub-763808588/sub-763808588_ses-789848216_probe-805002027_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6480,7 +6480,7 @@ sub-763808588/sub-763808588_ses-789848216_probe-805002029_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6562,7 +6562,7 @@ sub-763808588/sub-763808588_ses-789848216_probe-805002031_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6644,7 +6644,7 @@ sub-763808588/sub-763808588_ses-789848216_probe-805002033_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6726,7 +6726,7 @@ sub-763808588/sub-763808588_ses-789848216_probe-805002035_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6808,7 +6808,7 @@ sub-763808588/sub-763808588_ses-789848216_probe-805002037_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6890,7 +6890,7 @@ sub-763884096/sub-763884096_ses-786091066.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -6972,7 +6972,7 @@ sub-763884096/sub-763884096_ses-786091066_probe-792623916_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7054,7 +7054,7 @@ sub-763884096/sub-763884096_ses-786091066_probe-792623919_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7136,7 +7136,7 @@ sub-763884096/sub-763884096_ses-786091066_probe-792623921_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7218,7 +7218,7 @@ sub-763884096/sub-763884096_ses-786091066_probe-792623925_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7300,7 +7300,7 @@ sub-763884096/sub-763884096_ses-786091066_probe-792623928_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7382,7 +7382,7 @@ sub-763884096/sub-763884096_ses-786091066_probe-792623931_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7464,7 +7464,7 @@ sub-769319621/sub-769319621_ses-793224716.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7546,7 +7546,7 @@ sub-769319621/sub-769319621_ses-793224716_probe-805124802_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7628,7 +7628,7 @@ sub-769319621/sub-769319621_ses-793224716_probe-805124804_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7710,7 +7710,7 @@ sub-769319621/sub-769319621_ses-793224716_probe-805124806_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7792,7 +7792,7 @@ sub-769319621/sub-769319621_ses-793224716_probe-805124809_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7874,7 +7874,7 @@ sub-769319621/sub-769319621_ses-793224716_probe-805124812_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -7956,7 +7956,7 @@ sub-769319621/sub-769319621_ses-793224716_probe-805124815_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8038,7 +8038,7 @@ sub-774672354/sub-774672354_ses-794812542.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8120,7 +8120,7 @@ sub-774672354/sub-774672354_ses-794812542_probe-810758777_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8202,7 +8202,7 @@ sub-774672354/sub-774672354_ses-794812542_probe-810758779_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8284,7 +8284,7 @@ sub-774672354/sub-774672354_ses-794812542_probe-810758781_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8366,7 +8366,7 @@ sub-774672354/sub-774672354_ses-794812542_probe-810758783_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8448,7 +8448,7 @@ sub-774672354/sub-774672354_ses-794812542_probe-810758785_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8530,7 +8530,7 @@ sub-774672354/sub-774672354_ses-794812542_probe-810758787_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8612,7 +8612,7 @@ sub-791857600/sub-791857600_ses-816200189.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8694,7 +8694,7 @@ sub-791857600/sub-791857600_ses-816200189_probe-836943713_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8776,7 +8776,7 @@ sub-791857600/sub-791857600_ses-816200189_probe-836943715_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8858,7 +8858,7 @@ sub-791857600/sub-791857600_ses-816200189_probe-836943717_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -8940,7 +8940,7 @@ sub-791857600/sub-791857600_ses-816200189_probe-836943719_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9022,7 +9022,7 @@ sub-791857600/sub-791857600_ses-816200189_probe-836943721_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9104,7 +9104,7 @@ sub-795770029/sub-795770029_ses-819701982.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9186,7 +9186,7 @@ sub-795770029/sub-795770029_ses-819701982_probe-836962814_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9268,7 +9268,7 @@ sub-795770029/sub-795770029_ses-819701982_probe-836962816_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9350,7 +9350,7 @@ sub-795770029/sub-795770029_ses-819701982_probe-836962820_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9432,7 +9432,7 @@ sub-795770029/sub-795770029_ses-819701982_probe-836962822_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9514,7 +9514,7 @@ sub-795770029/sub-795770029_ses-819701982_probe-836962824_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9596,7 +9596,7 @@ sub-800249582/sub-800249582_ses-819186360.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9678,7 +9678,7 @@ sub-800249582/sub-800249582_ses-819186360_probe-820311754_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9760,7 +9760,7 @@ sub-800249582/sub-800249582_ses-819186360_probe-820311756_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9842,7 +9842,7 @@ sub-800249582/sub-800249582_ses-819186360_probe-820311760_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -9924,7 +9924,7 @@ sub-800249582/sub-800249582_ses-819186360_probe-820311762_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10006,7 +10006,7 @@ sub-800249582/sub-800249582_ses-819186360_probe-820311764_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10088,7 +10088,7 @@ sub-800250054/sub-800250054_ses-821695405.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10170,7 +10170,7 @@ sub-800250054/sub-800250054_ses-821695405_probe-822645893_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10252,7 +10252,7 @@ sub-800250054/sub-800250054_ses-821695405_probe-822645895_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10334,7 +10334,7 @@ sub-800250054/sub-800250054_ses-821695405_probe-822645897_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10416,7 +10416,7 @@ sub-800250054/sub-800250054_ses-821695405_probe-822645899_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10498,7 +10498,7 @@ sub-800250054/sub-800250054_ses-821695405_probe-822645901_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10580,7 +10580,7 @@ sub-803390283/sub-803390283_ses-831882777.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10662,7 +10662,7 @@ sub-803390283/sub-803390283_ses-831882777_probe-832810573_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10744,7 +10744,7 @@ sub-803390283/sub-803390283_ses-831882777_probe-832810576_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10826,7 +10826,7 @@ sub-803390283/sub-803390283_ses-831882777_probe-832810578_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10908,7 +10908,7 @@ sub-803390283/sub-803390283_ses-831882777_probe-832810580_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -10990,7 +10990,7 @@ sub-803390283/sub-803390283_ses-831882777_probe-832810582_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11072,7 +11072,7 @@ sub-811322604/sub-811322604_ses-829720705.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11154,7 +11154,7 @@ sub-811322604/sub-811322604_ses-829720705_probe-832129149_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11236,7 +11236,7 @@ sub-811322604/sub-811322604_ses-829720705_probe-832129154_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11318,7 +11318,7 @@ sub-811322604/sub-811322604_ses-829720705_probe-832129157_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11400,7 +11400,7 @@ sub-811322604/sub-811322604_ses-829720705_probe-832129159_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11482,7 +11482,7 @@ sub-811322604/sub-811322604_ses-829720705_probe-832129161_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11564,7 +11564,7 @@ sub-813701555/sub-813701555_ses-835479236.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11646,7 +11646,7 @@ sub-813701555/sub-813701555_ses-835479236_probe-837761708_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11728,7 +11728,7 @@ sub-813701555/sub-813701555_ses-835479236_probe-837761710_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11810,7 +11810,7 @@ sub-813701555/sub-813701555_ses-835479236_probe-837761712_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11892,7 +11892,7 @@ sub-813701555/sub-813701555_ses-835479236_probe-837761714_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -11974,7 +11974,7 @@ sub-813701555/sub-813701555_ses-835479236_probe-837761716_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12056,7 +12056,7 @@ sub-817060743/sub-817060743_ses-839068429.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12138,7 +12138,7 @@ sub-817060743/sub-817060743_ses-839068429_probe-841435557_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12220,7 +12220,7 @@ sub-817060743/sub-817060743_ses-839068429_probe-841435559_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12302,7 +12302,7 @@ sub-817060743/sub-817060743_ses-839068429_probe-868929135_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12384,7 +12384,7 @@ sub-817060743/sub-817060743_ses-839068429_probe-868929138_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12466,7 +12466,7 @@ sub-817060743/sub-817060743_ses-839068429_probe-868929140_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12548,7 +12548,7 @@ sub-817060743/sub-817060743_ses-839068429_probe-868929142_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12630,7 +12630,7 @@ sub-820866111/sub-820866111_ses-840012044.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12712,7 +12712,7 @@ sub-820866111/sub-820866111_ses-840012044_probe-841431754_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12794,7 +12794,7 @@ sub-820866111/sub-820866111_ses-840012044_probe-841431758_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12876,7 +12876,7 @@ sub-820866111/sub-820866111_ses-840012044_probe-868297127_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -12958,7 +12958,7 @@ sub-820866111/sub-820866111_ses-840012044_probe-868297129_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13040,7 +13040,7 @@ sub-820866111/sub-820866111_ses-840012044_probe-868297131_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13122,7 +13122,7 @@ sub-820866111/sub-820866111_ses-840012044_probe-868297133_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13204,7 +13204,7 @@ sub-821469659/sub-821469659_ses-839557629.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13286,7 +13286,7 @@ sub-827809879/sub-827809879_ses-847657808.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13368,7 +13368,7 @@ sub-827809879/sub-827809879_ses-847657808_probe-848037568_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13450,7 +13450,7 @@ sub-827809879/sub-827809879_ses-847657808_probe-848037570_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13532,7 +13532,7 @@ sub-827809879/sub-827809879_ses-847657808_probe-848037572_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13614,7 +13614,7 @@ sub-827809879/sub-827809879_ses-847657808_probe-848037574_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13696,7 +13696,7 @@ sub-827809879/sub-827809879_ses-847657808_probe-848037576_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -13778,7 +13778,7 @@ sub-827809879/sub-827809879_ses-847657808_probe-848037578_ecephys.nwb
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 54, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 301, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
