@@ -9,13 +9,12 @@ from dandi.consts import dandiset_metadata_file
 from dandi.metadata import nwb2asset
 from dandi.models import BareAssetMeta
 from dandi.pynwb_utils import validate
-from dandi.support.digests import Digester
+from dandi.support.digests import get_digest
 from pydantic import ValidationError
 import ruamel.yaml
 
 
 def main():
-    digester = Digester(["sha256"])
     yaml = ruamel.yaml.YAML(typ="safe")
     yaml.default_flow_style = False
     for ds in sys.argv[1:]:
@@ -39,7 +38,7 @@ def main():
                 continue
             relpath = f.relative_to(dspath)
             print("Processing", f)
-            sha256_digest = digester(f)["sha256"]
+            sha256_digest = get_digest(f)
             errors = validate(f)
             if errors:
                 print("PYNWB ERRORS:")
