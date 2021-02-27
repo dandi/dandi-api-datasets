@@ -1,6 +1,6 @@
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161220141515.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -22,7 +22,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221134921.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -44,7 +44,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221145840.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -66,7 +66,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221150439.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -88,7 +88,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221151903.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -110,7 +110,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221152112.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -132,7 +132,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221191914.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -154,7 +154,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221192707.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -176,7 +176,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221201806.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -198,7 +198,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221225510.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -220,7 +220,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161221234022.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -242,7 +242,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161222001652.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -264,7 +264,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161222004435.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -286,7 +286,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161222010914.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -308,7 +308,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161227154657.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -330,7 +330,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161227155524.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -352,7 +352,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161228151100.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -374,7 +374,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161228152016.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -396,7 +396,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161228191005.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -418,7 +418,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161229142818.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -440,7 +440,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-161229163503.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -462,7 +462,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715114212.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -484,7 +484,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715120548.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -506,7 +506,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715124558.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -528,7 +528,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715124619.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -550,7 +550,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715124821.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -572,7 +572,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715164713.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -594,7 +594,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170715205011.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -616,7 +616,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170716002540.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -638,7 +638,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170806110934.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -660,7 +660,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170806114920.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -682,7 +682,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170806163508.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -704,7 +704,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170807072732.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -726,7 +726,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170807171156.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -748,7 +748,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170807193348.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -770,7 +770,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170807204746.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -792,7 +792,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170808002053.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -814,7 +814,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170808180842.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -836,7 +836,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170808184141.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -858,7 +858,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170808185044.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -880,7 +880,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170808190057.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -902,7 +902,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170809073123.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -924,7 +924,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170809075033.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -946,7 +946,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170814191401.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -968,7 +968,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse1-fni16/sub-mouse1-fni16_ses-170815163235.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -990,7 +990,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161004115936.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1012,7 +1012,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161005142715.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1034,7 +1034,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161006004221.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1056,7 +1056,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161006013624.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1078,7 +1078,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161006123957.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1100,7 +1100,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161014175614.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1122,7 +1122,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161017110000.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1144,7 +1144,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161017150220.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1166,7 +1166,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161018212718.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1188,7 +1188,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161020201712.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1210,7 +1210,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161020225222.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1232,7 +1232,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161021154326.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1254,7 +1254,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161023232915.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1276,7 +1276,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161024104004.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1298,7 +1298,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161024145847.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1320,7 +1320,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161024160612.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1342,7 +1342,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161024161316.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1364,7 +1364,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161025114743.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1386,7 +1386,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161025120641.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1408,7 +1408,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-161026020048.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1430,7 +1430,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170716103907.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1452,7 +1452,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170716110907.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1474,7 +1474,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170717113851.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1496,7 +1496,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170717114250.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1518,7 +1518,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170718045820.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1540,7 +1540,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170718092812.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1562,7 +1562,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170718094105.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1584,7 +1584,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170718094544.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1606,7 +1606,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170718165559.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1628,7 +1628,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719024122.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1650,7 +1650,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719032219.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1672,7 +1672,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719042834.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1694,7 +1694,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719121454.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1716,7 +1716,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719122404.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1738,7 +1738,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719122637.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1760,7 +1760,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170719124221.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1782,7 +1782,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170722172014.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1804,7 +1804,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170722172640.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1826,7 +1826,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170722174853.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1848,7 +1848,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170722211822.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1870,7 +1870,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170723060120.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1892,7 +1892,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170723064341.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1914,7 +1914,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170723153322.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1936,7 +1936,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170723205806.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1958,7 +1958,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170724051215.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -1980,7 +1980,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170725043726.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2002,7 +2002,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170822014200.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2024,7 +2024,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse2-fni17/sub-mouse2-fni17_ses-170822144835.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2046,7 +2046,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170501121720.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2068,7 +2068,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170502144848.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2090,7 +2090,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170503152245.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2112,7 +2112,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170503182723.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2134,7 +2134,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170503184117.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2156,7 +2156,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170505175803.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2178,7 +2178,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse3-fni18/sub-mouse3-fni18_ses-170506210042.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2200,7 +2200,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170427220211.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2222,7 +2222,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170620224844.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2244,7 +2244,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170621013256.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2266,7 +2266,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170621015721.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2288,7 +2288,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170621050530.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2310,7 +2310,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170621055447.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2332,7 +2332,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170621104754.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2354,7 +2354,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170621113304.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2376,7 +2376,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170622104804.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2398,7 +2398,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170622202446.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2420,7 +2420,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170622232029.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2442,7 +2442,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170623103709.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2464,7 +2464,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625071730.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2486,7 +2486,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625140616.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2508,7 +2508,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625140624.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2530,7 +2530,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625141341.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2552,7 +2552,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625153103.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2574,7 +2574,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625153343.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2596,7 +2596,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625160521.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2618,7 +2618,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625163621.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2640,7 +2640,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170625231642.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2662,7 +2662,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170626102537.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2684,7 +2684,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170628084013.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2706,7 +2706,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170703034632.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2728,7 +2728,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170703043500.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2750,7 +2750,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170707064900.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2772,7 +2772,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170708041635.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2794,7 +2794,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170821173730.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2816,7 +2816,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170822065253.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2838,7 +2838,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170822065304.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2860,7 +2860,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170822101015.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2882,7 +2882,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170822111015.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2904,7 +2904,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170822235434.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2926,7 +2926,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170823024359.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -2948,7 +2948,7 @@ ValueError: Cannot interpret sex field:
 
 sub-mouse4-fni19/sub-mouse4-fni19_ses-170823033544.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)

@@ -1,6 +1,6 @@
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-13e2522c-4590-48ea-90f2-55e911ab43e4_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -22,7 +22,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-1dabf56f-4a6a-4f42-8cc1-eb7c96b04f2f_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -44,7 +44,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-3458733e-4704-4ec2-beba-2328f31f7c50_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -66,7 +66,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-387e11b7-4bb6-465f-8fc8-1fe77663e299_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -88,7 +88,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-3bb88c6c-131b-4c73-becf-aad2089965d6_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -110,7 +110,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-430e5128-9692-4b23-8149-cb5817cf0494_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -132,7 +132,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-47449dc9-6be5-4e06-bbd3-75ce2700ef19_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -154,7 +154,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-4f6c04ca-9aab-4cde-a4a3-4b8cfa073aab_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -176,7 +176,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-58f1cadf-5d1a-47c4-8006-c44d65b193d0_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -198,7 +198,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-842aa512-461f-4dee-a925-cf8763d0057f_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -220,7 +220,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-89bcf00c-6856-466a-b22b-b02016f383a6_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -242,7 +242,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-8b899f4e-64a0-46c3-a2d2-188caa1bb21b_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -264,7 +264,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-9b90aac0-942d-40a6-9d23-4b00140e84c7_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -286,7 +286,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-aa604aa6-5e29-408e-a749-ee71a2bd60c3_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -308,7 +308,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-bfd22aa3-8aee-4952-b45f-e0556a617481_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
@@ -330,7 +330,7 @@ ValueError: session_start_time precedes date_of_birth
 
 sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133/sub-a92164cc-6d0a-48d7-9cf8-ab4db11a7133_ses-cb6361c9-504b-480d-9da2-0e1198219487_behavior+image.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 54, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 319, in nwb2asset
     asset = metadata2asset(metadata)
