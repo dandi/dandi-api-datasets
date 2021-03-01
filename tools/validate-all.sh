@@ -28,17 +28,6 @@ ln -s "$DANDISETS" dandisets
 python tools/populate_dandiset_asset_yamls.py dandisets/[0-9]*
 
 (
-    echo '# Dandisets with NWB Errors'
-    (
-        for d in [0-9]*
-        do if [ -e "$d"/NWB-VALIDATION.errors ]
-           then echo "$d"
-           fi
-        done
-    ) | nl -n ln -w 1 -s '. '
-
-    echo
-
     echo '# Dandisets with Conversion Errors'
     (
         for d in [0-9]*
@@ -67,7 +56,7 @@ python tools/populate_dandiset_asset_yamls.py dandisets/[0-9]*
     (
         for d in [0-9]*
         do
-            if [ ! -e "$d"/NWB-VALIDATION.errors ] && [ ! -e "$d"/CONVERSION.errors ] && [ ! -e "$d"/VALIDATION.errors ] && compgen -G "$d/sub-*" &>/dev/null
+            if [ ! -e "$d"/CONVERSION.errors ] && [ ! -e "$d"/VALIDATION.errors ] && compgen -G "$d/sub-*" &>/dev/null
             then echo "$d"
             fi
         done

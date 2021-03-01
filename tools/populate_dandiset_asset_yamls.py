@@ -4,13 +4,13 @@ from contextlib import suppress
 import os.path
 from pathlib import Path
 import sys
+from textwrap import indent
 import traceback
 from dandi.consts import dandiset_metadata_file
 from dandi.metadata import nwb2asset
-from dandi.models import BareAssetMeta
-from dandi.pynwb_utils import validate
+from dandi.models import get_schema_version
 from dandi.support.digests import get_digest
-from pydantic import ValidationError
+from dandi.validation import validate_file
 import ruamel.yaml
 
 
@@ -39,16 +39,6 @@ def main():
             relpath = f.relative_to(dspath)
             print("Processing", f)
             sha256_digest = get_digest(f)
-            errors = validate(f)
-            if errors:
-                print("PYNWB ERRORS:")
-                for e in errors:
-                    print(f" - {e}")
-                with pynwb_errs.open("a") as fp:
-                    print(relpath, file=fp)
-                    for e in errors:
-                        print(f" - {e}", file=fp)
-                    print(file=fp)
             try:
                 metadata = nwb2asset(
                     f, digest=sha256_digest, digest_type="SHA256"
@@ -68,14 +58,16 @@ def main():
                 }
             else:
                 metadata["path"] = str(relpath)
-                try:
-                    BareAssetMeta(**metadata)
-                except ValidationError as e:
-                    print(f"VALIDATION ERROR: {e}")
-                    with validation_errs.open("a") as fp:
-                        print(relpath, file=fp)
-                        traceback.print_exc(file=fp)
-                        print(file=fp)
+            errors = validate_file(f, schema_version=get_schema_version())
+            if errors:
+                print("VALIDATION ERRORS:")
+                for e in errors:
+                    print(bullet_indent(str(e)))
+                with validation_errs.open("a") as fp:
+                    print(relpath, file=fp)
+                    for e in errors:
+                        print(bullet_indent(str(e)), file=fp)
+                    print(file=fp)
             outfile = (outdir / relpath).with_name(f.name + ".yaml")
             outfile.parent.mkdir(parents=True, exist_ok=True)
             with outfile.open("w") as fp:
@@ -93,6 +85,12 @@ def iterfiles(dirpath):
                 dirs.append(p)
             else:
                 yield p
+
+
+def bullet_indent(s, prefix=" - "):
+    indent_sz = len(prefix)
+    s = indent(s, " " * indent_sz)
+    return prefix + s[indent_sz:]
 
 
 if __name__ == "__main__":
