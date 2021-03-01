@@ -39,6 +39,13 @@ def main():
             relpath = f.relative_to(dspath)
             print("Processing", f)
             sha256_digest = get_digest(f)
+            default_metadata = {
+                "contentSize": os.path.getsize(f),
+                "digest": sha256_digest,
+                "digest_type": "SHA256",
+                "path": str(f.relative_to(dspath)),
+                # "encodingFormat": # TODO
+            }
             if f.suffix == ".nwb":
                 errors = validate(f)
                 if errors:
@@ -60,13 +67,7 @@ def main():
                         print(relpath, file=fp)
                         traceback.print_exc(file=fp)
                         print(file=fp)
-                    metadata = {
-                        "contentSize": os.path.getsize(f),
-                        "digest": sha256_digest,
-                        "digest_type": "SHA256",
-                        "path": str(f.relative_to(dspath)),
-                        # "encodingFormat": # TODO
-                    }
+                    metadata = default_metadata
                 else:
                     metadata["path"] = str(relpath)
                     try:
@@ -78,13 +79,7 @@ def main():
                             traceback.print_exc(file=fp)
                             print(file=fp)
             else:
-                metadata = {
-                    "contentSize": os.path.getsize(f),
-                    "digest": sha256_digest,
-                    "digest_type": "SHA256",
-                    "path": str(f.relative_to(dspath)),
-                    # "encodingFormat": # TODO
-                }
+                metadata = default_metadata
             outfile = (outdir / relpath).with_name(f.name + ".yaml")
             outfile.parent.mkdir(parents=True, exist_ok=True)
             with outfile.open("w") as fp:
