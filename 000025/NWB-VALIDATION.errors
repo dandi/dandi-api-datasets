@@ -1,3 +1,3 @@
 001_140709EXP_A1_ndx_v3.nwb
- - Failed to validate dandisets/000025/001_140709EXP_A1_ndx_v3.nwb: data type 'ICEphysFile' not found in namespace core
+ - Failed to validate /mnt/backup/dandi/dandisets/000025/.git/annex/objects/Q1/0w/SHA256E-s41876128--8ff50f1f67ee21c39c01f38dc78c2cd9b4d287a12d34e915a865d11f4bca9bb2.nwb/SHA256E-s41876128--8ff50f1f67ee21c39c01f38dc78c2cd9b4d287a12d34e915a865d11f4bca9bb2.nwb: data type 'ICEphysFile' not found in namespace core
 

@@ -2,7 +2,7 @@ derivatives/ParameterMaps/sub-I46/flash10.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -16,7 +16,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -31,7 +31,7 @@ derivatives/ParameterMaps/sub-I46/flash20.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -45,7 +45,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -60,7 +60,7 @@ derivatives/ParameterMaps/sub-I46/flash30.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -74,7 +74,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -89,7 +89,7 @@ derivatives/ParameterMaps/sub-I46/PD.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -103,7 +103,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -118,7 +118,7 @@ derivatives/ParameterMaps/sub-I46/sse.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -132,7 +132,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -147,7 +147,7 @@ derivatives/ParameterMaps/sub-I46/T1.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -161,7 +161,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -176,7 +176,7 @@ derivatives/ParameterMaps/sub-I46/T2star.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -190,7 +190,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -205,7 +205,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n01.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -219,7 +219,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -234,7 +234,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n02.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -248,7 +248,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -263,7 +263,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n03.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -277,7 +277,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -292,7 +292,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n04.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -306,7 +306,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -321,7 +321,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n05.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -335,7 +335,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -350,7 +350,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n06.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -364,7 +364,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -379,7 +379,7 @@ derivatives/SPIMStitchedSlices/sub-I46/I46_n07.7z
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -393,7 +393,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -408,7 +408,7 @@ rawdata/sub-I46/ses-OCT/I46-OCT-nor.tif
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -422,7 +422,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -437,7 +437,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -451,7 +451,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -466,7 +466,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-1_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -480,7 +480,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -495,7 +495,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -509,7 +509,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -524,7 +524,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-2_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -538,7 +538,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -553,7 +553,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -567,7 +567,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -582,7 +582,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-1_fa-3_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -596,7 +596,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -611,7 +611,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -625,7 +625,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -640,7 +640,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-1_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -654,7 +654,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -669,7 +669,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -683,7 +683,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -698,7 +698,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-2_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -712,7 +712,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -727,7 +727,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -741,7 +741,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -756,7 +756,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-2_fa-3_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -770,7 +770,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -785,7 +785,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -799,7 +799,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -814,7 +814,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-1_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -828,7 +828,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -843,7 +843,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -857,7 +857,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -872,7 +872,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-2_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -886,7 +886,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -901,7 +901,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -915,7 +915,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -930,7 +930,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-3_fa-3_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -944,7 +944,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -959,7 +959,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -973,7 +973,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -988,7 +988,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-1_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1002,7 +1002,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -1017,7 +1017,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1031,7 +1031,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -1046,7 +1046,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-2_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1060,7 +1060,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -1075,7 +1075,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1089,7 +1089,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -1104,7 +1104,7 @@ rawdata/sub-I46/ses-MRI/anat/sub-I46_echo-4_fa-3_VFA.nii.gz
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1118,7 +1118,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
@@ -1133,7 +1133,7 @@ rawdata/sub-I46/ses-MRI/anat/test.json
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 53, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 313, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 311, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)
@@ -1147,7 +1147,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 52, in get_metadata
     meta["nwb_version"] = get_nwb_version(path)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 88, in get_nwb_version
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 94, in get_nwb_version
     with h5py.File(filepath, "r") as h5file:
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/h5py/_hl/files.py", line 406, in __init__
     fid = make_fid(name, mode, userblock_size,
