@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 from collections import deque
 from contextlib import suppress
-import os.path
 from pathlib import Path
 import sys
 import traceback
 from dandi.consts import dandiset_metadata_file
-from dandi.metadata import nwb2asset
+from dandi.metadata import get_default_metadata, nwb2asset
 from dandi.models import BareAssetMeta
 from dandi.pynwb_utils import validate
 from dandi.support.digests import get_digest
@@ -39,13 +38,10 @@ def main():
             relpath = f.relative_to(dspath)
             print("Processing", f)
             sha256_digest = get_digest(f)
-            default_metadata = {
-                "contentSize": os.path.getsize(f),
-                "digest": sha256_digest,
-                "digest_type": "SHA256",
-                "path": str(f.relative_to(dspath)),
-                # "encodingFormat": # TODO
-            }
+            default_metadata = get_default_metadata(
+                f, digest=sha256_digest, digest_type="SHA256"
+            ).json_dict()
+            default_metadata["path"] = str(relpath)
             if f.suffix == ".nwb":
                 errors = validate(f)
                 if errors:
