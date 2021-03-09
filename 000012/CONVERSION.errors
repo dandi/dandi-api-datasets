@@ -13,7 +13,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -92,7 +92,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -171,7 +171,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -250,7 +250,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -329,7 +329,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -408,7 +408,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -487,7 +487,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -566,7 +566,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -645,7 +645,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -724,7 +724,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -803,7 +803,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -882,7 +882,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -961,7 +961,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1040,7 +1040,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1119,7 +1119,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1198,7 +1198,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1277,7 +1277,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1356,7 +1356,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1435,7 +1435,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1514,7 +1514,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1593,7 +1593,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1672,7 +1672,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1751,7 +1751,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1830,7 +1830,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1909,7 +1909,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -1988,7 +1988,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2067,7 +2067,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2146,7 +2146,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2225,7 +2225,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2304,7 +2304,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2383,7 +2383,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2462,7 +2462,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2541,7 +2541,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2620,7 +2620,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2699,7 +2699,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2778,7 +2778,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2857,7 +2857,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -2936,7 +2936,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3015,7 +3015,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3094,7 +3094,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3173,7 +3173,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3252,7 +3252,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3331,7 +3331,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3410,7 +3410,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3489,7 +3489,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3568,7 +3568,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3647,7 +3647,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3726,7 +3726,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3805,7 +3805,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3884,7 +3884,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -3963,7 +3963,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4042,7 +4042,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4121,7 +4121,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4200,7 +4200,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4279,7 +4279,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4358,7 +4358,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4437,7 +4437,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4516,7 +4516,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4595,7 +4595,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4674,7 +4674,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4753,7 +4753,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4832,7 +4832,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4911,7 +4911,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -4990,7 +4990,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5069,7 +5069,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5148,7 +5148,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5227,7 +5227,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5306,7 +5306,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5385,7 +5385,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5464,7 +5464,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5543,7 +5543,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5622,7 +5622,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5701,7 +5701,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5780,7 +5780,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5859,7 +5859,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -5938,7 +5938,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6017,7 +6017,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6096,7 +6096,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6175,7 +6175,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6254,7 +6254,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6333,7 +6333,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6412,7 +6412,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6491,7 +6491,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6570,7 +6570,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6649,7 +6649,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6728,7 +6728,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6807,7 +6807,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6886,7 +6886,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -6965,7 +6965,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7044,7 +7044,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7123,7 +7123,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7202,7 +7202,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7281,7 +7281,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7360,7 +7360,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7439,7 +7439,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7518,7 +7518,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7597,7 +7597,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7676,7 +7676,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7755,7 +7755,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7834,7 +7834,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7913,7 +7913,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -7992,7 +7992,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8071,7 +8071,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8150,7 +8150,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8229,7 +8229,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8308,7 +8308,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8387,7 +8387,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8466,7 +8466,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8545,7 +8545,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8624,7 +8624,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8703,7 +8703,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8782,7 +8782,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8861,7 +8861,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -8940,7 +8940,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9019,7 +9019,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9098,7 +9098,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9177,7 +9177,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9256,7 +9256,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9335,7 +9335,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9414,7 +9414,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9493,7 +9493,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9572,7 +9572,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9651,7 +9651,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9730,7 +9730,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9809,7 +9809,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9888,7 +9888,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -9967,7 +9967,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10046,7 +10046,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10125,7 +10125,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10204,7 +10204,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10283,7 +10283,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10362,7 +10362,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10441,7 +10441,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10520,7 +10520,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10599,7 +10599,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10678,7 +10678,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10757,7 +10757,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10836,7 +10836,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10915,7 +10915,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -10994,7 +10994,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11073,7 +11073,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11152,7 +11152,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11231,7 +11231,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11310,7 +11310,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11389,7 +11389,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11468,7 +11468,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11547,7 +11547,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11626,7 +11626,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11705,7 +11705,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11784,7 +11784,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11863,7 +11863,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -11942,7 +11942,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12021,7 +12021,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12100,7 +12100,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12179,7 +12179,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12258,7 +12258,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12337,7 +12337,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12416,7 +12416,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12495,7 +12495,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12574,7 +12574,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12653,7 +12653,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12732,7 +12732,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12811,7 +12811,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12890,7 +12890,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -12969,7 +12969,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13048,7 +13048,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13127,7 +13127,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13206,7 +13206,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13285,7 +13285,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13364,7 +13364,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13443,7 +13443,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13522,7 +13522,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13601,7 +13601,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13680,7 +13680,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13759,7 +13759,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13838,7 +13838,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13917,7 +13917,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -13996,7 +13996,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14075,7 +14075,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14154,7 +14154,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14233,7 +14233,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14312,7 +14312,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14391,7 +14391,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14470,7 +14470,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14549,7 +14549,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14628,7 +14628,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14707,7 +14707,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14786,7 +14786,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14865,7 +14865,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -14944,7 +14944,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15023,7 +15023,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15102,7 +15102,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15181,7 +15181,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15260,7 +15260,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15339,7 +15339,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15418,7 +15418,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15497,7 +15497,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15576,7 +15576,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15655,7 +15655,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15734,7 +15734,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15813,7 +15813,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15892,7 +15892,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -15971,7 +15971,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16050,7 +16050,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16129,7 +16129,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16208,7 +16208,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16287,7 +16287,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16366,7 +16366,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16445,7 +16445,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16524,7 +16524,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16603,7 +16603,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16682,7 +16682,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16761,7 +16761,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16840,7 +16840,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16919,7 +16919,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -16998,7 +16998,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17077,7 +17077,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17156,7 +17156,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17235,7 +17235,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17314,7 +17314,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17393,7 +17393,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17472,7 +17472,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17551,7 +17551,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17630,7 +17630,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17709,7 +17709,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17788,7 +17788,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17867,7 +17867,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -17946,7 +17946,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18025,7 +18025,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18104,7 +18104,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18183,7 +18183,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18262,7 +18262,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18341,7 +18341,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18420,7 +18420,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18499,7 +18499,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18578,7 +18578,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18657,7 +18657,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18736,7 +18736,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18815,7 +18815,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18894,7 +18894,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -18973,7 +18973,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19052,7 +19052,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19131,7 +19131,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19210,7 +19210,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19289,7 +19289,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19368,7 +19368,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19447,7 +19447,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19526,7 +19526,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19605,7 +19605,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19684,7 +19684,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19763,7 +19763,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19842,7 +19842,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -19921,7 +19921,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20000,7 +20000,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20079,7 +20079,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20158,7 +20158,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20237,7 +20237,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20316,7 +20316,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20395,7 +20395,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20474,7 +20474,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20553,7 +20553,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20632,7 +20632,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20711,7 +20711,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20790,7 +20790,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20869,7 +20869,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -20948,7 +20948,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21027,7 +21027,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21106,7 +21106,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21185,7 +21185,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21264,7 +21264,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21343,7 +21343,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21422,7 +21422,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21501,7 +21501,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21580,7 +21580,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21659,7 +21659,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21738,7 +21738,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21817,7 +21817,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21896,7 +21896,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -21975,7 +21975,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22054,7 +22054,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22133,7 +22133,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22212,7 +22212,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22291,7 +22291,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22370,7 +22370,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22449,7 +22449,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22528,7 +22528,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22607,7 +22607,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22686,7 +22686,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22765,7 +22765,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22844,7 +22844,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -22923,7 +22923,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -23002,7 +23002,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -23081,7 +23081,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -23160,7 +23160,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -23239,7 +23239,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -23318,7 +23318,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)
@@ -23397,7 +23397,7 @@ TypeError: TypeMap.__get_cls_dict.<locals>.__init__: missing argument 'help'
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 320, in nwb2asset
     metadata = get_metadata(nwb_path)

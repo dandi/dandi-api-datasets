@@ -1,6 +1,6 @@
 sub-anm372793/sub-anm372793_behavior+ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 332, in nwb2asset
     asset = metadata2asset(metadata)
@@ -22,7 +22,7 @@ ValueError: Cannot interpret sex field: u
 
 sub-anm369962/sub-anm369962_behavior+ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 332, in nwb2asset
     asset = metadata2asset(metadata)
@@ -44,7 +44,7 @@ ValueError: Cannot interpret sex field: u
 
 sub-anm369963/sub-anm369963_behavior+ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 332, in nwb2asset
     asset = metadata2asset(metadata)
@@ -66,7 +66,7 @@ ValueError: Cannot interpret sex field: u
 
 sub-anm369964/sub-anm369964_behavior+ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 332, in nwb2asset
     asset = metadata2asset(metadata)

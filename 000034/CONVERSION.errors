@@ -1,6 +1,6 @@
 sub-c1/sub-c1_ecephys.nwb
 Traceback (most recent call last):
-  File "tools/populate_dandiset_asset_yamls.py", line 53, in main
+  File "tools/populate_dandiset_asset_yamls.py", line 57, in main
     metadata = nwb2asset(
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 332, in nwb2asset
     asset = metadata2asset(metadata)
