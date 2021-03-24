@@ -3,14 +3,10 @@ sub-EC2/sub-EC2_ses-EC2-B1.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-EC2/sub-EC2_ses-EC2-B105.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -19,14 +15,10 @@ sub-EC2/sub-EC2_ses-EC2-B15.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-EC2/sub-EC2_ses-EC2-B76.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -35,14 +27,10 @@ sub-EC2/sub-EC2_ses-EC2-B8.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-EC2/sub-EC2_ses-EC2-B89.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -51,14 +39,10 @@ sub-EC2/sub-EC2_ses-EC2-B9.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-EC9/sub-EC9_ses-EC9-B15.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -67,14 +51,10 @@ sub-EC9/sub-EC9_ses-EC9-B39.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-EC9/sub-EC9_ses-EC9-B46.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -83,14 +63,10 @@ sub-EC9/sub-EC9_ses-EC9-B53.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-EC9/sub-EC9_ses-EC9-B60.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -99,14 +75,10 @@ sub-EC9/sub-EC9_ses-EC9-B63.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-GP31/sub-GP31_ses-GP31-B2.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -115,14 +87,10 @@ sub-GP31/sub-GP31_ses-GP31-B6.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-GP31/sub-GP31_ses-GP31-B63.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -131,14 +99,10 @@ sub-GP31/sub-GP31_ses-GP31-B69.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-GP31/sub-GP31_ses-GP31-B78.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -147,14 +111,10 @@ sub-GP31/sub-GP31_ses-GP31-B82.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-GP31/sub-GP31_ses-GP31-B9.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
@@ -163,14 +123,10 @@ sub-GP33/sub-GP33_ses-GP33-B30.nwb
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-GP33/sub-GP33_ses-GP33-B5.nwb
  - VectorIndex/description (intervals/invalid_times/tags_index): argument missing
  - VectorIndex (intervals/invalid_times/tags_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
- - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (intervals/invalid_times/timeseries_index): argument missing
  - VectorIndex (intervals/invalid_times/timeseries_index): incorrect type - expected 'uint8', got 'int64'
 

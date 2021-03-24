@@ -1,13 +1,9 @@
 sub-1/sub-1_ses-18516000_tis-1-1.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516001_tis-1-1.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -15,13 +11,9 @@ sub-1/sub-1_ses-18516001_tis-1-1.nwb
 sub-1/sub-1_ses-18516002_tis-1-1.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516003_tis-1-1.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -29,13 +21,9 @@ sub-1/sub-1_ses-18516003_tis-1-1.nwb
 sub-1/sub-1_ses-18516004_tis-1-1.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516005_tis-1-1.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -43,13 +31,9 @@ sub-1/sub-1_ses-18516005_tis-1-1.nwb
 sub-1/sub-1_ses-18516006_tis-1-1.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516007_tis-1-2_cell-c3.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -57,13 +41,9 @@ sub-1/sub-1_ses-18516007_tis-1-2_cell-c3.nwb
 sub-1/sub-1_ses-18516008_tis-1-2_cell-c3.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516009_tis-1-2_cell-c3.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -71,13 +51,9 @@ sub-1/sub-1_ses-18516009_tis-1-2_cell-c3.nwb
 sub-1/sub-1_ses-18516010_tis-1-2_cell-c3.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516011_tis-1-2_cell-c3.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -85,13 +61,9 @@ sub-1/sub-1_ses-18516011_tis-1-2_cell-c3.nwb
 sub-1/sub-1_ses-18516012_tis-1-2_cell-c3.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516013_tis-1-2_cell-c3.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -99,13 +71,9 @@ sub-1/sub-1_ses-18516013_tis-1-2_cell-c3.nwb
 sub-1/sub-1_ses-18516014_tis-1-2_cell-c3.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516015_tis-1-2_cell-c3.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -113,13 +81,9 @@ sub-1/sub-1_ses-18516015_tis-1-2_cell-c3.nwb
 sub-1/sub-1_ses-18516016_tis-1-2_cell-c4.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516017_tis-1-2_cell-c4.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -127,13 +91,9 @@ sub-1/sub-1_ses-18516017_tis-1-2_cell-c4.nwb
 sub-1/sub-1_ses-18516018_tis-1-2_cell-c4.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516019_tis-1-2_cell-c4.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -141,13 +101,9 @@ sub-1/sub-1_ses-18516019_tis-1-2_cell-c4.nwb
 sub-1/sub-1_ses-18516020_tis-1-2_cell-c4.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516021_tis-1-2_cell-c4.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -155,13 +111,9 @@ sub-1/sub-1_ses-18516021_tis-1-2_cell-c4.nwb
 sub-1/sub-1_ses-18516022_tis-1-2_cell-c4.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516023_tis-1-2_cell-c4.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -169,13 +121,9 @@ sub-1/sub-1_ses-18516023_tis-1-2_cell-c4.nwb
 sub-1/sub-1_ses-18516024_tis-1-2_cell-c4.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516025_tis-1-2_cell-c4.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -183,13 +131,9 @@ sub-1/sub-1_ses-18516025_tis-1-2_cell-c4.nwb
 sub-1/sub-1_ses-18516026_tis-1-2_cell-c4.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516027_tis-1-2_cell-c5.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -197,13 +141,9 @@ sub-1/sub-1_ses-18516027_tis-1-2_cell-c5.nwb
 sub-1/sub-1_ses-18516028_tis-1-2_cell-c5.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516029_tis-1-2_cell-c5.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -211,13 +151,9 @@ sub-1/sub-1_ses-18516029_tis-1-2_cell-c5.nwb
 sub-1/sub-1_ses-18516030_tis-1-2_cell-c5.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516031_tis-1-2_cell-c5.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -225,13 +161,9 @@ sub-1/sub-1_ses-18516031_tis-1-2_cell-c5.nwb
 sub-1/sub-1_ses-18516032_tis-1-2_cell-c5.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516033_tis-1-2_cell-c5.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -239,13 +171,9 @@ sub-1/sub-1_ses-18516033_tis-1-2_cell-c5.nwb
 sub-1/sub-1_ses-18516034_tis-1-2_cell-c5.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516035_tis-1-2.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -253,13 +181,9 @@ sub-1/sub-1_ses-18516035_tis-1-2.nwb
 sub-1/sub-1_ses-18516036_tis-1-2.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516037_tis-1-2_cell-c6.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -267,13 +191,9 @@ sub-1/sub-1_ses-18516037_tis-1-2_cell-c6.nwb
 sub-1/sub-1_ses-18516038_tis-1-2_cell-c6.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516039_tis-1-2_cell-c6.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -281,13 +201,9 @@ sub-1/sub-1_ses-18516039_tis-1-2_cell-c6.nwb
 sub-1/sub-1_ses-18516040_tis-1-2_cell-c6.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516041_tis-1-2_cell-c6.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -295,13 +211,9 @@ sub-1/sub-1_ses-18516041_tis-1-2_cell-c6.nwb
 sub-1/sub-1_ses-18516042_tis-1-2_cell-c6.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-1/sub-1_ses-18516043_tis-1-2_cell-c6.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -309,13 +221,9 @@ sub-1/sub-1_ses-18516043_tis-1-2_cell-c6.nwb
 sub-2/sub-2_ses-18518000_tis-2-1_cell-c8.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518001_cell-c8.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -323,13 +231,9 @@ sub-2/sub-2_ses-18518001_cell-c8.nwb
 sub-2/sub-2_ses-18518002_cell-c8.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518003_cell-c8.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -337,13 +241,9 @@ sub-2/sub-2_ses-18518003_cell-c8.nwb
 sub-2/sub-2_ses-18518004_cell-c8.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518005_cell-c8.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -351,13 +251,9 @@ sub-2/sub-2_ses-18518005_cell-c8.nwb
 sub-2/sub-2_ses-18518010.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518011.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -365,13 +261,9 @@ sub-2/sub-2_ses-18518011.nwb
 sub-2/sub-2_ses-18518012.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518013.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -379,13 +271,9 @@ sub-2/sub-2_ses-18518013.nwb
 sub-2/sub-2_ses-18518014.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518015_tis-2-2_cell-c10.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -393,13 +281,9 @@ sub-2/sub-2_ses-18518015_tis-2-2_cell-c10.nwb
 sub-2/sub-2_ses-18518016_tis-2-2_cell-c10.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518017_tis-2-2_cell-c10.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -407,13 +291,9 @@ sub-2/sub-2_ses-18518017_tis-2-2_cell-c10.nwb
 sub-2/sub-2_ses-18518018_tis-2-2_cell-c10.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518019_tis-2-2_cell-c10.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -421,13 +301,9 @@ sub-2/sub-2_ses-18518019_tis-2-2_cell-c10.nwb
 sub-2/sub-2_ses-18518020_tis-2-2_cell-c10.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518021_tis-2-2_cell-c10.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -435,13 +311,9 @@ sub-2/sub-2_ses-18518021_tis-2-2_cell-c10.nwb
 sub-2/sub-2_ses-18518022_tis-2-2_cell-c11.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518023_tis-2-2_cell-c11.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -449,13 +321,9 @@ sub-2/sub-2_ses-18518023_tis-2-2_cell-c11.nwb
 sub-2/sub-2_ses-18518024_tis-2-2_cell-c11.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518025_tis-2-2_cell-c11.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -463,13 +331,9 @@ sub-2/sub-2_ses-18518025_tis-2-2_cell-c11.nwb
 sub-2/sub-2_ses-18518026_tis-2-2_cell-c11.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518027_tis-2-2_cell-c11.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -477,13 +341,9 @@ sub-2/sub-2_ses-18518027_tis-2-2_cell-c11.nwb
 sub-2/sub-2_ses-18518028_tis-2-2_cell-c11.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518029_tis-2-2_cell-c11.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -491,13 +351,9 @@ sub-2/sub-2_ses-18518029_tis-2-2_cell-c11.nwb
 sub-2/sub-2_ses-18518030_tis-2-2_cell-c11.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518031_tis-2-2_cell-c12.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -505,13 +361,9 @@ sub-2/sub-2_ses-18518031_tis-2-2_cell-c12.nwb
 sub-2/sub-2_ses-18518032_tis-2-2_cell-c12.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518033_tis-2-2_cell-c12.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -519,13 +371,9 @@ sub-2/sub-2_ses-18518033_tis-2-2_cell-c12.nwb
 sub-2/sub-2_ses-18518034_tis-2-2_cell-c12.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518035_tis-2-2_cell-c12.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -533,13 +381,9 @@ sub-2/sub-2_ses-18518035_tis-2-2_cell-c12.nwb
 sub-2/sub-2_ses-18518036_tis-2-2_cell-c12.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518037_tis-2-2_cell-c12.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -547,13 +391,9 @@ sub-2/sub-2_ses-18518037_tis-2-2_cell-c12.nwb
 sub-2/sub-2_ses-18518038_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518039_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -561,13 +401,9 @@ sub-2/sub-2_ses-18518039_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518040_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518041_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -575,13 +411,9 @@ sub-2/sub-2_ses-18518041_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518042_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518043_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -589,13 +421,9 @@ sub-2/sub-2_ses-18518043_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518044_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518045_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -603,13 +431,9 @@ sub-2/sub-2_ses-18518045_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518046_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518047_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -617,13 +441,9 @@ sub-2/sub-2_ses-18518047_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518048_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518049_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -631,13 +451,9 @@ sub-2/sub-2_ses-18518049_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518050_tis-2-2_cell-c13.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518051_tis-2-2_cell-c13.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -645,13 +461,9 @@ sub-2/sub-2_ses-18518051_tis-2-2_cell-c13.nwb
 sub-2/sub-2_ses-18518052_tis-2-2_cell-c14.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518053_tis-2-2_cell-c14.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -659,13 +471,9 @@ sub-2/sub-2_ses-18518053_tis-2-2_cell-c14.nwb
 sub-2/sub-2_ses-18518054_tis-2-2_cell-c14.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518055_tis-2-2_cell-c14.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -673,13 +481,9 @@ sub-2/sub-2_ses-18518055_tis-2-2_cell-c14.nwb
 sub-2/sub-2_ses-18518056_tis-2-2_cell-c14.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518057_tis-2-2_cell-c14.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -687,13 +491,9 @@ sub-2/sub-2_ses-18518057_tis-2-2_cell-c14.nwb
 sub-2/sub-2_ses-18518058_tis-2-2_cell-c14.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18518059_tis-2-2_cell-c14.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -701,13 +501,9 @@ sub-2/sub-2_ses-18518059_tis-2-2_cell-c14.nwb
 sub-2/sub-2_ses-18518060_tis-2-2_cell-c14.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18519000_tis-2-2_cell-c15.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -715,13 +511,9 @@ sub-2/sub-2_ses-18519000_tis-2-2_cell-c15.nwb
 sub-2/sub-2_ses-18519001_tis-2-2_cell-c15.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18519002_tis-2-2_cell-c15.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -729,13 +521,9 @@ sub-2/sub-2_ses-18519002_tis-2-2_cell-c15.nwb
 sub-2/sub-2_ses-18519003_tis-2-2_cell-c15.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18519004_tis-2-2_cell-c16.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -743,13 +531,9 @@ sub-2/sub-2_ses-18519004_tis-2-2_cell-c16.nwb
 sub-2/sub-2_ses-18519005_tis-2-2_cell-c16.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18519006_tis-2-2_cell-c16.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -757,13 +541,9 @@ sub-2/sub-2_ses-18519006_tis-2-2_cell-c16.nwb
 sub-2/sub-2_ses-18519007_tis-2-2_cell-c16.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-2/sub-2_ses-18519008_tis-2-2_cell-c16.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -771,13 +551,9 @@ sub-2/sub-2_ses-18519008_tis-2-2_cell-c16.nwb
 sub-3/sub-3_ses-18523000_tis-3-1_cell-c18.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523001_tis-3-1_cell-c18.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -785,13 +561,9 @@ sub-3/sub-3_ses-18523001_tis-3-1_cell-c18.nwb
 sub-3/sub-3_ses-18523002_tis-3-1_cell-c18.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523003_tis-3-1_cell-c18.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -799,13 +571,9 @@ sub-3/sub-3_ses-18523003_tis-3-1_cell-c18.nwb
 sub-3/sub-3_ses-18523004_tis-3-1_cell-c18.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523005_tis-3-1_cell-c18.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -813,13 +581,9 @@ sub-3/sub-3_ses-18523005_tis-3-1_cell-c18.nwb
 sub-3/sub-3_ses-18523006_tis-3-1_cell-c18.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523007_tis-3-1_cell-c18.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -827,13 +591,9 @@ sub-3/sub-3_ses-18523007_tis-3-1_cell-c18.nwb
 sub-3/sub-3_ses-18523008_tis-3-1_cell-c19.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523009_tis-3-1_cell-c19.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -841,13 +601,9 @@ sub-3/sub-3_ses-18523009_tis-3-1_cell-c19.nwb
 sub-3/sub-3_ses-18523010_tis-3-1_cell-c19.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523011_tis-3-1_cell-c19.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -855,13 +611,9 @@ sub-3/sub-3_ses-18523011_tis-3-1_cell-c19.nwb
 sub-3/sub-3_ses-18523012_tis-3-1_cell-c19.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523013_tis-3-1_cell-c19.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -869,13 +621,9 @@ sub-3/sub-3_ses-18523013_tis-3-1_cell-c19.nwb
 sub-3/sub-3_ses-18523014_tis-3-1_cell-c19.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523015_tis-3-1_cell-c20.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -883,13 +631,9 @@ sub-3/sub-3_ses-18523015_tis-3-1_cell-c20.nwb
 sub-3/sub-3_ses-18523016_tis-3-1_cell-c20.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523017_tis-3-1_cell-c20.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -897,13 +641,9 @@ sub-3/sub-3_ses-18523017_tis-3-1_cell-c20.nwb
 sub-3/sub-3_ses-18523018_tis-3-1_cell-c20.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523019_tis-3-1_cell-c20.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -911,13 +651,9 @@ sub-3/sub-3_ses-18523019_tis-3-1_cell-c20.nwb
 sub-3/sub-3_ses-18523020_tis-3-1_cell-c20.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523021_tis-3-1_cell-c20.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -925,13 +661,9 @@ sub-3/sub-3_ses-18523021_tis-3-1_cell-c20.nwb
 sub-3/sub-3_ses-18523022_tis-3-1_cell-c20.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523023_tis-3-1_cell-c20.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -939,13 +671,9 @@ sub-3/sub-3_ses-18523023_tis-3-1_cell-c20.nwb
 sub-3/sub-3_ses-18523024_tis-3-2_cell-c21.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523025_tis-3-2_cell-c21.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -953,13 +681,9 @@ sub-3/sub-3_ses-18523025_tis-3-2_cell-c21.nwb
 sub-3/sub-3_ses-18523026_tis-3-2_cell-c21.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523027_tis-3-2_cell-c21.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -967,13 +691,9 @@ sub-3/sub-3_ses-18523027_tis-3-2_cell-c21.nwb
 sub-3/sub-3_ses-18523028_tis-3-2_cell-c21.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523029_tis-3-2_cell-c21.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -981,13 +701,9 @@ sub-3/sub-3_ses-18523029_tis-3-2_cell-c21.nwb
 sub-3/sub-3_ses-18523030_tis-3-2_cell-c21.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523031_tis-3-2_cell-c21.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -995,13 +711,9 @@ sub-3/sub-3_ses-18523031_tis-3-2_cell-c21.nwb
 sub-3/sub-3_ses-18523032_tis-3-2_cell-c21.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523033_tis-3-2_cell-c22.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1009,13 +721,9 @@ sub-3/sub-3_ses-18523033_tis-3-2_cell-c22.nwb
 sub-3/sub-3_ses-18523034_tis-3-2_cell-c22.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523035_tis-3-2_cell-c22.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1023,13 +731,9 @@ sub-3/sub-3_ses-18523035_tis-3-2_cell-c22.nwb
 sub-3/sub-3_ses-18523036_tis-3-2_cell-c22.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523037_tis-3-2_cell-c22.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1037,13 +741,9 @@ sub-3/sub-3_ses-18523037_tis-3-2_cell-c22.nwb
 sub-3/sub-3_ses-18523038_tis-3-2_cell-c22.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523039_tis-3-2_cell-c23.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1051,13 +751,9 @@ sub-3/sub-3_ses-18523039_tis-3-2_cell-c23.nwb
 sub-3/sub-3_ses-18523040_tis-3-2_cell-c23.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523041_tis-3-2_cell-c23.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1065,13 +761,9 @@ sub-3/sub-3_ses-18523041_tis-3-2_cell-c23.nwb
 sub-3/sub-3_ses-18523042_tis-3-2_cell-c23.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523043_tis-3-2_cell-c23.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1079,13 +771,9 @@ sub-3/sub-3_ses-18523043_tis-3-2_cell-c23.nwb
 sub-3/sub-3_ses-18523044_tis-3-2_cell-c23.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523045_tis-3-2_cell-c23.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1093,13 +781,9 @@ sub-3/sub-3_ses-18523045_tis-3-2_cell-c23.nwb
 sub-3/sub-3_ses-18523046_tis-3-2_cell-c24.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523047_tis-3-2_cell-c24.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1107,13 +791,9 @@ sub-3/sub-3_ses-18523047_tis-3-2_cell-c24.nwb
 sub-3/sub-3_ses-18523048_tis-3-2_cell-c24.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523049_tis-3-2_cell-c24.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1121,13 +801,9 @@ sub-3/sub-3_ses-18523049_tis-3-2_cell-c24.nwb
 sub-3/sub-3_ses-18523050_tis-3-2_cell-c24.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523051_tis-3-2_cell-c24.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1135,13 +811,9 @@ sub-3/sub-3_ses-18523051_tis-3-2_cell-c24.nwb
 sub-3/sub-3_ses-18523052_tis-3-2_cell-c24.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523053_tis-3-2_cell-c24.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1149,13 +821,9 @@ sub-3/sub-3_ses-18523053_tis-3-2_cell-c24.nwb
 sub-3/sub-3_ses-18523054_tis-3-2_cell-c24.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523055_tis-3-2_cell-c24.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1163,13 +831,9 @@ sub-3/sub-3_ses-18523055_tis-3-2_cell-c24.nwb
 sub-3/sub-3_ses-18523056_tis-3-2_cell-c24.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523057_tis-3-2_cell-c25.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1177,13 +841,9 @@ sub-3/sub-3_ses-18523057_tis-3-2_cell-c25.nwb
 sub-3/sub-3_ses-18523058_tis-3-2_cell-c25.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523059_tis-3-2_cell-c25.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1191,13 +851,9 @@ sub-3/sub-3_ses-18523059_tis-3-2_cell-c25.nwb
 sub-3/sub-3_ses-18523060_tis-3-2_cell-c25.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523061_tis-3-2_cell-c25.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1205,13 +861,9 @@ sub-3/sub-3_ses-18523061_tis-3-2_cell-c25.nwb
 sub-3/sub-3_ses-18523062_tis-3-2_cell-c25.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523063_tis-3-2_cell-c26.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1219,13 +871,9 @@ sub-3/sub-3_ses-18523063_tis-3-2_cell-c26.nwb
 sub-3/sub-3_ses-18523064_tis-3-2_cell-c26.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523065_tis-3-2_cell-c26.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1233,13 +881,9 @@ sub-3/sub-3_ses-18523065_tis-3-2_cell-c26.nwb
 sub-3/sub-3_ses-18523066_tis-3-2_cell-c26.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523067_tis-3-2_cell-c26.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1247,13 +891,9 @@ sub-3/sub-3_ses-18523067_tis-3-2_cell-c26.nwb
 sub-3/sub-3_ses-18523068_tis-3-2_cell-c26.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523069_tis-3-2_cell-c26.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1261,13 +901,9 @@ sub-3/sub-3_ses-18523069_tis-3-2_cell-c26.nwb
 sub-3/sub-3_ses-18523070_tis-3-2_cell-c27.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523071_tis-3-2_cell-c27.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1275,13 +911,9 @@ sub-3/sub-3_ses-18523071_tis-3-2_cell-c27.nwb
 sub-3/sub-3_ses-18523072_tis-3-2_cell-c27.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523073_tis-3-2_cell-c27.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1289,13 +921,9 @@ sub-3/sub-3_ses-18523073_tis-3-2_cell-c27.nwb
 sub-3/sub-3_ses-18523074_tis-3-2_cell-c27.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523075_tis-3-2_cell-c27.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1303,13 +931,9 @@ sub-3/sub-3_ses-18523075_tis-3-2_cell-c27.nwb
 sub-3/sub-3_ses-18523076_tis-3-2_cell-c27.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523077_tis-3-2_cell-c28.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1317,13 +941,9 @@ sub-3/sub-3_ses-18523077_tis-3-2_cell-c28.nwb
 sub-3/sub-3_ses-18523078_tis-3-2_cell-c28.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523079_tis-3-2_cell-c28.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1331,13 +951,9 @@ sub-3/sub-3_ses-18523079_tis-3-2_cell-c28.nwb
 sub-3/sub-3_ses-18523080_tis-3-2_cell-c28.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523081_tis-3-2_cell-c28.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1345,13 +961,9 @@ sub-3/sub-3_ses-18523081_tis-3-2_cell-c28.nwb
 sub-3/sub-3_ses-18523082_tis-3-2_cell-c28.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523083_tis-3-2_cell-c28.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1359,13 +971,9 @@ sub-3/sub-3_ses-18523083_tis-3-2_cell-c28.nwb
 sub-3/sub-3_ses-18523084_tis-3-2_cell-c29.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523085_tis-3-2_cell-c29.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1373,13 +981,9 @@ sub-3/sub-3_ses-18523085_tis-3-2_cell-c29.nwb
 sub-3/sub-3_ses-18523086_tis-3-2_cell-c29.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523087_tis-3-2_cell-c29.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1387,13 +991,9 @@ sub-3/sub-3_ses-18523087_tis-3-2_cell-c29.nwb
 sub-3/sub-3_ses-18523088_tis-3-2_cell-c29.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523089_tis-3-2_cell-c29.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1401,13 +1001,9 @@ sub-3/sub-3_ses-18523089_tis-3-2_cell-c29.nwb
 sub-3/sub-3_ses-18523090_tis-3-2_cell-c30.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523091_tis-3-2_cell-c30.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1415,13 +1011,9 @@ sub-3/sub-3_ses-18523091_tis-3-2_cell-c30.nwb
 sub-3/sub-3_ses-18523092_tis-3-2_cell-c30.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523093_tis-3-2_cell-c30.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1429,13 +1021,9 @@ sub-3/sub-3_ses-18523093_tis-3-2_cell-c30.nwb
 sub-3/sub-3_ses-18523094_tis-3-2_cell-c30.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-3/sub-3_ses-18523095_tis-3-2_cell-c30.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1443,13 +1031,9 @@ sub-3/sub-3_ses-18523095_tis-3-2_cell-c30.nwb
 sub-4/sub-4_ses-18530001_tis-4-1_cell-c32.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530002_tis-4-1_cell-c32.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1457,13 +1041,9 @@ sub-4/sub-4_ses-18530002_tis-4-1_cell-c32.nwb
 sub-4/sub-4_ses-18530003_tis-4-1_cell-c32.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530004_tis-4-1_cell-c32.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1471,13 +1051,9 @@ sub-4/sub-4_ses-18530004_tis-4-1_cell-c32.nwb
 sub-4/sub-4_ses-18530005_tis-4-1_cell-c32.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530006_tis-4-1_cell-c32.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1485,13 +1061,9 @@ sub-4/sub-4_ses-18530006_tis-4-1_cell-c32.nwb
 sub-4/sub-4_ses-18530007_tis-4-1_cell-c34.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530008_tis-4-1_cell-c34.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1499,13 +1071,9 @@ sub-4/sub-4_ses-18530008_tis-4-1_cell-c34.nwb
 sub-4/sub-4_ses-18530009_tis-4-1_cell-c34.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530010_tis-4-1_cell-c34.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1513,13 +1081,9 @@ sub-4/sub-4_ses-18530010_tis-4-1_cell-c34.nwb
 sub-4/sub-4_ses-18530011_tis-4-1_cell-c34.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530012_tis-4-1_cell-c34.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1527,13 +1091,9 @@ sub-4/sub-4_ses-18530012_tis-4-1_cell-c34.nwb
 sub-4/sub-4_ses-18530013_tis-4-1_cell-c34.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530014_tis-4-1_cell-c34.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1541,13 +1101,9 @@ sub-4/sub-4_ses-18530014_tis-4-1_cell-c34.nwb
 sub-4/sub-4_ses-18530015_tis-4-1_cell-c35.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530016_tis-4-1_cell-c35.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1555,13 +1111,9 @@ sub-4/sub-4_ses-18530016_tis-4-1_cell-c35.nwb
 sub-4/sub-4_ses-18530017_tis-4-1_cell-c35.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530018_tis-4-1_cell-c35.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1569,13 +1121,9 @@ sub-4/sub-4_ses-18530018_tis-4-1_cell-c35.nwb
 sub-4/sub-4_ses-18530019_tis-4-1_cell-c35.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530020_tis-4-1_cell-c35.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1583,13 +1131,9 @@ sub-4/sub-4_ses-18530020_tis-4-1_cell-c35.nwb
 sub-4/sub-4_ses-18530021_tis-4-1_cell-c35.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530022_tis-4-1_cell-c35.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1597,13 +1141,9 @@ sub-4/sub-4_ses-18530022_tis-4-1_cell-c35.nwb
 sub-4/sub-4_ses-18530023_tis-4-1_cell-c36.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530024_tis-4-1_cell-c36.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1611,13 +1151,9 @@ sub-4/sub-4_ses-18530024_tis-4-1_cell-c36.nwb
 sub-4/sub-4_ses-18530025_tis-4-1_cell-c36.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530026_tis-4-1_cell-c36.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1625,13 +1161,9 @@ sub-4/sub-4_ses-18530026_tis-4-1_cell-c36.nwb
 sub-4/sub-4_ses-18530027_tis-4-1_cell-c36.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530028_tis-4-1_cell-c37.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1639,13 +1171,9 @@ sub-4/sub-4_ses-18530028_tis-4-1_cell-c37.nwb
 sub-4/sub-4_ses-18530029_tis-4-1_cell-c37.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530030_tis-4-1_cell-c37.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1653,13 +1181,9 @@ sub-4/sub-4_ses-18530030_tis-4-1_cell-c37.nwb
 sub-4/sub-4_ses-18530031_tis-4-1_cell-c37.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530032_tis-4-1_cell-c37.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1667,13 +1191,9 @@ sub-4/sub-4_ses-18530032_tis-4-1_cell-c37.nwb
 sub-4/sub-4_ses-18530033_tis-4-1_cell-c37.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18530034_tis-4-1_cell-c37.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1681,13 +1201,9 @@ sub-4/sub-4_ses-18530034_tis-4-1_cell-c37.nwb
 sub-4/sub-4_ses-18531000_tis-4-1_cell-c38.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531001_tis-4-1_cell-c38.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1695,13 +1211,9 @@ sub-4/sub-4_ses-18531001_tis-4-1_cell-c38.nwb
 sub-4/sub-4_ses-18531002_tis-4-1_cell-c38.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531003_tis-4-1_cell-c38.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1709,13 +1221,9 @@ sub-4/sub-4_ses-18531003_tis-4-1_cell-c38.nwb
 sub-4/sub-4_ses-18531004_tis-4-1_cell-c38.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531005_tis-4-2_cell-c39.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1723,13 +1231,9 @@ sub-4/sub-4_ses-18531005_tis-4-2_cell-c39.nwb
 sub-4/sub-4_ses-18531006_tis-4-2.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531007_tis-4-2.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1737,13 +1241,9 @@ sub-4/sub-4_ses-18531007_tis-4-2.nwb
 sub-4/sub-4_ses-18531008_tis-4-2.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531009_tis-4-2.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1751,13 +1251,9 @@ sub-4/sub-4_ses-18531009_tis-4-2.nwb
 sub-4/sub-4_ses-18531010_tis-4-2.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531011_tis-4-2.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1765,13 +1261,9 @@ sub-4/sub-4_ses-18531011_tis-4-2.nwb
 sub-4/sub-4_ses-18531012_tis-4-2.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531013_tis-4-2.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1779,13 +1271,9 @@ sub-4/sub-4_ses-18531013_tis-4-2.nwb
 sub-4/sub-4_ses-18531014_tis-4-2.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531015_tis-4-2_cell-c40.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1793,13 +1281,9 @@ sub-4/sub-4_ses-18531015_tis-4-2_cell-c40.nwb
 sub-4/sub-4_ses-18531016_tis-4-2_cell-c40.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531017_tis-4-2_cell-c40.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1807,13 +1291,9 @@ sub-4/sub-4_ses-18531017_tis-4-2_cell-c40.nwb
 sub-4/sub-4_ses-18531018_tis-4-2_cell-c40.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531019_tis-4-2_cell-c40.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1821,13 +1301,9 @@ sub-4/sub-4_ses-18531019_tis-4-2_cell-c40.nwb
 sub-4/sub-4_ses-18531020_tis-4-2_cell-c40.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531021_tis-4-2_cell-c40.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1835,13 +1311,9 @@ sub-4/sub-4_ses-18531021_tis-4-2_cell-c40.nwb
 sub-4/sub-4_ses-18531022_tis-4-2_cell-c40.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531023_tis-4-2_cell-c41.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1849,13 +1321,9 @@ sub-4/sub-4_ses-18531023_tis-4-2_cell-c41.nwb
 sub-4/sub-4_ses-18531024_tis-4-2_cell-c41.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531025_tis-4-2_cell-c41.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1863,13 +1331,9 @@ sub-4/sub-4_ses-18531025_tis-4-2_cell-c41.nwb
 sub-4/sub-4_ses-18531026_tis-4-2_cell-c41.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531027_tis-4-2_cell-c41.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1877,13 +1341,9 @@ sub-4/sub-4_ses-18531027_tis-4-2_cell-c41.nwb
 sub-4/sub-4_ses-18531028_tis-4-2_cell-c41.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531029_tis-4-2_cell-c41.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1891,13 +1351,9 @@ sub-4/sub-4_ses-18531029_tis-4-2_cell-c41.nwb
 sub-4/sub-4_ses-18531030_tis-4-2_cell-c42.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531031_tis-4-2_cell-c42.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1905,13 +1361,9 @@ sub-4/sub-4_ses-18531031_tis-4-2_cell-c42.nwb
 sub-4/sub-4_ses-18531032_tis-4-2_cell-c42.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531033_tis-4-2_cell-c42.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1919,13 +1371,9 @@ sub-4/sub-4_ses-18531033_tis-4-2_cell-c42.nwb
 sub-4/sub-4_ses-18531034_tis-4-2_cell-c42.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531035_tis-4-2_cell-c42.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1933,13 +1381,9 @@ sub-4/sub-4_ses-18531035_tis-4-2_cell-c42.nwb
 sub-4/sub-4_ses-18531036_tis-4-2_cell-c42.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531037_tis-4-2_cell-c43.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1947,13 +1391,9 @@ sub-4/sub-4_ses-18531037_tis-4-2_cell-c43.nwb
 sub-4/sub-4_ses-18531038_tis-4-2_cell-c43.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531039_tis-4-2_cell-c43.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1961,13 +1401,9 @@ sub-4/sub-4_ses-18531039_tis-4-2_cell-c43.nwb
 sub-4/sub-4_ses-18531040_tis-4-2_cell-c43.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531041_tis-4-2_cell-c43.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1975,13 +1411,9 @@ sub-4/sub-4_ses-18531041_tis-4-2_cell-c43.nwb
 sub-4/sub-4_ses-18531042_tis-4-2_cell-c43.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531043_tis-4-2_cell-c43.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -1989,13 +1421,9 @@ sub-4/sub-4_ses-18531043_tis-4-2_cell-c43.nwb
 sub-4/sub-4_ses-18531044_tis-4-2_cell-c43.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531045_tis-4-2_cell-c44.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -2003,13 +1431,9 @@ sub-4/sub-4_ses-18531045_tis-4-2_cell-c44.nwb
 sub-4/sub-4_ses-18531046_tis-4-2_cell-c44.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531047_tis-4-2_cell-c44.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -2017,13 +1441,9 @@ sub-4/sub-4_ses-18531047_tis-4-2_cell-c44.nwb
 sub-4/sub-4_ses-18531048_tis-4-2_cell-c44.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531049_tis-4-2_cell-c44.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -2031,13 +1451,9 @@ sub-4/sub-4_ses-18531049_tis-4-2_cell-c44.nwb
 sub-4/sub-4_ses-18531050_tis-4-2_cell-c44.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531051_tis-4-2_cell-c45.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -2045,13 +1461,9 @@ sub-4/sub-4_ses-18531051_tis-4-2_cell-c45.nwb
 sub-4/sub-4_ses-18531052_tis-4-2_cell-c45.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531053_tis-4-2_cell-c45.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
@@ -2059,20 +1471,14 @@ sub-4/sub-4_ses-18531053_tis-4-2_cell-c45.nwb
 sub-4/sub-4_ses-18531054_tis-4-2_cell-c45.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531055_tis-4-2_cell-c45.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org
 
 sub-4/sub-4_ses-18531056_tis-4-2_cell-c45.nwb
- - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
- - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - warning: nwb_version '2.0b' is not a proper semantic version. See http://semver.org

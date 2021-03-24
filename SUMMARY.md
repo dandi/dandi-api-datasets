@@ -26,12 +26,10 @@
 
 # Dandisets with Conversion Errors
 1. 000006
-2. 000012
-3. 000013
-4. 000019
-5. 000025
-6. 000029
-7. 000034
+2. 000013
+3. 000025
+4. 000029
+5. 000034
 
 # Dandisets with Validation Errors
 
