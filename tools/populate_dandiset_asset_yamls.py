@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from collections import deque
 from contextlib import suppress
+from copy import deepcopy
 from pathlib import Path
 import sys
 import traceback
@@ -45,7 +46,7 @@ def main():
             print("Processing", f)
             sha256_digest = get_digest(f)
             default_metadata = get_default_metadata(
-                f, digest=sha256_digest, digest_type="SHA256"
+                f, digest=sha256_digest, digest_type="sha256"
             ).json_dict()
             default_metadata["path"] = str(relpath)
             if f.suffix == ".nwb":
@@ -61,7 +62,7 @@ def main():
                         print(file=fp)
                 try:
                     metadata = nwb2asset(
-                        f, digest=sha256_digest, digest_type="SHA256"
+                        f, digest=sha256_digest, digest_type="sha256"
                     ).json_dict()
                 except Exception as e:
                     print(f"CONVERSION ERROR: {e}")
@@ -105,9 +106,10 @@ def iterfiles(dirpath):
 def metadata_differs(yaml, new_data, filepath):
     try:
         with filepath.open() as fp:
-            old_data = yaml.safe_load(fp)
+            old_data = yaml.load(fp)
     except FileNotFoundError:
         return True
+    new_data = deepcopy(new_data)
     for fieldpath in IGNORED_FIELDS:
         for data in (new_data, old_data):
             for f in fieldpath[:-1]:
