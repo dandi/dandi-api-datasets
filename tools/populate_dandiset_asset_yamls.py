@@ -12,6 +12,12 @@ from dandi.support.digests import get_digest
 from pydantic import ValidationError
 import ruamel.yaml
 
+IGNORED_FIELDS = (
+    ["dateModified"],
+    ["wasGeneratedBy", -1, "identifier"],
+    ["wasGeneratedBy", -1, "wasAssociatedWith", 0, "version"],
+)
+
 
 def main():
     yaml = ruamel.yaml.YAML(typ="safe")
@@ -78,8 +84,9 @@ def main():
                 metadata = default_metadata
             outfile = (outdir / relpath).with_name(f.name + ".yaml")
             outfile.parent.mkdir(parents=True, exist_ok=True)
-            with outfile.open("w") as fp:
-                yaml.dump(metadata, fp)
+            if metadata_differs(yaml, metadata, outfile):
+                with outfile.open("w") as fp:
+                    yaml.dump(metadata, fp)
 
 
 def iterfiles(dirpath):
@@ -93,6 +100,20 @@ def iterfiles(dirpath):
                 dirs.append(p)
             else:
                 yield p
+
+
+def metadata_differs(yaml, new_data, filepath):
+    try:
+        with filepath.open() as fp:
+            old_data = yaml.safe_load(fp)
+    except FileNotFoundError:
+        return True
+    for fieldpath in IGNORED_FIELDS:
+        for data in (new_data, old_data):
+            for f in fieldpath[:-1]:
+                data = data[f]
+            data[fieldpath[-1]] = None
+    return new_data != old_data
 
 
 if __name__ == "__main__":
