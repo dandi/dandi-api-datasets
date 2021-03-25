@@ -75,6 +75,7 @@ rmdir dandisets
 ln -s "$DANDISETS" dandisets
 
 python tools/populate_dandiset_asset_yamls.py dandisets/[0-9]*
+python tools/populate_dandiset_yaml.py dandisets/[0-9]*
 summarize > SUMMARY.md
 
 # In case the repo was updated while we were working:
@@ -99,6 +100,7 @@ git read-tree -m -u master
 pip install git+https://github.com/hdmf-dev/hdmf git+https://github.com/NeurodataWithoutBorders/pynwb
 
 python tools/populate_dandiset_asset_yamls.py dandisets/[0-9]*
+python tools/populate_dandiset_yaml.py dandisets/[0-9]*
 summarize > SUMMARY.md
 
 git add [0-9]* SUMMARY.md
