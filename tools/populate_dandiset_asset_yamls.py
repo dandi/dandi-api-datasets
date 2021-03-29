@@ -46,7 +46,7 @@ def main():
             print("Processing", f)
             sha256_digest = get_digest(f)
             default_metadata = get_default_metadata(
-                f, digest=sha256_digest, digest_type="sha256"
+                f, digest=sha256_digest, digest_type="sha2_256"
             ).json_dict()
             default_metadata["path"] = str(relpath)
             if f.suffix == ".nwb":
