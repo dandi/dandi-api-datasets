@@ -1,0 +1,29 @@
+access:
+- status: dandi:Open
+contributor:
+- name: Petersen, Peter
+  roleName:
+  - dandi:Author
+- name: Buzsáki, György
+  roleName:
+  - dandi:Author
+description: 'Hippocampal theta oscillations coordinate neuronal firing to support
+  memory and spatial navigation. The medial septum (MS) is critical in theta generation
+  by two possible mechanisms: either a unitary “pacemaker” timing signal is imposed
+  on the hippocampal system, or it may assist in organizing target subcircuits within
+  the phase space of theta oscillations. We used temperature manipulation of the MS
+  to test these models. Cooling of the MS reduced both theta frequency and power and
+  was associated with an enhanced incidence of errors in a spatial navigation task,
+  but it did not affect spatial correlates of neurons. MS cooling decreased theta
+  frequency oscillations of place cells and reduced distance-time compression but
+  preserved distance-phase compression of place field sequences within the theta cycle.
+  Thus, the septum is critical for sustaining precise theta phase coordination of
+  cell assemblies in the hippocampal system, a mechanism needed for spatial memory.'
+identifier: DANDI:000059
+name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
+  Cell Assemblies
+relatedResource:
+- relation: dandi:IsDescribedBy
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0896627320303925
+repository: https://dandiarchive.org/
+schemaVersion: 0.1.2

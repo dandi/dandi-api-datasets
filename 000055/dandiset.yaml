@@ -2,34 +2,24 @@ access:
 - status: dandi:Open
 contributor:
 - identifier: 0000-0003-0782-5788
-  includeInCitation: 'true'
   name: Peterson, Steven M.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0003-1867-4401
-  includeInCitation: 'true'
   name: Singh, Satpreet H.
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Wang, Nancy X. R.
+- name: Wang, Nancy X. R.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0003-0682-8952
-  includeInCitation: 'true'
   name: Rao, Rajesh P. N.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-4831-3466
-  includeInCitation: 'true'
   name: Brunton, Bingni W.
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: Motor behaviors are central to many functions and dysfunctions of the
   brain, and understanding their neural basis has consequently been a major focus
   in neuroscience. However, most studies of motor behaviors have been restricted to
@@ -50,4 +40,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.biorxiv.org/content/10.1101/2020.04.17.047357v2
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

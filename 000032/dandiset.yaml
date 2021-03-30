@@ -4,4 +4,4 @@ description: Test description
 identifier: DANDI:000032
 name: Test dataset
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

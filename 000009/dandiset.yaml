@@ -2,41 +2,29 @@ access:
 - status: dandi:Open
 contributor:
 - identifier: 0000-0002-4140-7961
-  includeInCitation: 'true'
   name: Guo, Zengcai
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0003-4580-2763
-  includeInCitation: 'true'
   name: Inagaki, Hidehiko
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Daie, Kayvon
+- name: Daie, Kayvon
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0003-0068-3377
-  includeInCitation: 'true'
   name: Druckmann, Shaul
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0001-9008-4882
-  includeInCitation: 'true'
   name: Gerfen, Charles R.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-6670-7362
-  includeInCitation: 'true'
   name: Svoboda, Karel
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-  schemaKey: Person
 description: We recorded spikes from the ALM and thalamus during tactile discrimination  with
   a delayed directional response. Here we show that, similar to ALM  neurons, thalamic
   neurons exhibited selective persistent delay activity  that predicted movement direction.
@@ -54,4 +42,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nature22324
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

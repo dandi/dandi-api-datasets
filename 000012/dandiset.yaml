@@ -2,23 +2,17 @@ access:
 - status: dandi:Open
 contributor:
 - affiliation:
-  - includeInCitation: 'false'
-    name: Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research
+  - name: Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research
       UCSF School of Medicine
-    schemaKey: Organization
-  includeInCitation: 'true'
   name: Zhou, Li
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Kriegstein, Arnold
+- name: Kriegstein, Arnold
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: Data from the Kriegstein Lab as part of the BICCN
 identifier: DANDI:000012
 name: Kriegstein2020
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

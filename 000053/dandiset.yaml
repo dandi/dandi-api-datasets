@@ -2,50 +2,59 @@ access:
 - status: dandi:Open
 contributor:
 - affiliation:
-  - includeInCitation: 'false'
-    name: Stanford University
-    schemaKey: Organization
+  - name: Stanford University
+  identifier: 0000-0003-2865-0235
+  name: Mallory, Caitlin S.
+  roleName:
+  - dandi:Author
+- affiliation:
+  - name: Stanford University
   identifier: 0000-0002-2337-9290
-  includeInCitation: 'true'
   name: Hardcastle, Kiah
   roleName:
   - dandi:Author
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Stanford University
-    schemaKey: Organization
-  identifier: 0000-0003-2865-0235
-  includeInCitation: 'true'
-  name: Mallory, Caitlin
+  - name: Stanford University
+  identifier: 0000-0002-1971-8923
+  name: Campbell, Malcolm G.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: CatalystNeuro
-    schemaKey: Organization
-  identifier: 0000-0001-5725-6910
-  includeInCitation: 'true'
-  name: Dichter, Benjamin
+  - name: Stanford University
+  identifier: 0000-0002-6129-3199
+  name: Attinger, Alexander
   roleName:
-  - dandi:DataCurator
-  schemaKey: Person
+  - dandi:Author
 - affiliation:
-  - includeInCitation: 'false'
-    name: Stanford University
-    schemaKey: Organization
+  - name: Stanford University
+  identifier: 0000-0001-6465-8459
+  name: Low, Isabel I. C.
+  roleName:
+  - dandi:Author
+- affiliation:
+  - name: Stanford University
+  identifier: 0000-0002-8145-747X
+  name: Raymond, Jennifer L.
+  roleName:
+  - dandi:Author
+- affiliation:
+  - name: Stanford University
   identifier: 0000-0003-0416-2528
-  includeInCitation: 'true'
-  name: Giocomo, Lisa
+  name: Giocomo, Lisa M.
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: This dataset contains two task types. The first is tetrode recordings
   from medial entorhinal cortex during open field navigation with simultaneous inertial
   measurements of the head, and the second is Neuropixel recordings from medial entorhinal
   cortex during navigation down a virtual linear track with simultaneous eye measurements.
 identifier: DANDI:000053
+keywords:
+- neuropixel
+- entorhinal cortex
 name: Recordings from medial entorhinal cortex during linear track and open exploration
+relatedResource:
+- identifier: https://doi.org/10.1038/s41467-021-20936-8
+  relation: dandi:IsDescribedBy
+  url: https://www.nature.com/articles/s41467-021-20936-8
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

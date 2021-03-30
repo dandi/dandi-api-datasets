@@ -5,15 +5,10 @@ access:
 - status: dandi:Open
 contributor:
 - affiliation:
-  - includeInCitation: 'false'
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: National Research Council - National Institute of Optics (CNR-INO), Italy
-    schemaKey: Organization
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: National Research Council - National Institute of Optics (CNR-INO), Italy
   email: mazzamuto@lens.unifi.it
   identifier: 0000-0003-3077-3904
-  includeInCitation: 'true'
   name: Mazzamuto, Giacomo
   roleName:
   - dandi:Author
@@ -25,78 +20,52 @@ contributor:
   - dandi:Software
   - dandi:ContactPerson
   - dandi:ProjectMember
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-    schemaKey: Organization
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   identifier: 0000-0002-8464-7324
-  includeInCitation: 'true'
   name: Costantini, Irene
   roleName:
   - dandi:Author
   - dandi:Researcher
   - dandi:ProjectMember
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-    schemaKey: Organization
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   identifier: 0000-0001-7734-7828
-  includeInCitation: 'true'
   name: Gavryusev, Vladislav
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:ProjectMember
   - dandi:Methodology
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-    schemaKey: Organization
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   identifier: 0000-0002-5863-399X
-  includeInCitation: 'true'
   name: Pesce, Luca
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:ProjectMember
   - dandi:Methodology
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-    schemaKey: Organization
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   identifier: 0000-0003-2438-2923
-  includeInCitation: 'true'
   name: Scardigli, Marina
   roleName:
   - dandi:Author
   - dandi:ProjectMember
   - dandi:DataCollector
   - dandi:Methodology
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
-    schemaKey: Organization
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   identifier: 0000-0002-0675-3981
-  includeInCitation: 'true'
   name: Pavone, Francesco Saverio
   roleName:
   - dandi:Author
   - dandi:ProjectLeader
-  schemaKey: Person
-- includeInCitation: 'true'
-  roleName: []
-  schemaKey: Person
 - awardNumber: 1U01MH117023-01
-  includeInCitation: 'false'
   name: Health, General Hospital Corporation Center of the National Institutes of
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
 description: 'We still lack a detailed map of the anatomical disposition of neurons
   in the human brain. Obtaining a complete map would help deeply understand the brain
   function and provide anatomical information
@@ -119,4 +88,4 @@ keywords:
 - Motor cortex
 name: U01MH117023
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

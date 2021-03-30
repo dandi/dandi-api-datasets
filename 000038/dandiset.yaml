@@ -4,4 +4,4 @@ description: I am just wondering what happens after I do thiis
 identifier: DANDI:000038
 name: Testytest
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

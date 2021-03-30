@@ -1,17 +1,13 @@
 access:
 - status: dandi:Open
 contributor:
-- includeInCitation: 'true'
-  name: Economo, Michael N.
+- name: Economo, Michael N.
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Svoboda, Karel
+- name: Svoboda, Karel
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-  schemaKey: Person
 description: Extracellular electrophysiology recordings performed on mouse anterior
   lateral motor cortex (ALM) in delay response task. Neural activity from two neuron
   populations, pyramidal track upper and lower, were characterized, in relation to
@@ -27,4 +23,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41586-018-0642-9
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

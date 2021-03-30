@@ -7,4 +7,4 @@ keywords:
 - LFP, BF, interhemispheric
 name: LFP & MUA from BF
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

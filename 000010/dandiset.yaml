@@ -2,36 +2,26 @@ access:
 - status: dandi:Open
 contributor:
 - identifier: 0000-0002-6613-5018
-  includeInCitation: 'true'
   name: Li, Nuo
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-  schemaKey: Person
 - identifier: 0000-0002-3407-8223
-  includeInCitation: 'true'
   name: Chen, Tsai-Wen
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-4140-7961
-  includeInCitation: 'true'
   name: Guo, Zengcai V.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0001-9008-4882
-  includeInCitation: 'true'
   name: Gerfen, Charles R.
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-6670-7362
-  includeInCitation: 'true'
   name: Svoboda, Karel
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: Data from "A motor cortex circuit for motor planning and movement" Li
   et al. Nature 2015
 identifier: DANDI:000010
@@ -45,4 +35,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nature14178
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

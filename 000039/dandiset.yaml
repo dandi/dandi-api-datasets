@@ -2,18 +2,14 @@ access:
 - status: dandi:Open
 contributor:
 - identifier: https://orcid.org/0000-0002-6255-6085
-  includeInCitation: 'true'
   name: Millman, Dan
   roleName:
   - dandi:ContactPerson
   - dandi:Author
-  schemaKey: Person
 - identifier: https://orcid.org/0000-0002-3704-3499
-  includeInCitation: 'true'
   name: Vries, Saskia de
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: "A two photon calcium imaging dataset from Allen Institute measuring
   responses to full-field drifting gratings (approx. 120x90 degrees of visual space)
   of 8 directions and 6 contrasts (5%, 10%, 20%, 40%, 60%, 80%). Mouse Cre lines expressing
@@ -37,4 +33,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://elifesciences.org/articles/55130
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.1.2

@@ -1,0 +1,29 @@
+access:
+- status: dandi:Open
+contributor:
+- name: Girardeau, Gabrielle
+  roleName:
+  - dandi:Author
+- name: Inema, Ingrid
+  roleName:
+  - dandi:Author
+- name: Buzsáki, György
+  roleName:
+  - dandi:Author
+description: The consolidation of context-dependent emotional memory requires communication
+  between the hippocampus and the basolateral amygdala (BLA), but the mechanisms of
+  this process are unknown. We recorded neuronal ensembles in the hippocampus and
+  BLA while rats learned the location of an aversive air puff on a linear track, as
+  well as during sleep before and after training. We found coordinated reactivations
+  between the hippocampus and the BLA during non-REM sleep following training. These
+  reactivations peaked during hippocampal sharp wave–ripples (SPW-Rs) and involved
+  a subgroup of BLA cells positively modulated during hippocampal SPW-Rs. Notably,
+  reactivation was stronger for the hippocampus–BLA correlation patterns representing
+  the run direction that involved the air puff than for the 'safe' direction. These
+  findings suggest that consolidation of contextual emotional memory occurs during
+  ripple-reactivation of hippocampus–amygdala circuits.
+identifier: DANDI:000061
+name: Reactivations of emotional memory in the hippocampus–amygdala system during
+  sleep
+repository: https://dandiarchive.org/
+schemaVersion: 0.1.2
