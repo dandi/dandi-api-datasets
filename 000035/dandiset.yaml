@@ -75,4 +75,4 @@ description: This dataset contains rectangular stimulation of cell under tempera
 identifier: DANDI:000035
 name: Temperature-controlled intracellular ephys in mouse motor cortex
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

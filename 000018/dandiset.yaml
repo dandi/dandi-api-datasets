@@ -24,4 +24,4 @@ description: Electrophysiological data obtained in 1U01MH116990-01
 identifier: DANDI:000018
 name: Mouse Spinal Cord Ephys Dataset
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

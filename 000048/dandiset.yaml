@@ -5,4 +5,4 @@ description: Spiking activity and simultaneously recorded fluorescence signals i
 identifier: DANDI:000048
 name: Allen Oephys
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

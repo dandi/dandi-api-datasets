@@ -15,4 +15,4 @@ description: Data from the Kriegstein Lab as part of the BICCN
 identifier: DANDI:000012
 name: Kriegstein2020
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

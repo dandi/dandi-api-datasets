@@ -12,4 +12,4 @@ keywords:
 - development
 name: Test dataset for development purposes
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

@@ -15,4 +15,4 @@ keywords:
 - development
 name: Test dataset for testing dandi-cli.
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

@@ -25,4 +25,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1016/j.neuron.2017.05.005
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

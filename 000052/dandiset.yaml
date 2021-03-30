@@ -5,4 +5,4 @@ description: A test upload of Pons8 YO and Lectin, downsampled 16x using the BID
 identifier: DANDI:000052
 name: Pons8-BIDS-16xdownsampled
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

@@ -78,4 +78,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.biorxiv.org/content/10.1101/2020.02.03.929158v1.full
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

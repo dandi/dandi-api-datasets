@@ -1,0 +1,702 @@
+sub-Cori/sub-Cori_ses-20161214T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Cori/sub-Cori_ses-20161217T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Cori/sub-Cori_ses-20161218T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Forssmann/sub-Forssmann_ses-20171101T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Forssmann/sub-Forssmann_ses-20171102T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Forssmann/sub-Forssmann_ses-20171104T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Forssmann/sub-Forssmann_ses-20171105T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Hench/sub-Hench_ses-20170615T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Hench/sub-Hench_ses-20170616T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Hench/sub-Hench_ses-20170617T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Hench/sub-Hench_ses-20170618T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171205T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171206T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171207T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171208T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171209T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171210T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Lederberg/sub-Lederberg_ses-20171211T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Moniz/sub-Moniz_ses-20170515T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Moniz/sub-Moniz_ses-20170516T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Moniz/sub-Moniz_ses-20170518T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Muller/sub-Muller_ses-20170107T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Muller/sub-Muller_ses-20170108T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Muller/sub-Muller_ses-20170109T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Radnitz/sub-Radnitz_ses-20170108T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Radnitz/sub-Radnitz_ses-20170109T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Radnitz/sub-Radnitz_ses-20170110T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Radnitz/sub-Radnitz_ses-20170111T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Radnitz/sub-Radnitz_ses-20170112T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Richards/sub-Richards_ses-20171029T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Richards/sub-Richards_ses-20171030T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Richards/sub-Richards_ses-20171031T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Richards/sub-Richards_ses-20171101T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Richards/sub-Richards_ses-20171102T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Tatum/sub-Tatum_ses-20171206T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Tatum/sub-Tatum_ses-20171207T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Tatum/sub-Tatum_ses-20171208T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Tatum/sub-Tatum_ses-20171209T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+
+sub-Theiler/sub-Theiler_ses-20171011T120000.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 283, in extract_digest
+    return {models.DigestType[metadata["digest_type"]]: metadata["digest"]}
+  File "/home/dandi/miniconda3/lib/python3.8/enum.py", line 344, in __getitem__
+    return cls._member_map_[name]
+KeyError: 'sha256'
+

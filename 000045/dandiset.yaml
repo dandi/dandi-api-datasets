@@ -22,4 +22,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://doi.org/10.1101/2020.01.17.909838
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

@@ -33,4 +33,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://elifesciences.org/articles/55130
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

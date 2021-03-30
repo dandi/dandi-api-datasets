@@ -4,4 +4,4 @@ description: '7T MR structural images. B0 and B1+ code corrected parameter maps.
 identifier: DANDI:000058
 name: MIT_U01 Dataset
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

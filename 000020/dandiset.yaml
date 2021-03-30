@@ -4,4 +4,4 @@ description: Allen Institute June 2020 Mouse PatchSeq icephys data
 identifier: DANDI:000020
 name: 20200611_AIBS_mouse
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

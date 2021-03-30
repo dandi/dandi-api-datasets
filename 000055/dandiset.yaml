@@ -40,4 +40,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.biorxiv.org/content/10.1101/2020.04.17.047357v2
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

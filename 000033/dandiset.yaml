@@ -4,4 +4,4 @@ description: Test-2 description
 identifier: DANDI:000033
 name: Test-2 dataset
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

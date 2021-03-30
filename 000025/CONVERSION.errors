@@ -2,7 +2,7 @@
 Traceback (most recent call last):
   File "tools/populate_dandiset_asset_yamls.py", line 64, in main
     metadata = nwb2asset(
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 323, in nwb2asset
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 318, in nwb2asset
     metadata = get_metadata(nwb_path)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
     ret = fingerprinted(path, *args, **kwargs_)

@@ -34,4 +34,4 @@ relatedResource:
 - identifier: doi:10.1038/nature17643
   relation: dandi:IsDescribedBy
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0

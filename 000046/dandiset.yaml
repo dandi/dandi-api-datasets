@@ -4,4 +4,4 @@ description: asdf
 identifier: DANDI:000046
 name: asdf
 repository: https://dandiarchive.org/
-schemaVersion: 0.1.2
+schemaVersion: 0.2.0
