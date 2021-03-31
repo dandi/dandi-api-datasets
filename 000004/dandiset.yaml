@@ -4,13 +4,10 @@ access:
 - status: dandi:Open
 contributor:
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
-    schemaKey: Organization
   email: nandc10@gmail.com
   identifier: 0000-0003-0161-4007
-  includeInCitation: 'true'
   name: Chandravadia, Nand
   roleName:
   - dandi:Author
@@ -28,15 +25,11 @@ contributor:
   - dandi:Software
   - dandi:Validation
   - dandi:Visualization
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
+  - name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
       of Health and Behavioral Sciences, Schmid College of Science and Technology,
       Chapman University, Orange, CA, USA
-    schemaKey: Organization
   email: liang134@mail.chapman.edu
-  includeInCitation: 'true'
   name: Liang, Dehua
   roleName:
   - dandi:Author
@@ -44,178 +37,118 @@ contributor:
   - dandi:ProjectMember
   - dandi:Software
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
-    schemaKey: Organization
+  - name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
   email: Andrea.Schjetan@uhnresearch.ca
   identifier: 0000-0002-4319-7689
-  includeInCitation: 'true'
   name: Schjetnan, Andrea Gomez Palacio
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
-    schemaKey: Organization
   email: april.carlson@tufts.edu
   identifier: 0000-0002-9207-7069
-  includeInCitation: 'true'
   name: Carlson, April
   roleName:
   - dandi:Author
   - dandi:DataCurator
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
-    schemaKey: Organization
   email: mailyscm.faraut@gmail.com
-  includeInCitation: 'true'
   name: Faraut, Mailys
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
-    schemaKey: Organization
+  - name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
   email: Jeffrey.Chung@cshs.org
-  includeInCitation: 'true'
   name: Chung, Jeffrey M.
   roleName:
   - dandi:Author
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
-    schemaKey: Organization
+  - name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
   email: Chrystal.Reed@csmc.edu
-  includeInCitation: 'true'
   name: Reed, Chrystal M.
   roleName:
   - dandi:Author
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Biological Systems & Engineering Division, Lawrence Berkeley National Laboratory,
+  - name: Biological Systems & Engineering Division, Lawrence Berkeley National Laboratory,
       Berkeley, CA, USA
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Department of Neurosurgery, Stanford University, Stanford, CA, USA
-    schemaKey: Organization
+  - name: Department of Neurosurgery, Stanford University, Stanford, CA, USA
   email: ben.dichter@gmail.com
-  includeInCitation: 'true'
   name: Dichter, Ben
   roleName:
   - dandi:Author
   - dandi:Software
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
+  - name: Institute for Interdisciplinary Brain and Behavioral Sciences, Crean College
       of Health and Behavioral Sciences, Schmid College of Science and Technology,
       Chapman University, Orange, CA, USA
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Division of Biology and Biological Engineering, California Institute of
+  - name: Division of Biology and Biological Engineering, California Institute of
       Technology, Pasadena, CA, USA
-    schemaKey: Organization
   email: maoz.uri@gmail.com
-  includeInCitation: 'true'
   name: Maoz, Uri
   roleName:
   - dandi:Author
   - dandi:Conceptualization
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Division of Neurosurgery, Department of Surgery, University of Toronto,
+  - name: Division of Neurosurgery, Department of Surgery, University of Toronto,
       Toronto, Canada
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
-    schemaKey: Organization
+  - name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
   email: suneil.kalia@uhn.ca
-  includeInCitation: 'true'
   name: Kalia, Suneil K.
   roleName:
   - dandi:Author
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Division of Neurosurgery, Department of Surgery, University of Toronto,
+  - name: Krembil Brain Institute, Toronto Western Hospital, Toronto, Canada
+  - name: Division of Neurosurgery, Department of Surgery, University of Toronto,
       Toronto, Canada
-    schemaKey: Organization
   email: Taufik.Valiante@uhn.ca
-  includeInCitation: 'true'
   name: Valiante, Taufik A.
   roleName:
   - dandi:Author
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
-    schemaKey: Organization
   email: Adam.Mamelak@cshs.org
-  includeInCitation: 'true'
   name: Mamelak, Adam N.
   roleName:
   - dandi:Author
   - dandi:ProjectMember
   - dandi:Validation
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
+  - name: Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA,
       USA
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Division of Biology and Biological Engineering, California Institute of
+  - name: Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA
+  - name: Division of Biology and Biological Engineering, California Institute of
       Technology, Pasadena, CA, USA
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Computational and Neural Systems Program, California Institute of Technology,
+  - name: Computational and Neural Systems Program, California Institute of Technology,
       Pasadena, CA, USA
-    schemaKey: Organization
-  - includeInCitation: 'false'
-    name: Center for Neural Science and Medicine, Department of Biomedical Science,
+  - name: Center for Neural Science and Medicine, Department of Biomedical Science,
       Cedars-Sinai Medical Center, Los Angeles, CA, USA
-    schemaKey: Organization
   email: Ueli.Rutishauser@cshs.org
   identifier: 0000-0002-9207-7069
-  includeInCitation: 'true'
   name: Rutishauser, Ueli
   roleName:
   - dandi:Author
@@ -226,46 +159,31 @@ contributor:
   - dandi:Software
   - dandi:Supervision
   - dandi:Validation
-  schemaKey: Person
 - awardNumber: U01NS103792
-  includeInCitation: 'false'
   name: Stroke, National Institute of Neurological Disorders and
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
 - awardNumber: '1554105'
-  includeInCitation: 'false'
   name: Foundation, National Science
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
 - awardNumber: R01MH110831
-  includeInCitation: 'false'
   name: Health, National Institute of Mental
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
-- includeInCitation: 'false'
-  name: Neuroscience, McKnight Endowment for
+- name: Neuroscience, McKnight Endowment for
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
-- includeInCitation: 'false'
-  name: Foundation, NARSAD Young Investigator grant from the Brain & Behavior Research
+- name: Foundation, NARSAD Young Investigator grant from the Brain & Behavior Research
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
-- includeInCitation: 'false'
-  name: Foundation, Kavli
+- name: Foundation, Kavli
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
 - awardNumber: U19NS104590
-  includeInCitation: 'false'
   name: initiative, BRAIN
   roleName:
   - dandi:Sponsor
-  schemaKey: Organization
 description: 'A challenge for data sharing in systems neuroscience is the multitude
   of different data formats used. Neurodata Without Borders: Neurophysiology 2.0 (NWB:N)
   has emerged as a standardized data format for the storage of cellular-level data
@@ -306,4 +224,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41597-020-0415-9
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

@@ -4,4 +4,4 @@ description: Allen Institute June 2020 Human PatchSeq icephys data
 identifier: DANDI:000023
 name: 20200611_AIBS_human
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

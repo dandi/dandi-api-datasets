@@ -1,16 +1,12 @@
 access:
 - status: dandi:Open
 contributor:
-- includeInCitation: 'true'
-  name: Grosmark, Andres D.
+- name: Grosmark, Andres D.
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Buzsáki, György
+- name: Buzsáki, György
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: This data set is composed of eight bilateral silicon-probe multi-cellular
   electrophysiological recordings performed on four male Long-Evans rats in the Buzsáki
   lab at NYU. These recordings were performed to assess the effect of novel spatial
@@ -39,4 +35,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/srep32193
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

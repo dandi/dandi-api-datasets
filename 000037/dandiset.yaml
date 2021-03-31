@@ -3,21 +3,16 @@ access:
 contributor:
 - email: colleen.gillon@mail.utoronto.ca
   identifier: ' 0000-0002-2253-7816'
-  includeInCitation: 'true'
   name: Gillon, Colleen
   roleName:
   - dandi:Author
   - dandi:ContactPerson
   - dandi:DataCurator
   - dandi:FormalAnalysis
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Allen Institute for Brain Sciences, Seattle, WA
-    schemaKey: Organization
+  - name: Allen Institute for Brain Sciences, Seattle, WA
   email: jeromel@alleninstitute.org
   identifier: 0000-0002-0131-0938
-  includeInCitation: 'true'
   name: Lecoq, Jérôme
   roleName:
   - dandi:Author
@@ -28,35 +23,26 @@ contributor:
   - dandi:FundingAcquisition
   - dandi:Resources
   - dandi:Supervision
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: York University, Toronto, ON
-    schemaKey: Organization
+  - name: York University, Toronto, ON
   email: joelzy@yorku.ca
   identifier: 0000-0002-8208-5698
-  includeInCitation: 'true'
   name: Zylberberg, Joel
   roleName:
   - dandi:Author
   - dandi:Conceptualization
   - dandi:FormalAnalysis
   - dandi:Supervision
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: McGill University, Montreal, QC
-    schemaKey: Organization
+  - name: McGill University, Montreal, QC
   email: blake.richards@mcgill.ca
   identifier: 0000-0001-9662-2151
-  includeInCitation: 'true'
   name: Richards, Blake
   roleName:
   - dandi:Author
   - dandi:Conceptualization
   - dandi:FormalAnalysis
   - dandi:Supervision
-  schemaKey: Person
 description: 'This dataset was collected for the Credit Assignment project, as part
   of the Allen Institute for Brain Science''s OpenScope project, and is published
   in Gillon et al., 2021, bioRxiv (doi: 10.1101/2021.01.15.426915v1). Included in
@@ -78,4 +64,4 @@ keywords:
 - Credit assignment
 name: Allen Institute Openscope - Credit Assignment project
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

@@ -2,18 +2,14 @@ access:
 - status: dandi:Open
 contributor:
 - identifier: 0000-0001-6454-2448
-  includeInCitation: 'true'
   name: Najafi, Farzaneh
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-  schemaKey: Person
 - identifier: 0000-0002-3205-3794
-  includeInCitation: 'true'
   name: Churchland, Anne K.
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: 'This package contains data, in NWB (Neurodata Without Borders) format,
   from the 4 mice included in "Najafi, Farzaneh, Gamaleldin F. Elsayed, Robin Cao,
   Eftychios Pnevmatikakis, Peter E. Latham, John P. Cunningham, and Anne K. Churchland.
@@ -50,4 +46,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1016/j.neuron.2019.09.045
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

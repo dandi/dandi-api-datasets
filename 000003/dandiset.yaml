@@ -1,27 +1,21 @@
 access:
 - status: dandi:Open
 contributor:
-- includeInCitation: 'true'
-  name: Senzai, Yuta
+- name: Senzai, Yuta
   roleName:
   - dandi:Author
   - dandi:ContactPerson
   - dandi:DataCollector
   - dandi:FormalAnalysis
-  schemaKey: Person
 - identifier: 0000-0001-8481-0796
-  includeInCitation: 'true'
   name: Fernandez-Ruiz, Antonio
   roleName:
   - dandi:Author
   - dandi:FormalAnalysis
-  schemaKey: Person
 - identifier: 0000-0002-3100-4800
-  includeInCitation: 'true'
   name: Buzsaki, Gyorgy
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: Data from "Layer-Specific Physiological Features and Interlaminar Interactions
   in the Primary Visual Cortex of the Mouse" Senzai, Fernandez-Ruiz, Buzsaki, Neuron
   2019. Electrophysiology recordings of hippocampus during theta maze exploration.
@@ -45,4 +39,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1016/j.neuron.2016.12.011
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

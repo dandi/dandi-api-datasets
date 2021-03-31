@@ -2,37 +2,29 @@ access:
 - status: dandi:Open
 contributor:
 - identifier: https://orcid.org/0000-0003-3136-8097
-  includeInCitation: 'true'
   name: Kalmbach, Brian
   roleName:
   - dandi:Author
   - dandi:Conceptualization
   - dandi:ContactPerson
   - dandi:DataCollector
-  schemaKey: Person
 - identifier: https://orcid.org/0000-0001-8266-0392
-  includeInCitation: 'true'
   name: Ting, Jonathan
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:Conceptualization
-  schemaKey: Person
 - identifier: https://orcid.org/0000-0001-6294-7513
-  includeInCitation: 'true'
   name: Owen, Scott
   roleName:
   - dandi:Author
   - dandi:DataCollector
-  schemaKey: Person
 - identifier: https://orcid.org/0000-0001-9012-6552
-  includeInCitation: 'true'
   name: Lein, Ed
   roleName:
   - dandi:Author
   - dandi:ProjectLeader
   - dandi:Conceptualization
-  schemaKey: Person
 description: Patch clamp recordings from human premotor cortex, macaque M1 and mouse
   MOp.
 identifier: DANDI:000043
@@ -41,4 +33,4 @@ keywords:
 - ''
 name: Human, macaque, and mouse L5 pyramidal neuron physiology
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

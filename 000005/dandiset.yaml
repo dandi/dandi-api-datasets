@@ -2,42 +2,26 @@ access:
 - status: dandi:Open
 contributor:
 - affiliation:
-  - includeInCitation: 'false'
-    name: Janelia Research Campus, Howard Hughes Medical Institute
-    schemaKey: Organization
-  includeInCitation: 'true'
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
   name: Yu, Jianing
   roleName:
   - dandi:Author
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Janelia Research Campus, Howard Hughes Medical Institute
-    schemaKey: Organization
-  includeInCitation: 'true'
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
   name: Gutnisky, Diego A
   roleName:
   - dandi:Author
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Janelia Research Campus, Howard Hughes Medical Institute
-    schemaKey: Organization
-  includeInCitation: 'true'
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
   name: Hires, S Andrew
   roleName:
   - dandi:Author
-  schemaKey: Person
 - affiliation:
-  - includeInCitation: 'false'
-    name: Janelia Research Campus, Howard Hughes Medical Institute
-    schemaKey: Organization
-  includeInCitation: 'true'
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
   name: Svoboda, Karel
   roleName:
   - dandi:Author
   - dandi:ContactPerson
-  schemaKey: Person
 description: intracellular and extracellular electrophysiology recordings performed
   on mouse barrel cortex and ventral posterolateral nucleus (vpm) in whisker-based
   object locating task.
@@ -50,4 +34,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nn.4412
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

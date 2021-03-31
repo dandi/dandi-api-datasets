@@ -1,26 +1,18 @@
 access:
 - status: dandi:Open
 contributor:
-- includeInCitation: 'true'
-  name: Peyrache, Adrien
+- name: Peyrache, Adrien
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Lacroix, Marie M
+- name: Lacroix, Marie M
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Petersen, Peter C
+- name: Petersen, Peter C
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Buzsáki, György
+- name: Buzsáki, György
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: The head-direction (HD) system functions as a compass, with member neurons
   robustly increasing their firing rates when the animal's head points in a specific
   direction. HD neurons may be driven by peripheral sensors or, as computational models
@@ -43,4 +35,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/nn.3968
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

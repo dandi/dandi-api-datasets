@@ -7,4 +7,4 @@ description: This is a single session showing example intracellular electrophysi
 identifier: DANDI:000025
 name: Example intracellular ephys data from BBP
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

@@ -1,113 +1,78 @@
 access:
 - status: dandi:Open
 contributor:
-- includeInCitation: 'true'
-  name: Scala, Federico
+- name: Scala, Federico
   roleName:
   - dandi:Author
   - dandi:DataCollector
   - dandi:ContactPerson
-  schemaKey: Person
 - identifier: 0000-0002-5639-7209
-  includeInCitation: 'true'
   name: Kobak, Dmitry
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0003-4458-117X
-  includeInCitation: 'true'
   name: Bernabucci, Matteo
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Bernaerts, Yves
+- name: Bernaerts, Yves
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0003-1963-8285
-  includeInCitation: 'true'
   name: Cadwell, Cathryn Rene
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Castro, Jesus Ramon
+- name: Castro, Jesus Ramon
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-4922-8781
-  includeInCitation: 'true'
   name: Hartmanis, Leonard
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0001-8066-1383
-  includeInCitation: 'true'
   name: Jiang, Xiaolong
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0001-9532-788X
-  includeInCitation: 'true'
   name: Laturnus, Sophie
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Miranda, Elanine
+- name: Miranda, Elanine
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0001-8736-527X
-  includeInCitation: 'true'
   name: Mulherkar, Shalaka
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Tan, Zheng Huan
+- name: Tan, Zheng Huan
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-9361-5607
-  includeInCitation: 'true'
   name: Yao, Zizhen
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-9361-5607
-  includeInCitation: 'true'
+  name: Last, First
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-0326-5878
-  includeInCitation: 'true'
   name: Zeng, Hongkui
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0001-6473-1740
-  includeInCitation: 'true'
   name: Sandberg, Rickard
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-0199-4727
-  includeInCitation: 'true'
   name: Berens, Philipp
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: 0000-0002-4305-6376
-  includeInCitation: 'true'
   name: Tolias, Andreas Savas
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: This dataset contains rectangular stimulation of cell under temperature-controlled
   conditions (34 ℃)
 identifier: DANDI:000035
 name: Temperature-controlled intracellular ephys in mouse motor cortex
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

@@ -1,32 +1,22 @@
 access:
 - status: dandi:Open
 contributor:
-- includeInCitation: 'true'
-  name: Watson, Brendon O.
+- name: Watson, Brendon O.
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Levenstein, Daniel
+- name: Levenstein, Daniel
   roleName:
   - dandi:Author
-  schemaKey: Person
 - identifier: ' '
-  includeInCitation: 'true'
   name: Greene, J. Palmer
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Gelinas, Jennifer N.
+- name: Gelinas, Jennifer N.
   roleName:
   - dandi:Author
-  schemaKey: Person
-- includeInCitation: 'true'
-  name: Buzsáki, György
+- name: Buzsáki, György
   roleName:
   - dandi:Author
-  schemaKey: Person
 description: 'Data was recorded using silicon probe electrodes in the frontal cortices
   of male Long Evans rats between 4-7 months of age. The design was to have no specific
   behavior, task or stimulus, rather the animal was left alone in it’s home cage (which
@@ -49,4 +39,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.sciencedirect.com/science/article/pii/S0896627316300563
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0

@@ -4,4 +4,4 @@ description: test dandiset
 identifier: DANDI:000057
 name: foobar
 repository: https://dandiarchive.org/
-schemaVersion: 1.0.0-rc1
+schemaVersion: 0.2.0
