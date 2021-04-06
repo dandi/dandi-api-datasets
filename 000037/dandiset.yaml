@@ -2,18 +2,18 @@ access:
 - status: dandi:Open
 contributor:
 - email: colleen.gillon@mail.utoronto.ca
-  identifier: ' 0000-0002-2253-7816'
-  name: Gillon, Colleen
+  identifier: 0000-0002-2253-7816
+  name: Gillon, Colleen J.
   roleName:
   - dandi:Author
   - dandi:ContactPerson
   - dandi:DataCurator
   - dandi:FormalAnalysis
 - affiliation:
-  - name: Allen Institute for Brain Sciences, Seattle, WA
+  - name: Allen Institute for Brain Sciences, Seattle, WA, USA
   email: jeromel@alleninstitute.org
   identifier: 0000-0002-0131-0938
-  name: Lecoq, Jérôme
+  name: Lecoq, Jérôme A.
   roleName:
   - dandi:Author
   - dandi:Conceptualization
@@ -24,7 +24,7 @@ contributor:
   - dandi:Resources
   - dandi:Supervision
 - affiliation:
-  - name: York University, Toronto, ON
+  - name: York University, Toronto, ON, Canada
   email: joelzy@yorku.ca
   identifier: 0000-0002-8208-5698
   name: Zylberberg, Joel
@@ -34,10 +34,11 @@ contributor:
   - dandi:FormalAnalysis
   - dandi:Supervision
 - affiliation:
-  - name: McGill University, Montreal, QC
+  - name: McGill University, Montreal, QC, Canada
+  - name: Mila, Montreal, QC, Canada
   email: blake.richards@mcgill.ca
   identifier: 0000-0001-9662-2151
-  name: Richards, Blake
+  name: Richards, Blake A.
   roleName:
   - dandi:Author
   - dandi:Conceptualization
@@ -45,23 +46,41 @@ contributor:
   - dandi:Supervision
 description: 'This dataset was collected for the Credit Assignment project, as part
   of the Allen Institute for Brain Science''s OpenScope project, and is published
-  in Gillon et al., 2021, bioRxiv (doi: 10.1101/2021.01.15.426915v1). Included in
-  the data files are ROI dF/F traces, ROI masks, running velocity traces, pupil diameter
-  traces, stimulus parameters, and stimulus frame images. Metadata for this dataset
-  can be found here (https://github.com/jeromelecoq/allen_openscope_metadata/tree/master/projects/credit_assignement).'
+  in Gillon et al., 2021, bioRxiv.
+
+
+  Each session file includes: (1) ROI dF/F traces, (2) ROI masks, (3) running velocity
+  traces, (4) pupil diameter traces, (5) stimulus parameters, and (6) stimulus frame
+  images.'
 identifier: DANDI:000037
 keywords:
-- Learning
-- Neocortex
-- Pyramidal neuron
-- Distal apical dendrites
-- Somata
+- learning
+- neocortex
+- pyramidal neurons
+- distal apical dendrites
+- somata
 - L2/3
 - L5
-- Two-photon calcium imaging
-- Mouse VisP
-- Prediction
-- Credit assignment
+- two-photon calcium imaging
+- mouse VisP
+- prediction
+- credit assignment
+license:
+- dandi:CCBYNC40
 name: Allen Institute Openscope - Credit Assignment project
+relatedResource:
+- identifier: credit_assignement
+  name: Metadata
+  relation: dandi:IsDerivedFrom
+  repository: GitHub
+  url: https://github.com/jeromelecoq/allen_openscope_metadata/tree/master/projects/credit_assignement
+- identifier: OpenScope_CA_Analysis
+  name: Analysis code
+  relation: dandi:IsDerivedFrom
+  repository: GitHub
+  url: https://github.com/colleenjg/OpenScope_CA_Analysis
+- identifier: 10.1101/2021.01.15.426915v1
+  relation: dandi:IsDescribedBy
+  url: https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1.article-info
 repository: https://dandiarchive.org/
 schemaVersion: 0.2.0

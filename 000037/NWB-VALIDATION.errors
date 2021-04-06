@@ -22,6 +22,30 @@ sub-411400/sub-411400_ses-20181015T173410_behavior+image+ophys.nwb
  - VectorData/description (intervals/trials/square_locations_x_index): argument missing
  - VectorData/description (intervals/trials/square_locations_y_index): argument missing
 
+sub-411400/sub-411400_ses-20181001T180256_behavior+image+ophys.nwb
+ - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
+ - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
+ - VectorData/description (intervals/trials/gabor_sizes_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_y_index): argument missing
+
+sub-411400/sub-411400_ses-20181002T173740_behavior+image+ophys.nwb
+ - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
+ - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
+ - VectorData/description (intervals/trials/gabor_sizes_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_y_index): argument missing
+
+sub-411400/sub-411400_ses-20181003T180253_behavior+image+ophys.nwb
+ - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
+ - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
+ - VectorData/description (intervals/trials/gabor_sizes_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_y_index): argument missing
+
 sub-411771/sub-411771_ses-20181003T174857_behavior+image+ophys.nwb
  - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
  - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
@@ -206,6 +230,14 @@ sub-420011/sub-420011_ses-20181114T180624_behavior+image+ophys.nwb
  - VectorData/description (intervals/trials/square_locations_x_index): argument missing
  - VectorData/description (intervals/trials/square_locations_y_index): argument missing
 
+sub-420011/sub-420011_ses-20181115T183654_behavior+image+ophys.nwb
+ - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
+ - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
+ - VectorData/description (intervals/trials/gabor_sizes_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_y_index): argument missing
+
 sub-433414/sub-433414_ses-20190220T212644_behavior+image+ophys.nwb
  - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
  - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
@@ -319,6 +351,22 @@ sub-440889/sub-440889_ses-20190306T163903_behavior+image+ophys.nwb
  - VectorData/description (intervals/trials/square_locations_y_index): argument missing
 
 sub-440889/sub-440889_ses-20190314T152429_behavior+image+ophys.nwb
+ - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
+ - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
+ - VectorData/description (intervals/trials/gabor_sizes_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_y_index): argument missing
+
+sub-440889/sub-440889_ses-20190308T164555_behavior+image+ophys.nwb
+ - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
+ - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
+ - VectorData/description (intervals/trials/gabor_sizes_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_x_index): argument missing
+ - VectorData/description (intervals/trials/square_locations_y_index): argument missing
+
+sub-440889/sub-440889_ses-20190315T152224_behavior+image+ophys.nwb
  - VectorData/description (intervals/trials/gabor_locations_x_index): argument missing
  - VectorData/description (intervals/trials/gabor_locations_y_index): argument missing
  - VectorData/description (intervals/trials/gabor_orientations_index): argument missing
