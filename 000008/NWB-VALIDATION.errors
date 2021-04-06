@@ -1,3 +1,285 @@
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-3_slice-20190725-slice-3_cell-20190725-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-4_slice-20190725-slice-4_cell-20190725-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-5_slice-20190725-slice-5_cell-20190725-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-6_slice-20190725-slice-6_cell-20190725-sample-6_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-7_slice-20190725-slice-7_cell-20190725-sample-7_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-8_slice-20190725-slice-8_cell-20190725-sample-8_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HBTAE/sub-mouse-HBTAE_ses-20190725-sample-9_slice-20190725-slice-9_cell-20190725-sample-9_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HDBFV/sub-mouse-HDBFV_ses-20180208-sample-1_slice-20180208-slice-1_cell-20180208-sample-1_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HDBFV/sub-mouse-HDBFV_ses-20180208-sample-2_slice-20180208-slice-2_cell-20180208-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HDBFV/sub-mouse-HDBFV_ses-20180208-sample-3_slice-20180208-slice-3_cell-20180208-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HDBFV/sub-mouse-HDBFV_ses-20180208-sample-4_slice-20180208-slice-4_cell-20180208-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HDBFV/sub-mouse-HDBFV_ses-20180208-sample-5_slice-20180208-slice-5_cell-20180208-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HGZZB/sub-mouse-HGZZB_ses-20190513-sample-1_slice-20190513-slice-1_cell-20190513-sample-1_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HGZZB/sub-mouse-HGZZB_ses-20190513-sample-2_slice-20190513-slice-2_cell-20190513-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HGZZB/sub-mouse-HGZZB_ses-20190513-sample-3_slice-20190513-slice-3_cell-20190513-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HGZZB/sub-mouse-HGZZB_ses-20190513-sample-4_slice-20190513-slice-4_cell-20190513-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HGZZB/sub-mouse-HGZZB_ses-20190513-sample-5_slice-20190513-slice-5_cell-20190513-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-2_slice-20180425-slice-2_cell-20180425-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-3_slice-20180425-slice-2_cell-20180425-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-4_slice-20180425-slice-3_cell-20180425-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-5_slice-20180425-slice-4_cell-20180425-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-7_slice-20180425-slice-6_cell-20180425-sample-7_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-8_slice-20180425-slice-7_cell-20180425-sample-8_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HIEAS/sub-mouse-HIEAS_ses-20180425-sample-9_slice-20180425-slice-8_cell-20180425-sample-9_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HJKLM/sub-mouse-HJKLM_ses-20190122-sample-1_slice-20190122-slice-1_cell-20190122-sample-1_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HJKLM/sub-mouse-HJKLM_ses-20190122-sample-2_slice-20190122-slice-2_cell-20190122-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HJKLM/sub-mouse-HJKLM_ses-20190122-sample-3_slice-20190122-slice-3_cell-20190122-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HJKLM/sub-mouse-HJKLM_ses-20190122-sample-5_slice-20190122-slice-5_cell-20190122-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HJKLM/sub-mouse-HJKLM_ses-20190122-sample-6_slice-20190122-slice-6_cell-20190122-sample-6_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HKIEN/sub-mouse-HKIEN_ses-20190820-sample-1_slice-20190820-slice-1_cell-20190820-sample-1_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HKIEN/sub-mouse-HKIEN_ses-20190820-sample-2_slice-20190820-slice-2_cell-20190820-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HKIEN/sub-mouse-HKIEN_ses-20190820-sample-3_slice-20190820-slice-3_cell-20190820-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HKIEN/sub-mouse-HKIEN_ses-20190820-sample-5_slice-20190820-slice-5_cell-20190820-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HKIEN/sub-mouse-HKIEN_ses-20190820-sample-6_slice-20190820-slice-6_cell-20190820-sample-6_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HNXRO/sub-mouse-HNXRO_ses-20180912-sample-2_slice-20180912-slice-2_cell-20180912-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HNXRO/sub-mouse-HNXRO_ses-20180912-sample-3_slice-20180912-slice-3_cell-20180912-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HNXRO/sub-mouse-HNXRO_ses-20180912-sample-6_slice-20180912-slice-6_cell-20180912-sample-6_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HQLSJ/sub-mouse-HQLSJ_ses-20190705-sample-9_slice-20190705-slice-9_cell-20190705-sample-9_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HTPMR/sub-mouse-HTPMR_ses-20181011-sample-10_slice-20181011-slice-10_cell-20181011-sample-10_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HTPMR/sub-mouse-HTPMR_ses-20181011-sample-4_slice-20181011-slice-4_cell-20181011-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HTPMR/sub-mouse-HTPMR_ses-20181011-sample-8_slice-20181011-slice-8_cell-20181011-sample-8_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HTPMR/sub-mouse-HTPMR_ses-20181011-sample-9_slice-20181011-slice-9_cell-20181011-sample-9_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HXCVU/sub-mouse-HXCVU_ses-20180102-sample-1_slice-20180102-slice-1_cell-20180102-sample-1_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HXCVU/sub-mouse-HXCVU_ses-20180102-sample-2_slice-20180102-slice-2_cell-20180102-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HXCVU/sub-mouse-HXCVU_ses-20180102-sample-3_slice-20180102-slice-3_cell-20180102-sample-3_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HXCVU/sub-mouse-HXCVU_ses-20180102-sample-4_slice-20180102-slice-4_cell-20180102-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HXCVU/sub-mouse-HXCVU_ses-20180102-sample-5_slice-20180102-slice-5_cell-20180102-sample-5_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
 sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-7_slice-20190418-slice-7_cell-20190418-sample-7_icephys.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
@@ -11,6 +293,30 @@ sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-8_slice-20190418-slice-8_cel
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
 
 sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-9_slice-20190418-slice-9_cell-20190418-sample-9_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-10_slice-20190418-slice-10_cell-20190418-sample-10_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-2_slice-20190418-slice-2_cell-20190418-sample-2_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-4_slice-20190418-slice-4_cell-20190418-sample-4_icephys.nwb
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+ - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
+ - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
+
+sub-mouse-HZREI/sub-mouse-HZREI_ses-20190418-sample-5_slice-20190418-slice-5_cell-20190418-sample-5_icephys.nwb
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
  - VectorIndex (general/intracellular_ephys/sweep_table/series_index): incorrect type - expected 'uint8', got 'int64'
  - VectorIndex/description (general/intracellular_ephys/sweep_table/series_index): argument missing
