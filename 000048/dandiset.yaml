@@ -1,8 +1,55 @@
 access:
 - status: dandi:Open
-description: Spiking activity and simultaneously recorded fluorescence signals in
+contributor:
+- name: Ledochowitsch, Peter
+  roleName:
+  - dandi:Author
+- name: Huang, Lawrence
+  roleName:
+  - dandi:Author
+- name: Knoblich, Ulf
+  roleName:
+  - dandi:Author
+- name: Oliver, Michael
+  roleName:
+  - dandi:Author
+- name: Lecoq, Jerome
+  roleName:
+  - dandi:Author
+- name: Reid, Clay
+  roleName:
+  - dandi:Author
+- name: Li, Lu
+  roleName:
+  - dandi:Author
+- name: Zeng, Hongkui
+  roleName:
+  - dandi:Author
+- name: Koch, Christof
+  roleName:
+  - dandi:Author
+- name: Waters, Jack
+  roleName:
+  - dandi:Author
+- name: Vries, Saskia E.J. de
+  roleName:
+  - dandi:Author
+- name: Buice, Michael A.
+  roleName:
+  - dandi:Author
+description: 'Spiking activity and simultaneously recorded fluorescence signals in
   transgenic mice expressing GCaMP6
+
+
+  We present a dataset consisting of simultaneously measured fluorescence and spiking
+  activity of pyramidal neurons in layer 2/3 of primary visual cortex in transgenic
+  mouse lines expressing genetically-encoded calcium indicators (GECIs) GCaMP6s or
+  GCaMP6f.
+
+
+  Reference: https://portal.brain-map.org/explore/circuits/oephys'
 identifier: DANDI:000048
-name: Allen Oephys
+name: Electrical and optical physiology in in vivo population-scale two-photon calcium
+  imaging
 repository: https://dandiarchive.org/
 schemaVersion: 0.2.0
