@@ -1,0 +1,7 @@
+access:
+- status: dandi:Open
+description: test dataset
+identifier: DANDI:000062
+name: test
+repository: https://dandiarchive.org/
+schemaVersion: 0.2.0
