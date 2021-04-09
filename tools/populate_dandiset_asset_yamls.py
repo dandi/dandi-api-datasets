@@ -62,7 +62,7 @@ def main():
                         print(file=fp)
                 try:
                     metadata = nwb2asset(
-                        f, digest=sha256_digest, digest_type="sha256"
+                        f, digest=sha256_digest, digest_type="sha2_256"
                     ).json_dict()
                 except Exception as e:
                     print(f"CONVERSION ERROR: {e}")
