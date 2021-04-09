@@ -39,6 +39,15 @@ contributor:
   - dandi:Methodology
 - affiliation:
   - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  name: Castelli, Filippo Maria
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:DataCurator
+  - dandi:ProjectMember
+  - dandi:Methodology
+- affiliation:
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   identifier: 0000-0002-5863-399X
   name: Pesce, Luca
   roleName:

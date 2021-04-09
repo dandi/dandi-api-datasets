@@ -50,9 +50,9 @@ Traceback (most recent call last):
     return func(args[0], **pargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 63, in generate_class
     class_generator.process_field_spec(classdict, docval_args, parent_cls, attr_name,
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 242, in process_field_spec
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 222, in process_field_spec
     dtype = cls._get_type(field_spec, type_map)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 203, in _get_type
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 183, in _get_type
     if spec.shape is None and spec.dims is None:
 AttributeError: 'NWBGroupSpec' object has no attribute 'shape'
 
