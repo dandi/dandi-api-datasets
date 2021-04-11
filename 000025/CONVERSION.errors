@@ -16,7 +16,7 @@ Traceback (most recent call last):
     return f(path, *args, **kwargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 68, in get_metadata
     meta.update(_get_pynwb_metadata(path))
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 183, in _get_pynwb_metadata
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 184, in _get_pynwb_metadata
     nwb = io.read()
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 431, in read
     return call_docval_func(super().read, kwargs)
