@@ -32,27 +32,27 @@ Traceback (most recent call last):
     result = self.__type_map.construct(builder, self, None)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 741, in construct
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 762, in construct
     obj_mapper = self.get_map(builder)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 661, in get_map
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 681, in get_map
     container_cls = self.get_cls(obj)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 594, in get_cls
-    return self.get_container_cls(namespace, data_type)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 614, in get_cls
+    return self.get_container_cls(data_type, namespace)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 499, in get_container_cls
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 509, in get_container_cls
     cls = self.__class_generator.generate_class(data_type, spec, parent_cls, attr_names, self)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
     return func(args[0], **pargs)
   File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 63, in generate_class
     class_generator.process_field_spec(classdict, docval_args, parent_cls, attr_name,
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 222, in process_field_spec
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 217, in process_field_spec
     dtype = cls._get_type(field_spec, type_map)
-  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 183, in _get_type
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/classgenerator.py", line 178, in _get_type
     if spec.shape is None and spec.dims is None:
 AttributeError: 'NWBGroupSpec' object has no attribute 'shape'
 
