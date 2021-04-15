@@ -1,0 +1,22 @@
+sub-Kibbles/sub-Kibbles_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 330, in nwb2asset
+    asset = metadata2asset(metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 379, in metadata2asset
+    return extract_model(models.BareAssetMeta, metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 243, in func
+    m = extract_model(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 234, in extract_model
+    value = kwargs.get(field, extract_field(field, metadata))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 303, in extract_field
+    return FIELD_EXTRACTORS[field](metadata)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 211, in extract_species
+    raise ValueError(f"Cannot interpret species field: {value}")
+ValueError: Cannot interpret species field: rat
+

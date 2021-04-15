@@ -1,0 +1,29 @@
+access:
+- status: dandi:Open
+contributor:
+- identifier: https://orcid.org/0000-0002-7499-3514
+  name: Ng, Lydia
+  roleName:
+  - dandi:ProjectLeader
+  - dandi:Conceptualization
+  - dandi:Author
+  - dandi:ContactPerson
+description: 'The reference space or brain template was constructed as a population
+  average of 1,675 young adult C57BL/6J mice brains imaged using serial two photon
+  tomography (STPT) for the Allen Mouse Brain Connectivity Atlas. The average template
+  was created from tissue autofluorescence detected in the red channel. To maximize
+  input data and create a symmetrical atlas, each dataset was reflected across the
+  midline, for a total of 3,350 (2 x 1,675) hemisphere datasets. Creation of the template
+  followed a two-step iterative process: (1) We deformably registered each specimen
+  to the current iteration of the template and computed an intensity average. (2)
+  We then computed the average deformation field, inverted it, and applied it to the
+  intensity average created in (1). This resulted in a volume with an average unbiased
+  shape and intensity to be used as the template in the next iteration until convergence.
+
+
+  The axes the average template volume is a +X=Posterior, +Y=Inferior(Ventral) and
+  +Z=Right frame with the origin at the corner of the volume.'
+identifier: DANDI:000066
+name: Allen Mouse Common Coordinate Framework - Average Brain Template
+repository: https://dandiarchive.org/
+schemaVersion: 0.2.0

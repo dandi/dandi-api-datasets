@@ -1,0 +1,8 @@
+access:
+- status: dandi:Open
+description: This is data produced by the Soltesz Lab NeuroH5 software. The data has
+  been converted to NWB using the ndx-simulation-output extension (https://github.com/catalystneuro/ndx-simulation-output).
+identifier: DANDI:000064
+name: Simulation extension example
+repository: https://dandiarchive.org/
+schemaVersion: 0.2.0
