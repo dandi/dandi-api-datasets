@@ -22,6 +22,7 @@ contributor:
   - dandi:ProjectMember
 - affiliation:
   - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  email: costantini@lens.unifi.it
   identifier: 0000-0002-8464-7324
   name: Costantini, Irene
   roleName:
@@ -39,6 +40,7 @@ contributor:
   - dandi:Methodology
 - affiliation:
   - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  identifier: 0000-0001-8170-8905
   name: Castelli, Filippo Maria
   roleName:
   - dandi:Author
@@ -71,9 +73,398 @@ contributor:
   roleName:
   - dandi:Author
   - dandi:ProjectLeader
+- affiliation:
+  - name: Bioretics Srl, Cesena (FC), Italy
+  email: roffilli@gmail.com
+  identifier: 0000-0002-7554-4470
+  name: Roffilli, Matteo
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Methodology
+- affiliation:
+  - name: European Laboratory for Non-linear Spectroscopy, University of Florence,Italy
+  email: silvestri@lens.unifi.it
+  identifier: 0000-0001-9215-9104
+  name: Silvestri, Ludovico
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Methodology
+- affiliation:
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+      Sinai, New York
+  email: patrick.hof@mssm.edu
+  identifier: 0000-0002-3208-1154
+  name: Hof, Patrick R.
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:Supervision
+  - dandi:ProjectLeader
+  - dandi:Methodology
+- affiliation:
+  - name: Boston University Neurophotonics Center, Boston, MA
+  email: dboas@bu.edu
+  identifier: 0000-0002-6709-7711
+  name: Boas, David A.
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:ProjectLeader
+  - dandi:Methodology
+  - dandi:Supervision
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  - name: CSAIL/HST, MIT, Cambridge, MA
+  email: fischl@nmr.mgh.harvard.edu
+  identifier: 0000-0002-2413-1115
+  name: Fischl, Bruce
+  roleName:
+  - dandi:Author
+  - dandi:FundingAcquisition
+  - dandi:Investigation
+  - dandi:ProjectLeader
+  - dandi:Supervision
+  - dandi:Methodology
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: lmorgan6@mgh.harvard.edu
+  identifier: 0000-0001-6859-734X
+  name: Morgan, Leah
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:DataCurator
+  - dandi:DataManager
+  - dandi:Methodology
+  - dandi:ProjectManager
+  - dandi:ProjectAdministration
+  - dandi:ProjectMember
+  - dandi:Researcher
+  - dandi:Supervision
+  - dandi:ContactPerson
+- affiliation:
+  - name: Boston University Neurophotonics Center, Boston, MA
+  email: jryang@bu.edu
+  identifier: 0000-0003-2759-776X
+  name: Yang, Jiarui
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: Boston University Neurophotonics Center, Boston, MA
+  email: shuaibin@bu.edu
+  name: Chang, Shuaibin
+- affiliation:
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+      Sinai, New York
+  email: jessie.laffey@mssm.edu
+  identifier: 0000-0002-7473-5558
+  name: Laffey, Jessie
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:DataCurator
+  - dandi:ProjectMember
+  - dandi:Methodology
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: cmagnain@mgh.harvard.edu
+  identifier: 0000-0003-4244-7380
+  name: Magnain, Caroline
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  email: dvaradarajan@mgh.harvard.edu
+  identifier: 0000-0002-3517-9739
+  name: Varadarajan, Divya
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:Producer
+  - dandi:ProjectMember
+  - dandi:Software
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: huiwang@nmr.mgh.harvard.edu
+  identifier: 0000-0003-0181-5845
+  name: Wang, Hui
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:Researcher
+  - dandi:Supervision
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  email: srfrost@mgh.harvard.edu
+  identifier: 0000-0002-2849-9240
+  name: Frost, Robert
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:DataCollector
+  - dandi:Producer
+  - dandi:Researcher
+  - dandi:Software
+  - dandi:Supervision
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: andre@nmr.mgh.harvard.edu
+  identifier: 0000-0002-2754-6594
+  name: Kouwe, Andre van der
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:FormalAnalysis
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:Producer
+  - dandi:Software
+  - dandi:Supervision
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: astevens@nmr.mgh.harvard.edu
+  identifier: 0000-0002-4978-0824
+  name: Player, Allison Stevens
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:Resources
+  - dandi:Researcher
+  - dandi:Supervision
+- affiliation:
+  - name: Centre for Medical Image Computing, Department of Medical Phisics and Biomedical
+      Engineering, University College London, UK
+  email: alessia.atzeni.14@ucl.ac.uk
+  identifier: 0000-0001-8320-230X
+  name: Atzeni, Alessia
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:Software
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: 'Centre for Medical Image Computing, University College London, United Kingdom  '
+  - name: CSAIL, MIT, Cambridge, MA
+  email: jiglesiasgonzalez@mgh.harvard.edu
+  name: Gonzalez, Juan Eugenio Iglesias
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:Researcher
+  - dandi:Software
+  - dandi:Supervision
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: ybalbastre@mgh.harvard.edu
+  identifier: 0000-0001-8758-9978
+  name: Balbastre, Yael
+  roleName:
+  - dandi:Author
+  - dandi:DataCollector
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:Producer
+  - dandi:ProjectMember
+  - dandi:Researcher
+  - dandi:Software
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: mvera2@mgh.harvard.edu
+  identifier: 0000-0003-2854-8775
+  name: Vera, Matthew
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: dccordero@mgh.harvard.edu
+  identifier: 0000-0003-2846-4571
+  name: Cordero, Devani
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: knestor1@mgh.harvard.edu
+  identifier: 0000-0002-3178-1300
+  name: Nestor, Kimberly
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: wammon@mgh.harvard.edu
+  identifier: 0000-0002-8952-979X
+  name: Ammon, William
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: jnolan5@mgh.harvard.edu
+  identifier: 0000-0001-7215-9107
+  name: Nolan, Jackson
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Software
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: jsmora@mgh.harvard.edu
+  identifier: 0000-0002-4241-408X
+  name: Mora, Jocelyn
+  roleName:
+  - dandi:DataCollector
+  - dandi:ProjectMember
+  - dandi:Researcher
+  - dandi:Methodology
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: egarciapallares@mgh.harvard.edu
+  identifier: 0000-0003-1524-6698
+  name: Pallares, Erendira Garcia
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: jean@nmr.mgh.harvard.edu
+  identifier: 0000-0001-7198-2548
+  name: Augustinack, Jean
+  roleName:
+  - dandi:Resources
+  - dandi:Supervision
+  - dandi:Investigation
+  - dandi:Methodology
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: bram.diamond@northwestern.edu
+  identifier: 0000-0002-9493-874X
+  name: Diamond, Bram
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:Researcher
+  - dandi:ProjectMember
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: m.fogarty@wustl.edu
+  identifier: 0000-0003-1334-1923
+  name: Fogarty, Morgan
+  roleName:
+  - dandi:DataCollector
+  - dandi:ProjectMember
+  - dandi:Researcher
+  - dandi:Methodology
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: eboyd@ucsd.edu
+  identifier: 0000-0002-6922-8092
+  name: Boyd, Emma
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+      Sinai, New York
+  email: merina.varghese@mssm.edu
+  identifier: 0000-0002-1517-3903
+  name: Varghese, Merina
+  roleName:
+  - dandi:DataCollector
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: adalca@mit.edu
+  identifier: 0000-0002-8422-0136
+  name: Dalca, Adrian V.
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:Researcher
+  - dandi:Software
+  - dandi:Supervision
+- affiliation:
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: bedlow@mgh.harvard.edu
+  name: Edlow, Brian
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:Resources
+  - dandi:Supervision
+- affiliation:
+  - name: Massachusetts General Hospital, Dept. of Pathology, Boston
+  email: mfrosch@mgh.harvard.edu
+  name: Frosche, Matthew
+  roleName:
+  - dandi:Author
+  - dandi:Investigation
+  - dandi:Resources
+  - dandi:Supervision
+- affiliation:
+  - name: Boston University Neurophotonics Center, Boston, MA
+  email: chena11@bu.edu
+  name: Chen, I-Chun Anderson
+  roleName:
+  - dandi:DataCollector
+  - dandi:Investigation
+  - dandi:Methodology
+  - dandi:ProjectMember
+  - dandi:Researcher
+- affiliation:
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+      Sinai, New York
+  email: bridget.wicinski@mssm.edu
+  identifier: 0000-0002-2972-7081
+  name: Wicinski, Bridget
+  roleName:
+  - dandi:DataCollector
+  - dandi:ProjectMember
+  - dandi:Researcher
 - awardNumber: 1U01MH117023-01
   name: Health, General Hospital Corporation Center of the National Institutes of
   roleName:
+  - dandi:Sponsor
+- roleName:
+  - dandi:Sponsor
+- roleName:
   - dandi:Sponsor
 description: 'We still lack a detailed map of the anatomical disposition of neurons
   in the human brain. Obtaining a complete map would help deeply understand the brain
@@ -91,10 +482,11 @@ keywords:
 - multi-modal imaging
 - MRI
 - OCT
-- LSFM
+- SPIM
 - human cortex
 - Broca's area
 - Motor cortex
+- Stereology
 name: U01MH117023
 repository: https://dandiarchive.org/
 schemaVersion: 0.2.0

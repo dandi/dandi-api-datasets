@@ -1,0 +1,3 @@
+sub-Kibbles/sub-Kibbles_behavior+ecephys.nwb
+ - TimeSeries/data/unit (processing/camera_sample_frame_counts/camera_frame_counts/data): argument missing
+

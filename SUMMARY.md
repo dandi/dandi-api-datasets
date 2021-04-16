@@ -21,11 +21,15 @@
 20. 000035
 21. 000037
 22. 000041
+23. 000064
+24. 000065
 
 # Dandisets with Conversion Errors
 1. 000019
 2. 000025
 3. 000034
+4. 000064
+5. 000065
 
 # Dandisets with Validation Errors
 

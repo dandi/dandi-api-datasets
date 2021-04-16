@@ -1,0 +1,123 @@
+sub-Kibbles/sub-Kibbles_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1244, in construct
+    obj = self.__new_container__(cls, builder.source, parent, builder.attributes.get(self.__spec.id_key()),
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1254, in __new_container__
+    obj.__init__(**kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 672, in __init__
+    MultiContainerInterface.__init__(self, *pargs, **pkwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 579, in func_call
+    pargs = _check_args(args, kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 572, in _check_args
+    raise ExceptionType(msg)
+TypeError: MultiContainerInterface.__init__: Expected at most 1 arguments ['name'], got 9: 1 positional and 8 keyword ['comments', 'conversion', 'description', 'external_file', 'format', 'resolution', 'starting_frame', 'timestamps']
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 318, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 84, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 68, in get_metadata
+    meta.update(_get_pynwb_metadata(path))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 184, in _get_pynwb_metadata
+    nwb = io.read()
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 431, in read
+    return call_docval_func(super().read, kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 423, in call_docval_func
+    return func(*fargs, **fkwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/backends/io.py", line 41, in read
+    container = self.__manager.construct(f_builder)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 282, in construct
+    result = self.__type_map.construct(builder, self, None)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 962, in construct
+    return obj_mapper.construct(builder, build_manager, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1214, in construct
+    subspecs = self.__get_subspec_values(builder, self.spec, manager)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1143, in __get_subspec_values
+    self.__get_sub_builders(groups, spec.groups, manager, ret)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1194, in __get_sub_builders
+    ret.update(self.__get_subspec_values(sub_builder, subspec, manager))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1143, in __get_subspec_values
+    self.__get_sub_builders(groups, spec.groups, manager, ret)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1186, in __get_sub_builders
+    sub_builder = self.__flatten(sub_builder, subspec, manager)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1199, in __flatten
+    tmp = [manager.construct(b) for b in sub_builder]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1199, in <listcomp>
+    tmp = [manager.construct(b) for b in sub_builder]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
+    result = self.__type_map.construct(builder, self, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 962, in construct
+    return obj_mapper.construct(builder, build_manager, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1214, in construct
+    subspecs = self.__get_subspec_values(builder, self.spec, manager)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1143, in __get_subspec_values
+    self.__get_sub_builders(groups, spec.groups, manager, ret)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1186, in __get_sub_builders
+    sub_builder = self.__flatten(sub_builder, subspec, manager)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1199, in __flatten
+    tmp = [manager.construct(b) for b in sub_builder]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1199, in <listcomp>
+    tmp = [manager.construct(b) for b in sub_builder]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
+    result = self.__type_map.construct(builder, self, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 962, in construct
+    return obj_mapper.construct(builder, build_manager, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1214, in construct
+    subspecs = self.__get_subspec_values(builder, self.spec, manager)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1143, in __get_subspec_values
+    self.__get_sub_builders(groups, spec.groups, manager, ret)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1186, in __get_sub_builders
+    sub_builder = self.__flatten(sub_builder, subspec, manager)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1199, in __flatten
+    tmp = [manager.construct(b) for b in sub_builder]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1199, in <listcomp>
+    tmp = [manager.construct(b) for b in sub_builder]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 278, in construct
+    result = self.__type_map.construct(builder, self, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 962, in construct
+    return obj_mapper.construct(builder, build_manager, parent)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/objectmapper.py", line 1248, in construct
+    raise ConstructError(builder, msg) from ex
+hdmf.build.errors.ConstructError: (root/processing/video_files/video/20170203_KIB_01_s1.1.h264 GroupBuilder {'attributes': {'comments': 'no comments', 'description': 'video of animal behavior from epoch', 'namespace': 'ndx-franklab-novela', 'neurodata_type': 'NwbImageSeries', 'object_id': 'b6a33b7f-68a6-41ab-a4eb-c9b06fc82f6b'}, 'groups': {}, 'datasets': {'external_file': root/processing/video_files/video/20170203_KIB_01_s1.1.h264/external_file DatasetBuilder {'attributes': {'starting_frame': array([0])}, 'data': <Closed HDF5 dataset>}, 'format': root/processing/video_files/video/20170203_KIB_01_s1.1.h264/format DatasetBuilder {'attributes': {}, 'data': 'external'}, 'timestamps': root/processing/video_files/video/20170203_KIB_01_s1.1.h264/timestamps DatasetBuilder {'attributes': {'interval': 1, 'unit': 'seconds'}, 'data': <Closed HDF5 dataset>}}, 'links': {'camera_device 0': root/processing/video_files/video/20170203_KIB_01_s1.1.h264/camera_device 0 LinkBuilder {'builder': root/general/devices/camera_device 0 GroupBuilder {'attributes': {'camera_name': 'sleep camera', 'lens': 'Unknown', 'manufacturer': 'Unknown', 'meters_per_pixel': 0.00055, 'model': 'Unknown', 'namespace': 'ndx-franklab-novela', 'neurodata_type': 'CameraDevice', 'object_id': '9e3fa905-100a-4905-9744-c39268747c74'}, 'groups': {}, 'datasets': {}, 'links': {}}}}}, "Could not construct NwbImageSeries object due to: MultiContainerInterface.__init__: Expected at most 1 arguments ['name'], got 9: 1 positional and 8 keyword ['comments', 'conversion', 'description', 'external_file', 'format', 'resolution', 'starting_frame', 'timestamps']")
+

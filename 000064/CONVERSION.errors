@@ -1,0 +1,48 @@
+sub-001/sub-001.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 64, in main
+    metadata = nwb2asset(
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 318, in nwb2asset
+    metadata = get_metadata(nwb_path)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 116, in fingerprinter
+    ret = fingerprinted(path, *args, **kwargs_)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/joblib/memory.py", line 591, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/joblib/memory.py", line 534, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/joblib/memory.py", line 761, in call
+    output = self.func(*args, **kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/fscacher/cache.py", line 84, in fingerprinted
+    return f(path, *args, **kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/metadata.py", line 68, in get_metadata
+    meta.update(_get_pynwb_metadata(path))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/dandi/pynwb_utils.py", line 183, in _get_pynwb_metadata
+    with NWBHDF5IO(path, "r", load_namespaces=True) as io:
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/pynwb/__init__.py", line 230, in __init__
+    super(NWBHDF5IO, self).load_namespaces(tm, path, file=file_obj)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 131, in load_namespaces
+    return cls.__load_namespaces(namespace_catalog, namespaces, f)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/backends/hdf5/h5tools.py", line 179, in __load_namespaces
+    d.update(namespace_catalog.load_namespaces('namespace', reader=reader))
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/build/manager.py", line 460, in load_namespaces
+    deps = call_docval_func(self.__ns_catalog.load_namespaces, kwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 423, in call_docval_func
+    return func(*fargs, **fkwargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/spec/namespace.py", line 490, in load_namespaces
+    ret[ns['name']] = self.__load_namespace(ns, reader, types_key, resolve=resolve)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/spec/namespace.py", line 447, in __load_namespace
+    catalog.register_spec(spec, spec_file)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/utils.py", line 580, in func_call
+    return func(args[0], **pargs)
+  File "/home/dandi/cronlib/dandi-api-datasets/.cronlib/venv/lib/python3.8/site-packages/hdmf/spec/catalog.py", line 45, in register_spec
+    raise ValueError("'%s' - cannot overwrite existing specification" % type_name)
+ValueError: 'Data' - cannot overwrite existing specification
+
