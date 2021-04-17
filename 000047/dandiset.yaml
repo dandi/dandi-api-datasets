@@ -1,7 +1,8 @@
 access:
 - status: dandi:Open
 description: '...'
+id: DANDI:000047/draft
 identifier: DANDI:000047
 name: Test
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

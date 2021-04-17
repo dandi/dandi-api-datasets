@@ -1,0 +1,1666 @@
+sub-353936/sub-353936_ses-20170519_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170608_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170609_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170610_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170611_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170612_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170617_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170618_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170619_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170621_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170622_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170623_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170624_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353936/sub-353936_ses-20170625_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170612_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170614_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170615_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170616_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170617_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170618_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170619_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170621_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170622_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170623_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170624_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170625_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170626_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170628_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170629_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170630_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353938/sub-353938_ses-20170701_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170112_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170113_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170114_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170115_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170116_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170119_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170120_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170122_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170123_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170124_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-353939/sub-353939_ses-20170125_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359855/sub-359855_ses-20161220_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359855/sub-359855_ses-20161221_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359855/sub-359855_ses-20161222_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170218_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170219_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170220_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170221_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170222_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170223_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170224_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170227_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170228_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170301_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170302_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170303_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-359856/sub-359856_ses-20170309_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171017_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171019_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171020_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171021_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171024_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171025_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171027_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171030_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171031_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171101_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171102_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365938/sub-365938_ses-20171103_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171017_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171018_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171019_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171020_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171021_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171102_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365939/sub-365939_ses-20171103_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170708_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170709_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170710_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170711_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170712_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170713_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170714_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170715_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170717_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170718_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170719_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170720_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170724_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170725_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365942/sub-365942_ses-20170726_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365943/sub-365943_ses-20170708_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365943/sub-365943_ses-20170711_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365943/sub-365943_ses-20170712_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365943/sub-365943_ses-20170713_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365943/sub-365943_ses-20170719_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-365943/sub-365943_ses-20170720_behavior+ecephys+ogen.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+

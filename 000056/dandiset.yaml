@@ -27,6 +27,7 @@ description: The head-direction (HD) system functions as a compass, with member 
   sleep. These findings demonstrate that peripheral inputs impinge on an internally
   organized network, which provides amplification and enhanced precision of the HD
   signal.
+id: DANDI:000056/draft
 identifier: DANDI:000056
 keywords:
 - ''
@@ -35,4 +36,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/nn.3968
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

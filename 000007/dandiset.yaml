@@ -31,13 +31,14 @@ contributor:
   - dandi:Author
   - dandi:ContactPerson
 description: Extracelluar recording in ALM
+id: DANDI:000007/draft
 identifier: DANDI:000007
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: A cortico-cerebellar loop for motor planning
 relatedResource:
 - identifier: doi:10.1038/s41586-018-0633-x
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41586-018-0633-x
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

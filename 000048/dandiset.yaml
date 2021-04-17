@@ -48,8 +48,9 @@ description: 'Spiking activity and simultaneously recorded fluorescence signals 
 
 
   Reference: https://portal.brain-map.org/explore/circuits/oephys'
+id: DANDI:000048/draft
 identifier: DANDI:000048
 name: Electrical and optical physiology in in vivo population-scale two-photon calcium
   imaging
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

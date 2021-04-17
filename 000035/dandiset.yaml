@@ -72,7 +72,8 @@ contributor:
   - dandi:Author
 description: This dataset contains rectangular stimulation of cell under temperature-controlled
   conditions (34 ℃)
+id: DANDI:000035/draft
 identifier: DANDI:000035
 name: Temperature-controlled intracellular ephys in mouse motor cortex
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

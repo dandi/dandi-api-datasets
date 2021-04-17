@@ -1,7 +1,8 @@
 access:
 - status: dandi:Open
 description: Test-2 description
+id: DANDI:000033/draft
 identifier: DANDI:000033
 name: Test-2 dataset
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

@@ -59,6 +59,7 @@ description: "Allen Institute October 2019 Mouse extracellular electrophysiology
   experiments, with mice shown a subset of stimuli with a higher number of repeats.
   \n\nFor more information, see https://portal.brain-map.org/explore/circuits/visual-coding-neuropixels\n\nData
   are subject to Allen Institute Terms of Use policy, available at: http://www.alleninstitute.org/legal/terms-use/\n"
+id: DANDI:000022/draft
 identifier: DANDI:000022
 keywords:
 - electrophysiology
@@ -68,4 +69,4 @@ keywords:
 - signal processing
 name: 20191003_AIBS_mouse_ecephys_functional_connectivity
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

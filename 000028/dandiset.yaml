@@ -5,7 +5,8 @@ description: A 10 minute Neuropixels recording simulated using the MEArec Python
   detailed neurons (200 excitatory and 50 inhibitory cells from the Neocortical Micro
   Circuit Portal with independent Poisson firing patterns, and additive Gaussian noise
   with 10uV standard deviation.
+id: DANDI:000028/draft
 identifier: DANDI:000028
 name: Simulated cortical Neuropixels recording with ground truth
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

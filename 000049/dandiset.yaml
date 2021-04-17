@@ -7,9 +7,10 @@ contributor:
   - dandi:ContactPerson
   - dandi:Author
 description: Allen Institute MindScope project
+id: DANDI:000049/draft
 identifier: DANDI:000049
 keywords:
 - Mouse
 name: Allen Institute – TFxSF tuning in mouse visual cortex with calcium imaging
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

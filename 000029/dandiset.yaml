@@ -7,9 +7,10 @@ contributor:
   - dandi:Author
 description: Should be ignored by regular mortals, and not relied upon being static
   or ever correct
+id: DANDI:000029/draft
 identifier: DANDI:000029
 keywords:
 - development
 name: Test dataset for development purposes
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

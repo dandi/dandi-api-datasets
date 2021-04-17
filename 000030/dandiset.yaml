@@ -6,7 +6,8 @@ description: A Neuropixels recording from a head-fixed mouse acquired at the All
   inserted in the brain tissue or below a firing rate of 0.1~Hz), and a sampling frequency
   of 30~kHz. The probe records from part of the cortex (V1), the hippocampus (CA1),
   the dentate gyrus, and the thalamus (LP).
+id: DANDI:000030/draft
 identifier: DANDI:000030
 name: Allen Brain Observatory Neuropixels recording
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

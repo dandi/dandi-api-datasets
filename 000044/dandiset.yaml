@@ -24,6 +24,7 @@ description: This data set is composed of eight bilateral silicon-probe multi-ce
   epochs. In addition to hippocampal electrophysiological recordings, neck EMG and
   head-mounted accelerometer signals were recorded, and the animal’s position during
   MAZE running epochs was tracked via head-mounted LEDs.
+id: DANDI:000044/draft
 identifier: DANDI:000044
 name: Diversity in neural firing dynamics supports both rigid and learned hippocampal
   sequences
@@ -35,4 +36,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/srep32193
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

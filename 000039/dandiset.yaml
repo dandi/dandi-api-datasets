@@ -20,6 +20,7 @@ description: "A two photon calcium imaging dataset from Allen Institute measurin
   and have the same visual stimulus monitor calibration and positioning, two photon
   imaging systems and image processing pipeline, and running wheel to track locomotion.\n\n
   Data are subject to Allen Institute Terms of Use policy, available at: http://www.alleninstitute.org/legal/terms-use/"
+id: DANDI:000039/draft
 identifier: DANDI:000039
 keywords:
 - vision
@@ -33,4 +34,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://elifesciences.org/articles/55130
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

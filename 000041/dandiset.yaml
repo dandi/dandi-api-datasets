@@ -27,6 +27,7 @@ description: 'Data was recorded using silicon probe electrodes in the frontal co
   995 putative excitatory units and 126 putative inhibitory units. Only recordings
   including a “WAKE-SLEEP” episode wherein at least 7 minutes of wake are followed
   by 20 minutes of sleep. On average 2 such WAKE-SLEEP episodes per recording session. '
+id: DANDI:000041/draft
 identifier: DANDI:000041
 keywords:
 - Firing patterns
@@ -39,4 +40,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.sciencedirect.com/science/article/pii/S0896627316300563
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

@@ -1,7 +1,8 @@
 access:
 - status: dandi:Open
 description: asdf
+id: DANDI:000046/draft
 identifier: DANDI:000046
 name: asdf
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

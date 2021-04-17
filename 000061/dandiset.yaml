@@ -22,8 +22,9 @@ description: The consolidation of context-dependent emotional memory requires co
   the run direction that involved the air puff than for the 'safe' direction. These
   findings suggest that consolidation of contextual emotional memory occurs during
   ripple-reactivation of hippocampus–amygdala circuits.
+id: DANDI:000061/draft
 identifier: DANDI:000061
 name: Reactivations of emotional memory in the hippocampus–amygdala system during
   sleep
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

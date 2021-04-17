@@ -24,9 +24,10 @@ contributor:
   - dandi:Author
 description: Data from "A motor cortex circuit for motor planning and movement" Li
   et al. Nature 2015
+id: DANDI:000010/draft
 identifier: DANDI:000010
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: A motor cortex circuit for motor planning and movement
 relatedResource:
 - identifier: doi:10.1038/nature14178
@@ -35,4 +36,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nature14178
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

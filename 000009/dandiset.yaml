@@ -33,13 +33,14 @@ description: We recorded spikes from the ALM and thalamus during tactile discrim
   of ALM activity. Similarly, photoinhibition of the ALM diminished  thalamic activity.
   Our results show that the thalamus is a circuit hub in  motor preparation and suggest
   that persistent activity requires reciprocal  excitation across multiple brain areas.
+id: DANDI:000009/draft
 identifier: DANDI:000009
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: Maintenance of persistent activity in a frontal thalamocortical loop
 relatedResource:
 - identifier: doi:10.1038/nature22324
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nature22324
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

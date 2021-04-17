@@ -1,0 +1,85 @@
+sub-RAT123/sub-RAT123.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-anm372793/sub-anm372793_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-anm369962/sub-anm369962_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-anm369963/sub-anm369963_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+
+sub-anm369964/sub-anm369964_behavior+ecephys.nwb
+Traceback (most recent call last):
+  File "tools/populate_dandiset_asset_yamls.py", line 77, in main
+    BareAssetMeta(**metadata)
+  File "pydantic/main.py", line 400, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 5 validation errors for BareAssetMeta
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Project' (type=value_error.const; given=Session; permitted=('Project',))
+wasGeneratedBy -> 0 -> name
+  field required (type=value_error.missing)
+wasGeneratedBy -> 0 -> schemaKey
+  unexpected value; permitted: 'Activity' (type=value_error.const; given=Session; permitted=('Activity',))
+

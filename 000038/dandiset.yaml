@@ -1,7 +1,8 @@
 access:
 - status: dandi:Open
 description: I am just wondering what happens after I do thiis
+id: DANDI:000038/draft
 identifier: DANDI:000038
 name: Testytest
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

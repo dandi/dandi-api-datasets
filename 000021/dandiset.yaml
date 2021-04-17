@@ -58,6 +58,7 @@ description: "Allen Institute October 2019 Mouse extracellular electrophysiology
   approximately matching two-photon brain observatory stimulus set. \n\nFor more information,
   see https://portal.brain-map.org/explore/circuits/visual-coding-neuropixels\n\nData
   are subject to Allen Institute terms of use, available at: http://www.alleninstitute.org/legal/terms-use/"
+id: DANDI:000021/draft
 identifier: DANDI:000021
 keywords:
 - electrophysiology
@@ -67,4 +68,4 @@ keywords:
 - signal processing
 name: 20191003_AIBS_mouse_ecephys_brain_observatory_1_1
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0
