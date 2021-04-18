@@ -52,6 +52,7 @@ description: 'This dataset was collected for the Credit Assignment project, as p
   Each session file includes: (1) ROI dF/F traces, (2) ROI masks, (3) running velocity
   traces, (4) pupil diameter traces, (5) stimulus parameters, and (6) stimulus frame
   images.'
+id: DANDI:000037/draft
 identifier: DANDI:000037
 keywords:
 - learning
@@ -66,7 +67,7 @@ keywords:
 - prediction
 - credit assignment
 license:
-- dandi:CCBYNC40
+- spdx:CC-BY-NC-4.0
 name: Allen Institute Openscope - Credit Assignment project
 relatedResource:
 - identifier: credit_assignement
@@ -83,4 +84,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1.article-info
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

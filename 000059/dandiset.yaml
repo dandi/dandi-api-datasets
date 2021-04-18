@@ -19,6 +19,7 @@ description: 'Hippocampal theta oscillations coordinate neuronal firing to suppo
   preserved distance-phase compression of place field sequences within the theta cycle.
   Thus, the septum is critical for sustaining precise theta phase coordination of
   cell assemblies in the hippocampal system, a mechanism needed for spatial memory.'
+id: DANDI:000059/draft
 identifier: DANDI:000059
 name: Cooling of Medial Septum Reveals Theta Phase Lag Coordination of Hippocampal
   Cell Assemblies
@@ -26,4 +27,4 @@ relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.sciencedirect.com/science/article/abs/pii/S0896627320303925
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

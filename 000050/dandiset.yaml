@@ -1,7 +1,8 @@
 access:
 - status: dandi:Open
 description: Allen Institute for Brain Science, MindScope Project.
+id: DANDI:000050/draft
 identifier: DANDI:000050
 name: Allen Institute - Run Tuning in the Mouse Visual Cortex
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

@@ -34,10 +34,11 @@ description: Motor behaviors are central to many functions and dysfunctions of t
   were reach angle and day of recording. Our work is among the first studies connecting
   behavioral and neural variability across cortex in humans during unstructured movements
   and contributes to our understanding of long-term naturalistic behavior.
+id: DANDI:000055/draft
 identifier: DANDI:000055
 name: Behavioral and Neural Variability of Naturalistic Arm Movements
 relatedResource:
 - relation: dandi:IsDescribedBy
   url: https://www.biorxiv.org/content/10.1101/2020.04.17.047357v2
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

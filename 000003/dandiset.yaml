@@ -19,6 +19,7 @@ contributor:
 description: Data from "Layer-Specific Physiological Features and Interlaminar Interactions
   in the Primary Visual Cortex of the Mouse" Senzai, Fernandez-Ruiz, Buzsaki, Neuron
   2019. Electrophysiology recordings of hippocampus during theta maze exploration.
+id: DANDI:000003/draft
 identifier: DANDI:000003
 keywords:
 - alpha rhyth
@@ -31,7 +32,7 @@ keywords:
 - primary visual cortex
 - sleep
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: Layer-Specific Physiological Features and Interlaminar Interactions in the Primary
   Visual Cortex of the Mouse
 relatedResource:
@@ -39,4 +40,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1016/j.neuron.2016.12.011
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

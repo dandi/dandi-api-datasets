@@ -198,6 +198,7 @@ description: 'A challenge for data sharing in systems neuroscience is the multit
   data and code release is a case study for how to utilize NWB:N for human single-neuron
   recordings and enables easy re-use of this hard-to-obtain data for both teaching
   and research on the mechanisms of human memory.'
+id: DANDI:000004/draft
 identifier: DANDI:000004
 keywords:
 - cognitive neuroscience
@@ -210,7 +211,7 @@ keywords:
 - open source
 - single-neurons
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: A NWB-based dataset and processing pipeline of human single-neuron activity
   during a declarative memory task
 relatedResource:
@@ -224,4 +225,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41597-020-0415-9
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

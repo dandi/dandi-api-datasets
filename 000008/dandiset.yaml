@@ -68,9 +68,10 @@ contributor:
   - dandi:Author
   - dandi:ContactPerson
 description: Data from the Tolias Lab shared in the BICCN project
+id: DANDI:000008/draft
 identifier: DANDI:000008
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: Phenotypic variation within and across transcriptomic cell types in mouse motor
   cortex
 relatedResource:
@@ -78,4 +79,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.biorxiv.org/content/10.1101/2020.02.03.929158v1.full
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

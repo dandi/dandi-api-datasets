@@ -28,10 +28,11 @@ description: 'The enclosed data is collected using a high-density 256-channel el
   silent, which can be used as a baseline. Hand-marked anatomical labels are included
   for electrodes in the relevant brain regions. All dates have been removed for HIPAA
   compliance and replaced with Jan 1, 1900.'
+id: DANDI:000019/draft
 identifier: DANDI:000019
 keywords:
 - electrocorticography (ECoG)
 - speech production
 name: Human ECoG speaking consonant-vowel syllables
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

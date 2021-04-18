@@ -12,7 +12,8 @@ contributor:
   roleName:
   - dandi:Author
 description: Data from the Kriegstein Lab as part of the BICCN
+id: DANDI:000012/draft
 identifier: DANDI:000012
 name: Kriegstein2020
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

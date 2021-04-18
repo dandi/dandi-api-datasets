@@ -25,13 +25,14 @@ contributor:
 description: intracellular and extracellular electrophysiology recordings performed
   on mouse barrel cortex and ventral posterolateral nucleus (vpm) in whisker-based
   object locating task.
+id: DANDI:000005/draft
 identifier: DANDI:000005
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: Electrophysiology data from thalamic and cortical neurons during somatosensation
 relatedResource:
 - identifier: doi:10.1038/nn.4412
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nn.4412
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

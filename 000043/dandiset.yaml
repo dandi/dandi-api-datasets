@@ -27,10 +27,11 @@ contributor:
   - dandi:Conceptualization
 description: Patch clamp recordings from human premotor cortex, macaque M1 and mouse
   MOp.
+id: DANDI:000043/draft
 identifier: DANDI:000043
 keywords:
 - Patch-seq, Motor cortex, Betz cell, Human, Macaque, Mouse
 - ''
 name: Human, macaque, and mouse L5 pyramidal neuron physiology
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

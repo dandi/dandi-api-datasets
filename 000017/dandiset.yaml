@@ -23,15 +23,16 @@ contributor:
   - dandi:DataCurator
 description: Data from "Distributed coding of choice, action and engagement across
   the mouse brain" Steinmetz et. al Nature 2019
+id: DANDI:000017/draft
 identifier: DANDI:000017
 keywords:
 - neuropixels
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: Distributed coding of choice, action and engagement across the mouse brain
 relatedResource:
 - identifier: DOI:10.1038/s41586-019-1787-x
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41586-019-1787-x
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

@@ -23,13 +23,14 @@ contributor:
   - dandi:Author
 description: Data from "Low-noise encoding of active touch by layer 4 in the somatosensory
   cortex" Hires, Gutnisky et al. Elife 2015
+id: DANDI:000013/draft
 identifier: DANDI:000013
 license:
-- dandi:CCBY40
+- spdx:CC-BY-4.0
 name: Low-noise encoding of active touch by layer 4 in the somatosensory cortex
 relatedResource:
 - identifier: doi:10.7554/eLife.06619.001
   relation: dandi:IsDescribedBy
   url: https://elifesciences.org/articles/06619
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

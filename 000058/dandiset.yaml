@@ -1,7 +1,8 @@
 access:
 - status: dandi:Open
 description: '7T MR structural images. B0 and B1+ code corrected parameter maps. '
+id: DANDI:000058/draft
 identifier: DANDI:000058
 name: MITU01 Dataset
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

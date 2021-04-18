@@ -23,7 +23,8 @@ description: 'The reference space or brain template was constructed as a populat
 
   The axes the average template volume is a +X=Posterior, +Y=Inferior(Ventral) and
   +Z=Right frame with the origin at the corner of the volume.'
+id: DANDI:000066/draft
 identifier: DANDI:000066
 name: Allen Mouse Common Coordinate Framework - Average Brain Template
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

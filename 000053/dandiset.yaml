@@ -47,6 +47,7 @@ description: This dataset contains two task types. The first is tetrode recordin
   from medial entorhinal cortex during open field navigation with simultaneous inertial
   measurements of the head, and the second is Neuropixel recordings from medial entorhinal
   cortex during navigation down a virtual linear track with simultaneous eye measurements.
+id: DANDI:000053/draft
 identifier: DANDI:000053
 keywords:
 - neuropixel
@@ -57,4 +58,4 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41467-021-20936-8
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

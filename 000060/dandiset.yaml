@@ -20,6 +20,7 @@ description: "Extracellular electrophysiology recordings in anterior lateral mot
   cortex and in vibrissal sensory cortex in mice trained to detect optogenetic stimulation
   of the vibrissal sensory cortex.\n\nThe data analysis code for this dataset is available
   here: \n https://github.com/arsenyf/FinkelsteinFontolan_2021NN"
+id: DANDI:000060/draft
 identifier: DANDI:000060
 keywords:
 - motor cortex
@@ -30,4 +31,4 @@ keywords:
 name: Dataset for Finkelstein, Fontolan et al. "Attractor dynamics gate cortical information
   flow during decision-making"
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0

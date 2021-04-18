@@ -477,6 +477,7 @@ description: 'We still lack a detailed map of the anatomical disposition of neur
   multi-modal imaging via MRI, OCT and LSFM. We perform volumetric imaging of the
   Broca’s Area and the Motor Cortex from the left hemisphere of a single human brain,
   towards generating a cell census for the human cortex.'
+id: DANDI:000026/draft
 identifier: DANDI:000026
 keywords:
 - multi-modal imaging
@@ -489,4 +490,4 @@ keywords:
 - Stereology
 name: U01MH117023
 repository: https://dandiarchive.org/
-schemaVersion: 0.2.0
+schemaVersion: 0.3.0
