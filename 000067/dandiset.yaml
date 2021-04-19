@@ -1,0 +1,21 @@
+access:
+- status: dandi:Open
+description: Although short-term plasticity is believed to play a fundamental role
+  in cortical computation, empirical evidence bearing on its role during behavior
+  is scarce. Here we looked for the signature of short-term plasticity in the fine-timescale
+  spiking relationships of a simultaneously recorded population of physiologically
+  identified pyramidal cells and interneurons, in the medial prefrontal cortex of
+  the rat, in a working memory task. On broader timescales, sequentially organized
+  and transiently active neurons reliably differentiated between different trajectories
+  of the rat in the maze. On finer timescales, putative monosynaptic interactions
+  reflected short-term plasticity in their dynamic and predictable modulation across
+  various aspects of the task, beyond a statistical accounting for the effect of the
+  neurons' co-varying firing rates. Seeking potential mechanisms for such effects,
+  we found evidence for both firing pattern–dependent facilitation and depression,
+  as well as for a supralinear effect of presynaptic coincidence on the firing of
+  postsynaptic targets.
+id: DANDI:000067/draft
+identifier: DANDI:000067
+name: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
+repository: https://dandiarchive.org/
+schemaVersion: 0.3.0
