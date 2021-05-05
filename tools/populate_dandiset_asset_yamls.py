@@ -30,6 +30,7 @@ def main():
             dspath = dspath.parent
         assert dspath.is_dir()
         outdir = Path(dspath.name)
+        outdir.mkdir(parents=True, exist_ok=True)
         pynwb_errs = outdir / "NWB-VALIDATION.errors"
         conversion_errs = outdir / "CONVERSION.errors"
         validation_errs = outdir / "VALIDATION.errors"
